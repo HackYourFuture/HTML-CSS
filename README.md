@@ -75,9 +75,9 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Assignment:
  * Remake an existing website: choose one of the following
-  ..*
-  ..*
-  ..*
+  *
+  *
+  *
  * It should have an external CSS file
  * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
@@ -86,10 +86,10 @@ Also we will go into the DOM and file structure. There will be time spent on why
 ## Lecture 3
  * Presentations of students website remakes
  * Repeat topics of last two weeks:
-  ..* Understand why/ how to use which language
-  ..* Media-queries
-  ..* DOM
-  ..* File structure, external links
+   * Understand why/ how to use which language
+   * Media-queries
+   * DOM
+   * File structure, external links
  * How to find information on the web
  * Task: find some info about a certain topic in groups of 2, present to each other
  * Sizes in CSS: relative and absolute sizes
