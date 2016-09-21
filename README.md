@@ -29,27 +29,27 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Assignment:
  * Make your own web resume:
-  ..* One page 
-  ..* Two files: HTML and CSS
-  ..* Include the following:
-  	...* Your personal info (name, place of birth, etc.)
-  	...* A picture
-  	...* A few lines about who you are
-  	...* Education
-  	...* Work experience
-  ..* Include the following:
-  	...* Different types of headings (h1, h2)
-  	...* A list (ul)
-  	...* img
-  	...* p
-  	...* Some css properties: margin, padding 
-  	...* Make shore that you page is nice to read
-  ..* upload in a zip
+    * One page 
+    * Two files: HTML and CSS
+    * Include the following:
+  	    * Your personal info (name, place of birth, etc.)
+  	    * A picture
+  	    * A few lines about who you are
+  	    * Education
+  	    * Work experience
+    * Include the following:
+  	    * Different types of headings (h1, h2)
+  	    * A list (ul)
+  	    * img
+  	    * p
+  	    * Some css properties: margin, padding 
+  	    * Make shore that you page is nice to read
+    * upload in a zip
 
 
 ### Extra material:
  * Next week reading/ practice (these topics will be discussed next week but If you want to read ahead):
- ..* Next week we will talk about media queries, if you already want to start reading about this subject check out this link:
+    * Next week we will talk about media queries, if you already want to start reading about this subject check out this link:
 
 
 
@@ -75,9 +75,9 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Assignment:
  * Remake an existing website: choose one of the following
-  *
-  *
-  *
+   *
+   *
+   *
  * It should have an external CSS file
  * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
@@ -100,10 +100,10 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Assignment:
  * Choose one of the following subjects, look up how it works and implement it in a webpage
-   ..* CSS transitions
-   ..* CSS animations with keyframes
-   ..* SVG
-   ..* Dropdown menu in CSS?
-   ..* Using external fonts or icon packs?
-   ..* Bootstrap
-   ..* [more options?]
+    * CSS transitions
+    * CSS animations with keyframes
+    * SVG
+    * Dropdown menu in CSS?
+    * Using external fonts or icon packs?
+    * Bootstrap
+    * [more options?]
