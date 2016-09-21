@@ -69,8 +69,10 @@ Also we will go into the DOM and file structure. There will be time spent on why
  * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  * [Article about mulitiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/)
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
+
 ### Exercises:
  * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
 ### Assignment:
  * Remake an existing website: choose one of the following
  ..*
