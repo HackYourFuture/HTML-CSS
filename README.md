@@ -49,13 +49,16 @@ Also we will go into the DOM and file structure. There will be time spent on why
  * Next week reading/ practice (these topics will be discussed next week but If you want to read ahead):
  ..* Next week we will talk about media queries, if you already want to start reading about this subject check out this link:
 
- ## Lecture 2 
+
+## Lecture 2 
  * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements etc
  * CSS
  * Media queries
  * Understand why/ how to use which language
  * How to work with the inspector
  * Resume presentations
+
+## Homework
 
 ### Read:
  * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
@@ -84,6 +87,8 @@ Also we will go into the DOM and file structure. There will be time spent on why
  * How to find information on the web
  * Task: find some info about a certain topic in groups of 2, present to each other
  * Sizes in CSS: relative and absolute sizes
+
+## Homework
 
 ### Exercises:
 
