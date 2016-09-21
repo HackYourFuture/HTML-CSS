@@ -16,16 +16,16 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ## Homework
 
-### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com):
- * [What Is a Front-End Developer?](https://www.frontendhandbook.com/what-is-a-FD.html)
- * [Part I. The Front-End Practice](https://www.frontendhandbook.com/practice.html)
+### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com){:target="_blank"}:
+ * [What Is a Front-End Developer?](https://www.frontendhandbook.com/what-is-a-FD.html){:target="_blank"}
+ * [Part I. The Front-End Practice](https://www.frontendhandbook.com/practice.html){:target="_blank"}
 
 ###Watch these videos:
- * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
- * [How Web Browsers Work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+ * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc){:target="_blank"}
+ * [How Web Browsers Work](https://www.youtube.com/watch?v=WjDrMKZWCt0){:target="_blank"}
 
 ### Exercises:
- * Khan Academy: [Into to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro)
+ * Khan Academy: [Into to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro){:target="_blank"}
 
 ### Assignment:
  * Make your own web resume:
@@ -64,14 +64,14 @@ Also we will go into the DOM and file structure. There will be time spent on why
 ## Homework
 
 ### Read:
- * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
- * [More about media queries](https://css-tricks.com/css-media-queries/)  
- * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
- * [Article about mulitiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/)
- * [Read about nice color combinations](http://www.colorcombos.com/index.html)
+ * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction){:target="_blank"}
+ * [More about media queries](https://css-tricks.com/css-media-queries/){:target="_blank"}
+ * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp){:target="_blank"}
+ * [Article about mulitiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/){:target="_blank"}
+ * [Read about nice color combinations](http://www.colorcombos.com/index.html){:target="_blank"}
 
 ### Exercises:
- * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+ * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893){:target="_blank"}
 
 ### Assignment:
  * Remake an existing website: choose one of the following
@@ -79,7 +79,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
    *
    *
  * It should have an external CSS file
- * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+ * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp){:target="_blank"} again and check your files
 
 
 
