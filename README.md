@@ -16,16 +16,16 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ## Homework
 
-### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com){:target="_blank"}:
- * [What Is a Front-End Developer?](https://www.frontendhandbook.com/what-is-a-FD.html){:target="_blank"}
- * [Part I. The Front-End Practice](https://www.frontendhandbook.com/practice.html){:target="_blank"}
+### Read these Chapters from the <a href="https://www.frontendhandbook.com" target="_blank">Front-end Handbook</a>
+ * <a href="https://www.frontendhandbook.com/what-is-a-FD.html" target="_blank">What Is a Front-End Developer?</a>
+ * <a href="https://www.frontendhandbook.com/practice.html" target="_blank">Part I. The Front-End Practice</a>
 
 ###Watch these videos:
- * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc){:target="_blank"}
- * [How Web Browsers Work](https://www.youtube.com/watch?v=WjDrMKZWCt0){:target="_blank"}
+ * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
+ * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
 ### Exercises:
- * Khan Academy:<a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making webpages </a>
+ * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making webpages </a>
   
 
 ### Assignment:
@@ -65,14 +65,14 @@ Also we will go into the DOM and file structure. There will be time spent on why
 ## Homework
 
 ### Read:
- * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction){:target="_blank"}
- * [More about media queries](https://css-tricks.com/css-media-queries/){:target="_blank"}
- * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp){:target="_blank"}
- * [Article about mulitiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/){:target="_blank"}
- * [Read about nice color combinations](http://www.colorcombos.com/index.html){:target="_blank"}
+ * <a href="https://teamtreehouse.com/library/css3/media-queries/introduction" target="_blank">Introduction to media queries</a>
+ * <a href="https://css-tricks.com/css-media-queries/" target="_blank">More about media queries</a>
+ * <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML syntax</a>
+ * <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">Article about mulitiple ways to select classes and id's</a>
+ * <a href="http://www.colorcombos.com/index.html" target="_blank">Read about nice color combinations</a>
 
 ### Exercises:
- * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893){:target="_blank"}
+ * Udacity: <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893" target="_blank">Responsive web design fundamentals</a>
 
 ### Assignment:
  * Remake an existing website: choose one of the following
@@ -80,7 +80,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
    *
    *
  * It should have an external CSS file
- * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp){:target="_blank"} again and check your files
+ * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
 
 
