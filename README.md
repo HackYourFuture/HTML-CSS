@@ -25,7 +25,8 @@ Also we will go into the DOM and file structure. There will be time spent on why
  * [How Web Browsers Work](https://www.youtube.com/watch?v=WjDrMKZWCt0){:target="_blank"}
 
 ### Exercises:
- * Khan Academy: [Into to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro){:target="_blank"}
+ * Khan Academy:<a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making webpages </a>
+  
 
 ### Assignment:
  * Make your own web resume:
