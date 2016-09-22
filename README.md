@@ -79,6 +79,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
    * https://www.rijksoverheid.nl
    * http://www.awwwards.com
    * https://www.bostonglobe.com
+   * http://museumnacht.amsterdam
  * It should have an external CSS file
  * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
