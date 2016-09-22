@@ -51,13 +51,14 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Extra material:
  * Next week reading/ practice (these topics will be discussed next week but If you want to read ahead):
-    * Next week we will talk about media queries, if you already want to start reading about this subject check out this link:
+    * Next week we will talk about responsive web design and using media queries, if you already want to start reading about this subject check out this <a href="http://www.w3schools.com/css/css_rwd_intro.asp" target="_blank">Responsive Web Design - Introduction</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a>
 
 
 
 ## Lecture 2 
- * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements etc
+ * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements
  * CSS
+    * Tips and tricks 
  * Media queries
  * Understand why/ how to use which language
  * How to work with the inspector
@@ -80,7 +81,10 @@ Also we will go into the DOM and file structure. There will be time spent on why
    * https://www.rijksoverheid.nl
    * http://www.awwwards.com
    * https://www.bostonglobe.com
-   * http://museumnacht.amsterdam
+   * https://www.thinkwithgoogle.com
+   * http://muumilaakso.tampere.fi/en/
+   * http://incredibletypes.com/?doing_wp_cron=1474547099.8082950115203857421875
+   * http://thenextweb.com
  * It should have an external CSS file
  * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
