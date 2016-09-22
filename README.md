@@ -75,10 +75,10 @@ Also we will go into the DOM and file structure. There will be time spent on why
  * Udacity: <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893" target="_blank">Responsive web design fundamentals</a>
 
 ### Assignment:
- * Remake an existing website: choose one of the following
-   *
-   *
-   *
+ * Remake an existing responsive website: choose one of the following
+   * https://www.rijksoverheid.nl
+   * http://www.awwwards.com
+   * https://www.bostonglobe.com
  * It should have an external CSS file
  * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
