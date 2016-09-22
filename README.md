@@ -9,10 +9,11 @@ Also we will go into the DOM and file structure. There will be time spent on why
 ## Lecture 1 
  * Introduction HackYourFuture
  * Hello new students and mentors!
+ * DOM structure
  * HTML syntax (How to work in a text editor, make a zip file)
  * CSS syntax
  * Linking to external files
- * DOM structure
+
 
 ## Homework
 
