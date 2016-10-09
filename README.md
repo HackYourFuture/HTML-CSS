@@ -99,18 +99,26 @@ Also we will go into the DOM and file structure. There will be time spent on why
    * File structure, external links
  * How to find information on the web
  * Task: find some info about a certain topic in groups of 2, present to each other
- * Sizes in CSS: relative and absolute sizes
+   * Choose one of the following subjects, look up how it works and implement it in a webpage
+      * CSS transitions
+      * CSS animations with keyframes
+      * SVG
+      * Dropdown menu in CSS
+      * flex-box
 
 ## Homework
 
-### Exercises:
-
 ### Assignment:
- * Choose one of the following subjects, look up how it works and implement it in a webpage
-    * CSS transitions
-    * CSS animations with keyframes
-    * SVG
-    * Dropdown menu in CSS?
-    * Using external fonts or icon packs?
-    * Bootstrap
-    * [more options?]
+ * Make a website that contains:
+    * A responsive grid made with flex-box
+    * A responsive grid made with CSS3 columns
+    * A responsive grid made with float left
+    * An animation using CSS keyframes
+    * Optional: use a SVG
+    * BEFORE you hand it in, read the Style guide again and check your files
+
+
+### Exercises: 
+ * <a href="https://www.sololearn.com/Course/JavaScript/">Intro Javascript </a> 
+ * First 16 Basic JavaScript assignments on <a href="https://www.freecodecamp.com/challenges/comment-your-javascript-code"> FreeCodeCamp </a>
+
