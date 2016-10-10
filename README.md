@@ -120,5 +120,5 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 ### Exercises: 
  * <a href="https://www.sololearn.com/Course/JavaScript/">Intro Javascript </a> 
- * First 16 Basic JavaScript assignments on <a href="https://www.freecodecamp.com/challenges/comment-your-javascript-code"> FreeCodeCamp </a>
+
 
