@@ -45,7 +45,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
   	    * img
   	    * p
   	    * Some css properties: margin, padding 
-  	    * Make shore that you page is nice to read
+  	    * Make sure that you page looks nice, and that your text is readable
     * upload in a zip
 
 
@@ -83,7 +83,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
    * https://www.bostonglobe.com
    * https://www.thinkwithgoogle.com
    * http://muumilaakso.tampere.fi/en/
-   * http://incredibletypes.com/?doing_wp_cron=1474547099.8082950115203857421875
+   * http://incredibletypes.com
    * http://thenextweb.com
  * It should have an external CSS file
  * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
