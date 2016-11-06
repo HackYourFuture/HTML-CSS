@@ -5,6 +5,7 @@
  * HTML syntax (How to work in a text editor, make a zip file)
  * CSS syntax
  * Linking to external files
+ * Structuring your files
 
 
 ## Homework
@@ -13,7 +14,7 @@
  * <a href="https://www.frontendhandbook.com/what-is-a-FD.html" target="_blank">What Is a Front-End Developer?</a>
  * <a href="https://www.frontendhandbook.com/practice.html" target="_blank">Part I. The Front-End Practice</a>
 
-###Watch these videos:
+### Watch these videos:
  * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
@@ -39,8 +40,12 @@
   	    * Some css properties: margin, padding 
   	    * Make sure that you page looks nice, and that your text is readable
     * upload in a zip
+    * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> and check your files (you can also use the <a href="https://validator.w3.org target="_blank">HTML validator </a>).
+
+### Assignment:
+  * Next week we will talk about responsive web design and using media queries start reading about this subject here <a href="https://varvy.com/mobile/media-queries.html" target="_blank">Introduction to Media Queries</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a> here you can find examples of responsive design.
 
 
-### Extra material:
- * Next week reading/ practice (these topics will be discussed next week but If you want to read ahead):
-    * Next week we will talk about responsive web design and using media queries, if you already want to start reading about this subject check out this <a href="http://www.w3schools.com/css/css_rwd_intro.asp" target="_blank">Responsive Web Design - Introduction</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a>
+### Helpful links:
+ * https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
+ * https://css-tricks.com/almanac/properties/
