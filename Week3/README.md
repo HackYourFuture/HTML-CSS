@@ -19,10 +19,10 @@
 ### Assignment:
  * Make a website that contains:
     * A responsive grid made with flex-box
-    * A responsive grid made with CSS3 columns
-    * A responsive grid made with float left
+    * ~~A responsive grid made with CSS3 columns~~
+    * A responsive grid made with floats
     * An animation using CSS keyframes
-    * Optional: use a SVG
+    * Optional: use an SVG
     * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
 
