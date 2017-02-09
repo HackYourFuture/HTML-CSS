@@ -1,6 +1,4 @@
-## Lecture 1 
- * Introduction HackYourFuture
- * Hello new students and mentors!
+## Weekly Deliverables:
  * DOM structure
  * HTML syntax (How to work in a text editor, make a zip file)
  * CSS syntax

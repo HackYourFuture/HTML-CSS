@@ -1,4 +1,4 @@
-## Lecture 3
+## Weekly Deliverables:
  * Presentations of students website remakes
  * Repeat topics of last two weeks:
    * Understand why/ how to use which language
@@ -6,6 +6,9 @@
    * DOM
    * File structure, external links
  * How to find information on the web
+
+
+## In class:
  * Task: find some info about a certain topic in groups of 2, present to each other
    * Choose one of the following subjects, look up how it works and implement it in a webpage
       * CSS transitions

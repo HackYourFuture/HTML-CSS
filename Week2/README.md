@@ -1,5 +1,5 @@
-## Lecture 2 
- * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements
+## Weekly Deliverables:
+ * HTML structure
  * CSS
     * Tips and tricks 
  * Media queries
