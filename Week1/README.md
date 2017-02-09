@@ -1,7 +1,8 @@
 ## Weekly Deliverables:
- * DOM structure
- * HTML syntax (How to work in a text editor, make a zip file)
- * CSS syntax
+ * Understand the DOM structure
+ * Get a feeling for HTML syntax
+ * Get farmiliair with your text editor
+ * Basic understanding of CSS syntax
  * Linking to external files
  * Structuring your files
 

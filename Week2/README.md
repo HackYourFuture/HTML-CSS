@@ -1,8 +1,8 @@
 ## Weekly Deliverables:
- * HTML structure
- * CSS
+ * Understand the HTML structure
+ * CSS (id's, classes, selectors and attributes)
     * Tips and tricks 
- * Media queries
+ * Understand the basics of Media queries
  * Understand why/ how to use which language
  * How to work with the inspector
  * Resume presentations
