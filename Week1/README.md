@@ -1,7 +1,7 @@
 ## Weekly Deliverables:
  * Understand the DOM structure
  * Get a feeling for HTML syntax
- * Get farmiliair with your text editor
+ * Get familiair with your text editor
  * Basic understanding of CSS syntax
  * Linking to external files
  * Structuring your files
