@@ -31,9 +31,3 @@
  * It should have an external CSS file
  * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
-* Make a page including:
-    * An animation using CSS keyframes
-    * An SVG
-    
-### Exercises: 
- * <a href="https://www.sololearn.com/Course/JavaScript/">Intro Javascript </a> 

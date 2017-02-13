@@ -35,3 +35,8 @@
       * According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
     * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
 
+## Extra extra:
+
+* Make a page including:
+    * An animation using CSS keyframes
+    * An SVG
