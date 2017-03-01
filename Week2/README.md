@@ -1,4 +1,4 @@
-## Weekly Deliverables:
+## Learning goals for this week:
  * Understand the HTML structure
  * CSS (id's, classes, selectors and attributes)
     * Tips and tricks 

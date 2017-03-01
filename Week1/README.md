@@ -1,8 +1,8 @@
-## Weekly Deliverables:
+##Learning goals for this week:
  * Understand the DOM structure
  * Get a feeling for HTML syntax
- * Get familiar with your text editor
  * Basic understanding of CSS syntax
+ * Get familiar with your text editor
  * Linking to external files
  * Structuring your files
 

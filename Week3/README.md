@@ -1,4 +1,4 @@
-## Weekly Deliverables:
+## Learning goals for this week:
  * Presentations of students website remakes
  * Repeat topics of last two weeks:
    * Understand why/ how to use which language
