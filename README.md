@@ -9,11 +9,11 @@ Also we will go into the DOM and file structure. There will be time spent on why
 * Basic understanding of HTML5 and CSS (DOM, semantic elements)
 * Know how to organize your files
 * Know your way around your text editor 
-* Feel comfortble working with the console
-* Proberly indent your code
+* Feel comfortable working with the console
+* Properly indent your code
 * Properly naming classes, id's 
 * Responsive mobile first development
-* Know "good" and "bad" pratices when it comes to HTML
+* Know "good" and "bad" practices when it comes to HTML
 * Get an understanding of what good resources are on the web
-* Give recieve/feedback from/on fellow students
+* Give receive/feedback from/on fellow students
 * Presenting and explaining your work to others

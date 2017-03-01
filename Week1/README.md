@@ -1,7 +1,7 @@
 ## Weekly Deliverables:
  * Understand the DOM structure
  * Get a feeling for HTML syntax
- * Get familiair with your text editor
+ * Get familiar with your text editor
  * Basic understanding of CSS syntax
  * Linking to external files
  * Structuring your files
@@ -18,7 +18,7 @@
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
 ### Exercises:
- * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making webpages </a>
+ * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making web pages </a>
   
 
 ### Assignment:
@@ -36,7 +36,7 @@
   	    * A list (ul)
   	    * img
   	    * p
-  	    * Some css properties: margin, padding 
+  	    * Some CSS properties: margin, padding 
   	    * Make sure that you page looks nice, and that your text is readable
     * upload in a zip
     * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> and check your files (you can also use the <a href="https://validator.w3.org target="_blank">HTML validator </a>).
