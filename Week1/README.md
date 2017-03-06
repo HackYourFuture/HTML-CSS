@@ -9,14 +9,6 @@
 
 ## Homework
 
-### Read these Chapters from the <a href="https://www.frontendhandbook.com" target="_blank">Front-end Handbook</a>
- * <a href="https://www.frontendhandbook.com/what-is-a-FD.html" target="_blank">What Is a Front-End Developer?</a>
- * <a href="https://www.frontendhandbook.com/practice.html" target="_blank">Part I. The Front-End Practice</a>
-
-### Watch these videos:
- * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
- * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
-
 ### Exercises:
  * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making web pages </a>
   
