@@ -1,10 +1,18 @@
 ##Learning goals for this week:
- * Understand the DOM structure
- * Get a feeling for HTML syntax
- * Basic understanding of CSS syntax
- * Get familiar with your text editor
- * Linking to external files
- * Structuring your files
+ * The division of labour between HTML and CSS
+ * Introduction to HTML:
+    * Parents, children, attributes
+    * Indentation
+    * Semantic elements
+    * Paragraphs, links, images, lists
+ * Introduction to CSS:
+    * Where can we write it and what difference does that make?
+    * Selectors (id, class, element type), properties
+    * How to structure a CSS file
+    * Naming things
+ * External files: relative and absolute paths
+ * Getting to know your text editor
+ 
 
 
 ## Homework
@@ -34,7 +42,7 @@
     * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> and check your files (you can also use the <a href="https://validator.w3.org target="_blank">HTML validator </a>).
 
 ### Assignment:
-  * Next week we will talk about responsive web design and using media queries start reading about this subject here <a href="https://varvy.com/mobile/media-queries.html" target="_blank">Introduction to Media Queries</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a> here you can find examples of responsive design.
+  * Next week we will talk about responsive web design and using media queries. Start reading about this subject here <a href="https://varvy.com/mobile/media-queries.html" target="_blank">Introduction to Media Queries</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a> here you can find examples of responsive design.
 
 
 ### Helpful links:

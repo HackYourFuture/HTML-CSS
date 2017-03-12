@@ -1,11 +1,8 @@
 ## Learning goals for this week:
- * Presentations of students website remakes
- * Repeat topics of last two weeks:
-   * Understand why/ how to use which language
-   * Media-queries
-   * DOM
-   * File structure, external links
+ * Student presentations
+ * Last week recap and questions
  * How to find information on the web
+ * How to rebuild an existing responsive page (getting started with this week's homework exercise)
 
 
 ## In class:

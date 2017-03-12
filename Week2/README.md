@@ -1,11 +1,13 @@
 ## Learning goals for this week:
- * Understand the HTML structure
- * CSS (id's, classes, selectors and attributes)
-    * Tips and tricks 
- * Understand the basics of Media queries
- * Understand why/ how to use which language
+ * Student presentations
+ * Last week recap and questions
+ * Responsive web development
+    * Relative measurements (%, (r)em, vw)
+    * Media queries
+    * Positioning (absolute, relative, fixed)
+    * Floating and clearing
+    * Flexbox
  * How to work with the inspector
- * Resume presentations
 
 ## Homework
 
