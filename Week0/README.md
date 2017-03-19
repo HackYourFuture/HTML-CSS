@@ -1,4 +1,4 @@
-###Hello new class!
+### Hello new class!
 
 >Before you come to your first session at HackYourFuture please go through this document, read, watch and check if you are ready to start your HackYourFuture adventure!
 
@@ -13,16 +13,16 @@
  * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
-###Check double check:
+### Check double check:
 
-###Are you signed up for:
+### Are you signed up for:
 
 - Slack
 - Trello
 - KhanAcademy (join the class you've been invited to)
 - Udacity
 
-###Do you have a basic understanding of the following tools:
+### Do you have a basic understanding of the following tools:
 
 - Slack
 - Trello
@@ -30,7 +30,7 @@
 
 >If the answer to this is 'no', don't panic, you can always ask help in Slack, but before you do, please first try and see if you can find some information about the above tools yourself.
 
-###Do you have a text editor installed?
+### Do you have a text editor installed?
 
 Any of the ones listed below is fine.
 - [Brackets](http://brackets.io)
