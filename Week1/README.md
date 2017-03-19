@@ -1,4 +1,4 @@
-##Learning goals for this week:
+## Learning goals for this week:
  * The division of labour between HTML and CSS
  * Introduction to HTML:
     * Parents, children, attributes
