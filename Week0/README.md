@@ -5,7 +5,7 @@
 ### Read these Chapters from the <a href="https://www.frontendhandbook.com" target="_blank">Front-end Handbook</a>
  * <a href="https://www.frontendhandbook.com/what-is-a-FD.html" target="_blank">What Is a Front-End Developer?</a>
  * <a href="https://www.frontendhandbook.com/practice.html" target="_blank">Part I. The Front-End Practice</a>
- * Read (lesson 1: building your first web page)[http://learn.shayhowe.com/html-css/building-your-first-web-page/]
+ * Read [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 >Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
 
