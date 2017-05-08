@@ -40,3 +40,6 @@ Any of the ones listed below is fine.
 - [Sublime (not free)](https://www.sublimetext.com/)
 
 If you have no experience or preference when it comes to working with text editor just install Brackets, you can always switch to another editor later on in the program.
+
+### Curriculum
+Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
