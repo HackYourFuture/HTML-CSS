@@ -34,7 +34,7 @@
 
 Any of the ones listed below is fine.
 - [Brackets](http://brackets.io)
-- [Atom] (https://atom.io/)
+- [Atom](https://atom.io/)
 - [Visual studio](https://code.visualstudio.com/)
 - [Spacemacs](http://spacemacs.org/)
 - [Sublime (not free)](https://www.sublimetext.com/)
