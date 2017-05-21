@@ -19,7 +19,7 @@
 ## Homework Week 1
 
 ### Good learning practices
-Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices].
+Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
 
 ### Exercises:
  * Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css)
