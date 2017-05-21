@@ -26,5 +26,5 @@
    * http://incredibletypes.com
    * http://thenextweb.com
  * It should have an external CSS file
- * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
+ * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 

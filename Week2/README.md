@@ -12,14 +12,14 @@
 ## Homework
 
 ### Read:
- * <a href="https://teamtreehouse.com/library/css3/media-queries/introduction" target="_blank">Introduction to media queries</a>
- * <a href="https://css-tricks.com/css-media-queries/" target="_blank">More about media queries</a>
- * <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML syntax</a>
- * <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">Article about multiple ways to select classes and id's</a>
- * <a href="http://www.colorcombos.com/index.html" target="_blank">Read about nice color combinations</a>
+ * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+ * [More about media queries](https://css-tricks.com/css-media-queries/)
+ * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+ * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
+ * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
 ### Exercises:
- * Udacity: <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893" target="_blank">Responsive web design fundamentals</a>
+ * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
 ### Assignment:
  * Grids exercise
@@ -35,7 +35,7 @@
     * Make the page look beautiful by adding some more CSS! Some tips:
       * How about some nice colors, fonts, hover styles?
       * According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
-    * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
+    * BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
 ## Extra extra:
 

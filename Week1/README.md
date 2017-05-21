@@ -1,5 +1,5 @@
 ## Learning goals for this week:
- * The division of labour between HTML and CSS
+ * The division of labor between HTML and CSS
  * Introduction to HTML:
     * Parents, children, attributes
     * Indentation
@@ -14,11 +14,10 @@
  * Getting to know your text editor
  
 
-
-## Homework
+## Homework Week 1
 
 ### Exercises:
- * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making web pages </a>
+ * Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css)
   
 
 ### Assignment:
@@ -39,12 +38,14 @@
   	    * Some CSS properties: margin, padding 
   	    * Make sure that you page looks nice, and that your text is readable
     * upload in a zip
-    * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> and check your files (you can also use the <a href="https://validator.w3.org target="_blank">HTML validator </a>).
+    * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ### Assignment:
-  * Next week we will talk about responsive web design and using media queries. Start reading about this subject here <a href="https://varvy.com/mobile/media-queries.html" target="_blank">Introduction to Media Queries</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a> here you can find examples of responsive design.
+  * Next week we will talk about responsive web design and using media queries. Start reading about this subject here [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html). And take a look at this [website](http://mediaqueri.es) here you can find examples of responsive design.
 
+## Fun to check out:
+[Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
 ### Helpful links:
- * https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
- * https://css-tricks.com/almanac/properties/
+ * [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+ * [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
