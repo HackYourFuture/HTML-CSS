@@ -27,4 +27,3 @@
    * http://thenextweb.com
  * It should have an external CSS file
  * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
-
