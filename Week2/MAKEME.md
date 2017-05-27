@@ -20,7 +20,7 @@
  * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
-#### Super fun flexbox practice 
+#### Super fun flexbox and grid practice 
  * [flexboxfroggy](https://flexboxfroggy.com/)
  * [cssgridgarden](http://cssgridgarden.com/)
 
