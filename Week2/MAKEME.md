@@ -1,4 +1,6 @@
-# Homework week 2
+# Week 2
+
+[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the second lecture.
 
 ## Learning goals for this week:
  * Student presentations
@@ -11,8 +13,9 @@
     * Flexbox
  * How to work with the inspector
 
-## Homework
+# Homework
 
+## Step 1.
 ### Read:
  * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  * [More about media queries](https://css-tricks.com/css-media-queries/)
@@ -20,6 +23,7 @@
  * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
+## Step 2.
 #### Super fun flexbox and grid practice 
  * [flexboxfroggy](https://flexboxfroggy.com/)
  * [cssgridgarden](http://cssgridgarden.com/)
@@ -27,6 +31,8 @@
 ### Exercises:
  * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
+
+## Step 3.
 ### Assignment:
  * Grids exercise
     * Download the HTML and images in the folder Homework 2

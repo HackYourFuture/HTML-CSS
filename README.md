@@ -12,7 +12,7 @@ So since this is your first module, what can you expect the next three weeks?
 ## Planning for Current Class
 | Week | Topic | Read | Homework |
 | ---- | ----- | ---- |----------|
-|0.|Prepare for first session|[Week 0 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)|[Homework week 0](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)|
+|0.|Prepare for first session|[Pre-reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)|-|
 | 1. | DOM, HTML/CSS syntax | [Week 1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/README.md) |  [Homework week 1](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) |
 | 2. | Responsive design, media queries, developer tools | [Week 2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/README.md) | [Homework week 2](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) |
 | 3. | Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas/Week0) | [Homework week 3](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) |
