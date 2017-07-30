@@ -27,8 +27,11 @@ Before you start check out this [video](http://www.learningscientists.org/videos
 Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 
 ### CSS:
+* [CSS reference](http://cssreference.io/) 
 * [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 * [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
+* [MDN - CSS box model]https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+
 
 ## Step 2.
 * In Trello, you are assigned to one of the cards of your fellow students (in the Class11 Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
@@ -50,6 +53,7 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
     * Include the following:
         * Different types of headings (h1, h2)
         * A list (ul). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
+        * Another list (ul). In this list you include the most important platforms/resources where you can find all hyf related information.
         * img
         * p
         * Some CSS properties: margin, padding 

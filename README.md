@@ -17,7 +17,7 @@ So since this is your first module, what can you expect the next three weeks?
 | 2. | Responsive design, media queries, developer tools | [Week 2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/README.md) | [Homework week 2](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) |
 | 3. | Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas/Week0) | [Homework week 3](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) |
 
-Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\_(ツ)_/¯, please ask/comment on Slack!
+Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)_/¯, please ask/comment on Slack!
 
 ## Learning goals for this module:
 * Basic understanding of HTML and CSS
