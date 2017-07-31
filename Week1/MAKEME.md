@@ -36,6 +36,7 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 * In Trello, you are assigned to one of the cards of your fellow students (in the Class11 Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 * revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
+
 > Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
 
 ## Step 3.

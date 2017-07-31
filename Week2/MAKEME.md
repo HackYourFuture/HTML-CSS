@@ -24,13 +24,12 @@
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
 ## Step 2.
+### Exercises:
+ * CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+
 #### Super fun flexbox and grid practice 
  * [flexboxfroggy](https://flexboxfroggy.com/)
  * [cssgridgarden](http://cssgridgarden.com/)
-
-### Exercises:
- * Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-
 
 ## Step 3.
 ### Assignment:
@@ -51,6 +50,6 @@
 
 ## Extra extra:
 
-* Make a page including:
+* Add one of the following to your page:
     * An animation using CSS keyframes
     * An SVG
