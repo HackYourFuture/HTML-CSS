@@ -16,6 +16,14 @@
 # Homework
 
 ## Step 1.
+
+### Give feedback on one of your fellow students CV pages
+* In Trello you are added to one of the cards of your fellow students.
+* Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
+* revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
+
+## Step 2.
+
 ### Read:
  * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  * [More about media queries](https://css-tricks.com/css-media-queries/)
@@ -23,7 +31,6 @@
  * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
-## Step 2.
 ### Exercises:
  * CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 
