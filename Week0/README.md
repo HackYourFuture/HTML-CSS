@@ -30,6 +30,16 @@
 ### Add a card in Trello:
 *  In Trello, create a card with your name (there is an example in there) and add the link to your CodePen that contains you application assignment.
 
+
+### Install the Slack Apps on your:
+- Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
+- Desktop: [OSX](https://slack.com/downloads/osx) or [Windows](https://slack.com/downloads/windows)
+
+### Read:
+- About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
+- How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+- Take the Trello [tour](https://trello.com/tour)
+
 ### Check double check:
 
 ### Are you signed up for:
