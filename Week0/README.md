@@ -49,7 +49,7 @@
 
 ### Did you do the following?:
 
-- Write an "hallo :hand:" in Slack?
+- Write "hallo :hand:" in Slack?
 - Did you add a card to Trello with your name and added the link to your application assignment (CodePen)?
 - Did you create a Github account?
 

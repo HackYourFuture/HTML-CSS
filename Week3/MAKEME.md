@@ -17,9 +17,10 @@ Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find t
       * Drop down menu in CSS
       * flex-box
 
-### Step 1: Give feedback
+## Step 1: Give feedback
+> TODO
 
-### Step 2: Assignment
+## Step 2: Assignment
  * Remake an existing responsive website: choose one of the following
    * https://www.rijksoverheid.nl
    * http://www.awwwards.com
