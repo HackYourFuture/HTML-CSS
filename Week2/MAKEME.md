@@ -1,8 +1,8 @@
-# Week 2
+## Homework Week 2
 
-[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the second lecture.
+[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the second lecture.# Week 2
 
-## Learning goals for this week:
+### Learning goals for this week:
  * Student presentations
  * Last week recap and questions
  * Responsive web development
@@ -13,33 +13,26 @@
     * Flexbox
  * How to work with the inspector
 
-# Homework
-
-## Step 1.
-
-### Give feedback on one of your fellow students CV pages
+### Step 1: Give feedback:
 * In Trello you are added to one of the cards of your fellow students.
 * Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 * revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
-## Step 2.
-
-### Read:
+### Step 2: Read/do/watch
  * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  * [More about media queries](https://css-tricks.com/css-media-queries/)
  * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
-### Exercises:
+#### Exercises:
  * CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 
 #### Super fun flexbox and grid practice 
  * [flexboxfroggy](https://flexboxfroggy.com/)
  * [cssgridgarden](http://cssgridgarden.com/)
 
-## Step 3.
-### Assignment:
+### Step 3: Assignment:
  * Grids exercise
     * Download the HTML and images in the folder Homework 2
     * You are going to write the CSS for this page
@@ -54,6 +47,11 @@
       * How about some nice colors, fonts, hover styles?
       * According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
     * BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+
+>Upload your homework in your Github repository. Make sure to create a new folder "week2" first. 
+Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
+Place the link to your files in Trello.
+
 
 ## Extra extra:
 

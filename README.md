@@ -10,27 +10,27 @@ We will focus on _responsive_ web development: you will learn how to make your w
 So since this is your first module, what can you expect the next three weeks?
 
 ## Planning for Current Class
-| Week | Topic | Read | Homework |
-| ---- | ----- | ---- |----------|
-|0.|Prepare for first session|[Pre-reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)|-|
-| 1. | DOM, HTML/CSS syntax | [Week 1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/README.md) |  [Homework week 1](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) |
-| 2. | Responsive design, media queries, developer tools | [Week 2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/README.md) | [Homework week 2](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) |
-| 3. | Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas/Week0) | [Homework week 3](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) |
+| Week | Topic | Read | Homework | Review |
+| ---- | ----- | ---- |----------|--------|
+|0.|Prepare for first session|[Pre-reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week0)|-|-|
+| 1. | DOM, HTML/CSS syntax | [Week 1 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/README.md) |  [Homework week 1](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/MAKEME.md) |[Review](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week1/REVIEW.md)|
+| 2. | Responsive design, media queries, developer tools | [Week 2 Reading](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/README.md) | [Homework week 2](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/MAKEME.md) ||[Review](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/REVIEW.md)|
+| 3. | Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas/Week0) | [Homework week 3](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/MAKEME.md) ||[Review](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week3/REVIEW.md)|
 
 Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)_/¯, please ask/comment on Slack!
 
 ## Learning goals for this module:
-* Basic understanding of HTML and CSS
-* Know how to organize your files
-* Know your way around your text editor 
-* Feel comfortable working with the inspector
-* Properly indent your code
-* Properly naming classes, id's 
-* Responsive, _mobile first_ development
-* Know good and bad practices when it comes to HTML
-* Get an understanding of where to find information on the web
-* Give receive/feedback from/on fellow students
-* Presenting and explaining your work to others
+• Basic understanding of HTML and CSS
+• Know how to organize your files
+• Know your way around your text editor 
+• Feel comfortable working with the inspector
+• Properly indent your code
+• Properly naming classes, id's 
+• Responsive, _mobile first_ development
+• Know good and bad practices when it comes to HTML
+• Get an understanding of where to find information on the web
+• Give receive/feedback from/on fellow students
+• Presenting and explaining your work to others
 
 
 
