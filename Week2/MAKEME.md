@@ -1,6 +1,6 @@
 ## Homework Week 2
 
-[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the second lecture.# Week 2
+>[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the third lecture.
 
 ### Learning goals for this week:
 ```
