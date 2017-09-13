@@ -3,10 +3,12 @@
 Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find the readings you have to complete before your first JavaScript lecture
 
 ### Learning goals for this week:
+```
  * Student presentations
  * Last week recap and questions
  * How to find information on the web
  * How to rebuild an existing responsive page (getting started with this week's homework exercise)
+```
 
 ### In class:
  * Task: find some info about a certain topic in groups of 2, present to each other
@@ -32,6 +34,10 @@ Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find t
  * It should have an external CSS file
  * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
->Upload your homework in your Github repository. Make sure to create a new folder "week3" first. 
-Your hyf-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
-Place the link to your files in Trello.
+
+```
+How to hand in your homework:
+* Upload your homework in your Github repository. Make sure to create a new folder "week3" first. 
+* Your hyf-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
+* Place the link to your repository in Trello.
+```

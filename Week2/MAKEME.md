@@ -3,6 +3,7 @@
 [Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the second lecture.# Week 2
 
 ### Learning goals for this week:
+```
  * Student presentations
  * Last week recap and questions
  * Responsive web development
@@ -12,6 +13,7 @@
     * Floating and clearing
     * Flexbox
  * How to work with the inspector
+```
 
 ## Step 1: Give feedback:
 * In Trello you are added to one of the cards of your fellow students.
@@ -48,10 +50,13 @@
       * According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
     * BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
->Upload your homework in your Github repository. Make sure to create a new folder "week2" first. 
-Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
-Place the link to your files in Trello.
-
+```
+How to hand in your homework:
+* Upload your homework in your Github repository. 
+* Make sure to create a new folder "week2" first. 
+* Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
+* Place the link to your repository in Trello.
+```
 
 ## Extra extra (bonus assignment :star: ):
 
