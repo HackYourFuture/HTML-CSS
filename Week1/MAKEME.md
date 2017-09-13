@@ -4,19 +4,19 @@
 
 ### Learning goals for this week:
 ```
- * The division of labor between HTML and CSS
- * Introduction to HTML:
-    * Parents, children, attributes
-    * Indentation
-    * Semantic elements
-    * Paragraphs, links, images, lists
- * Introduction to CSS:
-    * Where can we write it and what difference does that make?
-    * Selectors (id, class, element type), properties
-    * How to structure a CSS file
-    * Naming things
- * External files: relative and absolute paths
- * Getting to know your text editor
+ • The division of labor between HTML and CSS
+ • Introduction to HTML:
+    • Parents, children, attributes
+    • Indentation
+    • Semantic elements
+    • Paragraphs, links, images, lists
+ • Introduction to CSS:
+    • Where can we write it and what difference does that make?
+    • Selectors (id, class, element type), properties
+    • How to structure a CSS file
+    • Naming things
+ • External files: relative and absolute paths
+ • Getting to know your text editor
 ```
 
 ## Step 1: Read and watch
@@ -27,36 +27,36 @@ Before you start check out this [video](http://www.learningscientists.org/videos
 Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 
 #### CSS:
-* [CSS reference](http://cssreference.io/) 
-* [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
-* [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
-* [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+• [CSS reference](http://cssreference.io/) 
+• [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+• [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
+• [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 ## Step 2: Give feedback
-* In Trello, you are assigned to one of the cards of your fellow students (in the Class11 Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-* revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
+• In Trello, you are assigned to one of the cards of your fellow students (in the Class11 Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
+• revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
 > Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
 
 ## Step 3: Assignment
- * Make your own web resume:
-    * One page 
-    * Two files: HTML and CSS
-    * Include the following:
-        * Your personal info (name, place of birth, etc.)
-        * A picture
-        * A few lines about who you are
-        * Education
-        * Work experience
-    * Include the following:
-        * Different types of headings (`<h1>`, `<h2>`)
-        * A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
-        * Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
-        * `<img>`
-        * `<p>`
-        * Some CSS properties: `margin`, `padding` 
-        * Make sure that you page looks nice, and that your text is readable
-    * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
+ • Make your own web resume:
+    • One page 
+    • Two files: HTML and CSS
+    • Include the following:
+        • Your personal info (name, place of birth, etc.)
+        • A picture
+        • A few lines about who you are
+        • Education
+        • Work experience
+    • Include the following:
+        • Different types of headings (`<h1>`, `<h2>`)
+        • A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
+        • Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
+        • `<img>`
+        • `<p>`
+        • Some CSS properties: `margin`, `padding` 
+        • Make sure that you page looks nice, and that your text is readable
+    • BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ### How to hand in Homework:
 _Steps_:
