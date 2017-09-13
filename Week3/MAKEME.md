@@ -11,28 +11,28 @@ Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find t
 ```
 
 ### In class:
- • Task: find some info about a certain topic in groups of 2, present to each other
-   • Choose one of the following subjects, look up how it works and implement it in a web page
-      • CSS transitions
-      • CSS animations with keyframes
-      • SVG
-      • Drop down menu in CSS
-      • flex-box
+ - Task: find some info about a certain topic in groups of 2, present to each other
+   - Choose one of the following subjects, look up how it works and implement it in a web page
+      - CSS transitions
+      - CSS animations with keyframes
+      - SVG
+      - Drop down menu in CSS
+      - flex-box
 
 ## Step 1: Give feedback
 > TODO
 
 ## Step 2: Assignment
- • Remake an existing responsive website: choose one of the following
-   • https://www.rijksoverheid.nl
-   • http://www.awwwards.com
-   • https://www.bostonglobe.com
-   • https://www.thinkwithgoogle.com
-   • http://muumilaakso.tampere.fi/en/
-   • http://incredibletypes.com
-   • http://thenextweb.com
- • It should have an external CSS file
- • BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+ - Remake an existing responsive website: choose one of the following
+   - https://www.rijksoverheid.nl
+   - http://www.awwwards.com
+   - https://www.bostonglobe.com
+   - https://www.thinkwithgoogle.com
+   - http://muumilaakso.tampere.fi/en/
+   - http://incredibletypes.com
+   - http://thenextweb.com
+ - It should have an external CSS file
+ - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
 
 ```
