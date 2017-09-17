@@ -20,6 +20,7 @@ Please get yourself familiar with this repository by navigating your way through
 
 ## Learning goals for this module:
 * Basic understanding of HTML and CSS
+* Basic understanding of Accessible Rich Internet Applications (ARIA)
 * Know how to organize your files
 * Know your way around your text editor
 * Feel comfortable working with the inspector
