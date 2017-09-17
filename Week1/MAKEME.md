@@ -10,6 +10,10 @@
     • Indentation
     • Semantic elements
     • Paragraphs, links, images, lists
+ • Introduction to ARIA:
+    • What is ARIA and why is it important?
+    • Using ARIA in HTML
+    • Validating ARIA
  • Introduction to CSS:
     • Where can we write it and what difference does that make?
     • Selectors (id, class, element type), properties
@@ -24,23 +28,23 @@
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
 
 #### HTML5
-Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 #### CSS:
-- [CSS reference](http://cssreference.io/) 
+- [CSS reference](http://cssreference.io/)
 - [MDN - Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 - [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
 - [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 ## Step 2: Give feedback
 - In Trello, you are assigned to one of the cards of your fellow students (in the Class11 Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
+- revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
 
 > Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
 
 ## Step 3: Assignment
  - Make your own web resume:
-    - One page 
+    - One page
     - Two files: HTML and CSS
     - Include the following:
         - Your personal info (name, place of birth, etc.)
@@ -54,8 +58,8 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
         - Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
         - `<img>`
         - `<p>`
-        - Some CSS properties: `margin`, `padding` 
-        - Make sure that you page looks nice, and that your text is readable
+        - Some CSS properties: `margin`, `padding`
+        - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
     - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ### How to hand in Homework:
@@ -68,7 +72,7 @@ _Steps_:
 6. Open the files in your folder to check if all of this worked.
 7. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
 8. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
-9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/week1 
+9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/week1
 10. Please upload a link to your homework in Trello.
 
 ### Here is an example of how your homework repository should look:

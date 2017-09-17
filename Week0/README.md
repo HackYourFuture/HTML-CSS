@@ -21,11 +21,17 @@
  * How do you reference CSS in your HTML?
  * Why would you use CSS resets?
 
->Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
-
 ### Watch these videos:
  * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
+
+### Get familiar with Accessible Rich Internet Applications (ARIA)
+ * [What is ARIA and why is it important?](https://www.youtube.com/watch?v=HtTyRajRuyY)
+ * [Introduction to ARIA](https://www.youtube.com/watch?v=g9Qff0b-lHk&t=4s)
+ * [Web applications and ARIA FAQ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ)
+ * _Bonus knowlegde:_ [Practical guide for developers on how to add accessibility information to HTML elements using the ARIA specification](https://w3c.github.io/using-aria/)
+
+>Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
 
 ### Add a card in Trello:
 *  In Trello, create a card with your name (there is an example in there) and add the link to your CodePen that contains you application assignment.
