@@ -18,7 +18,7 @@
     * Where can we write it and what difference does that make?
     * Selectors (id, class, element type), properties
     * How to structure a CSS file
-    * Naming things
+    * Naming conventions
     * Validating CSS
  * External files: relative and absolute paths
  * Getting to know your text editor
@@ -63,7 +63,7 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
         * img
         * p
         * Some CSS properties: margin, padding
-        * Make sure that you page looks nice, and that your text is readable
+        * Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
     * upload in a zip
     * BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
