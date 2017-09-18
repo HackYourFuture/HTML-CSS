@@ -26,7 +26,7 @@ Please get yourself familiar with this repository by navigating your way through
 • Feel comfortable working with the inspector
 • Properly indent your code
 • Properly naming classes, id's 
-• Responsive, _mobile first_ development
+• Responsive, mobile first development
 • Know good and bad practices when it comes to HTML
 • Get an understanding of where to find information on the web
 • Give receive/feedback from/on fellow students
