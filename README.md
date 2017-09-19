@@ -31,7 +31,6 @@ Please get yourself familiar with this repository by navigating your way through
 • Get an understanding of where to find information on the web
 • Give receive/feedback from/on fellow students
 • Presenting and explaining your work to others
-
 ```
 
 
