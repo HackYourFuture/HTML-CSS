@@ -10,9 +10,11 @@ In week two we will discuss the following topics
 
 ### Here are resources that we like you to read as a preparation for the coming lecture:
 - Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html). 
-- And read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/And) 
+- And read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/) 
 - [Mastering the :nth-child](http://nthmaster.com/)
-- Also take a look at this [website](http://mediaqueri.es) here you can find examples of responsive design.
+- Also take a look at these two websites, here you can find examples of responsive design
+    + https://responsivedesign.is/examples/
+    + https://www.awwwards.com/50-examples-of-responsive-web-design.html
 
 ### How to use the inspector :mag:
 Read and watch about how you can [Inspect and Edit Pages and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/) using the inspector
