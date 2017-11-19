@@ -4,6 +4,10 @@
 
 ### Learning goals for this week:
 ```
+ • CLI
+    • To know the terminal/bash/command line for UNIX based systems.
+    • Navigate the file system without using a UI explorer.
+    • Copy, rename and move files with terminal commands. 
  • Student presentations
  • Last week recap and questions
  • Responsive web development
@@ -16,9 +20,35 @@
 ```
 
 ## Step 1: Give feedback:
+
+_Deadline Monday_
+
 - In Trello you are added to one of the cards of your fellow students.
-- Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
+- Give feedback CV assignment of one of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
+- Revisit you own CV assignment and improve it with the feedback and suggestions given by one of your classmates.  
+
+## Step 2: Command Line
+
+_Deadline Tuesday_
+
+>We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
+
+1. Create a `.js` file that prints `Hello` when you run it from the command line. (Hint: `node` is the program that can run your JavaScript files.)
+
+```
+Write commands to do following:
+1. create a directory. Enter a directory. Create an empty file named blank. 
+    2. Then write the content `"Hello"` five times to the file greetings.txt. 
+   Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
+    3. Then write the text "cat" to pets.txt
+   Then append the text "dog" to pets.txt
+   Then append the text "hamster" to pets.txt
+    4. Then write the text "cat" to commands.txt
+   Then append the text "ls" to commands.txt
+   Then append the text "pwd" to commands.txt
+    5. Then find unique strings from these two files pets.txt and commands.txt
+   and store the unique strings in lovelyCommands.txt
+```
 
 ## Step 2: Read/do/watch
  - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
@@ -35,6 +65,11 @@
  - [cssgridgarden](http://cssgridgarden.com/)
 
 ## Step 3: Assignment:
+
+_Deadline Saturday_
+
+> Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
+
  - Grids exercise
     - Download the HTML and images in the folder Homework 2
     - You are going to write the CSS for this page
