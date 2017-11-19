@@ -2,6 +2,9 @@
 
 ```
 In week two we will discuss the following topics
+• CLI
+    • Learn output redirection, piping on the terminal.
+    • Write basic shell scripts to ease the programming life.
 • Recap
 • How to find useful resources on the web
 ```

@@ -2,11 +2,22 @@
 
 ```
 In week two we will discuss the following topics
+• CLI
+    • To know the terminal/bash/command line for UNIX based systems.
+    • Navigate the file system without using a UI explorer.
+    • Copy, rename and move files with terminal commands. 
 • Responsive web design
 • Media queries
 • Flexbox
 • How to use the inspector
 ```
+
+### Install GitBash if you have a windows machine.
+
+If you have *Windows machines*, please follow the following link and install GitBash https://github.com/git-for-windows/git/releases/tag/v2.10.2.windows.1
+
+If you have Linux installed on your laptop or you have a MACbook, then you don’t need to do anything. See you this Sunday.
+
 
 ### Here are resources that we like you to read as a preparation for the coming lecture:
 - Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html). 
