@@ -33,8 +33,6 @@ _Deadline Tuesday_
 
 >We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
 
-1. Create a `.js` file that prints `Hello` when you run it from the command line. (Hint: `node` is the program that can run your JavaScript files.)
-
 ```
 Write commands to do following:
 1. create a directory. Enter a directory. Create an empty file named blank. 
