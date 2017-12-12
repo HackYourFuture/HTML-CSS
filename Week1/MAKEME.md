@@ -1,6 +1,6 @@
 ## Homework Week 1
 
->[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/README.md) you find the readings you have to complete before the second lecture.
+>[Here](/Week1/README.md) you find the readings you have to complete before the second lecture.
 
 ### Learning goals for this week:
 ```
@@ -87,4 +87,10 @@ _Steps_:
 
 ### Fun to check out:
 [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
+
+## Step 4: Prepare for next class
+
+_Deadline Sunday morning_
+
+Go trough the reading material in the [README.md](/Week1/README.md) to prepare for your next class
 

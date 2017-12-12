@@ -1,6 +1,6 @@
 ## Homework Week 2
 
->[Here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/README.md) you find the readings you have to complete before the third lecture.
+>[Here](/Week2/README.md) you find the readings you have to complete before the third lecture.
 
 ### Learning goals for this week:
 ```
@@ -83,7 +83,7 @@ _Deadline Saturday_
       - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
     - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
-![Wireframe](wireframe.png)
+![Wireframe](assets/wireframe.png)
 
 ```
 How to hand in your homework:
@@ -98,3 +98,9 @@ How to hand in your homework:
 - Add one of the following to your page:
     - An animation using CSS keyframes
     - SVG
+
+## Step 4: Prepare for next class
+
+_Deadline Sunday morning_
+
+Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class

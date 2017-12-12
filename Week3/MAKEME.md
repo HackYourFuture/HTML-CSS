@@ -56,3 +56,9 @@ How to hand in your homework:
 • Your hyf-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```
+
+## Step 4: Prepare for next class
+
+_Deadline Sunday morning_
+
+Go trough the reading material in the JavaScript [README.md](JavaScript/Week0/README.md) to prepare for your next class
