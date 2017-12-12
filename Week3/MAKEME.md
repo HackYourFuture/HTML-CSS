@@ -57,7 +57,7 @@ How to hand in your homework:
 • Place the link to your repository in Trello.
 ```
 
-## Step 4: Prepare for next class
+## Step 3: Prepare for next class
 
 _Deadline Sunday morning_
 
