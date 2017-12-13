@@ -1,6 +1,6 @@
 ### Hello new class!
 
->Before you come to your first session at Social Hackers Academy please go through this document, read, watch and check if you are ready to start your HackYourFuture adventure!
+>Before you come to your first session at Social Hackers Academy please go through this document, read, watch and check if you are ready to start your Social Hacker's adventure!
 
 ### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2017/what-is-a-FD.html)
@@ -73,4 +73,4 @@ Any of the ones listed below is fine.
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
 
 ### Curriculum
-Don't forget to take a look at the [Social Hacker's Academy curriculum](https://github.com/SocialHackersAcademy/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
+Don't forget to take a look at the [Social Hacker's Academy curriculum](https://github.com/SocialHackersAcademy/curriculum). Go through it and make sure you have an idea of what you will learn at Social Hackers :muscle:
