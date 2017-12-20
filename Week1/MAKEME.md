@@ -61,7 +61,7 @@ _Deadline Saturday_
     - Include the following:
         - Different types of headings (`<h1>`, `<h2>`)
         - A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
-        - Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all hyf related information.
+        - Another list (`<ul>`). In this list you include the most important platforms/resources where you can find all Social Hackers Academy related information.
         - `<img>`
         - `<p>`
         - Some CSS properties: `margin`, `padding`
