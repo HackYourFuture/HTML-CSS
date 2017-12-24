@@ -68,8 +68,10 @@ Any of the ones listed below is fine.
 - [Brackets](http://brackets.io)
 - [Atom](https://atom.io/)
 - [Spacemacs](http://spacemacs.org/)
-- [Sublime (not free)](https://www.sublimetext.com/)
+- [Sublime (*)](https://www.sublimetext.com/)
 
+  _[*] __Sublime Text__ may be downloaded and evaluated for free, however a license must be purchased for continued use._
+  
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
 
 ### Curriculum
