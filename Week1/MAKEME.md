@@ -28,7 +28,9 @@
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
 
 #### HTML5
-Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [A page that lists all the HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [A page that lists all available HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
 #### CSS:
 - [CSS reference](http://cssreference.io/)
