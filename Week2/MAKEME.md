@@ -4,11 +4,6 @@
 
 ### Learning goals for this week:
 ```
- • CLI
-    • To know the terminal/bash/command line for UNIX based systems.
-    • Navigate the file system without using a UI explorer.
-    • Copy, rename and move files with terminal commands. 
- • Student presentations
  • Last week recap and questions
  • Responsive web development
     • Relative measurements (%, (r)em, vw)
@@ -36,6 +31,7 @@ _Deadline Monday_
 
 ### Exercises:
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+ - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
 ### Super fun flexbox and grid practice 
  - [flexboxfroggy](https://flexboxfroggy.com/)
