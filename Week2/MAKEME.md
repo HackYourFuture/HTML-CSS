@@ -71,3 +71,9 @@ How to hand in your homework:
 ## Step 4: Prepare for next class
 
 Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
+
+### Install GitBash if you have a windows machine.
+
+If you have *Windows machines*, please follow the following link and install GitBash https://github.com/git-for-windows/git/releases/tag/v2.10.2.windows.1
+
+If you have Linux installed on your laptop or you have a MACbook, then you don’t need to do anything. See you next lesson.
