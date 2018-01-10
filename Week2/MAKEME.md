@@ -37,8 +37,6 @@
 
 ## Step 3: Assignment:
 
-> Use the command line to create a directory "week2" inside your html-css directory. There should already be a week1 inside that contains your homework of last week.
-
  - Grids exercise
     - Download the HTML and images in the folder Homework 2
     - You are going to write the CSS for this page
