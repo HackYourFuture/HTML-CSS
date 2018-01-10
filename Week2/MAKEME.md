@@ -41,7 +41,7 @@ _Deadline Monday_
 
 _Deadline Saturday_
 
-> Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
+> Use the command line to create a directory "week2" inside your html-css directory. There should already be a week1 inside that contains your homework of last week.
 
  - Grids exercise
     - Download the HTML and images in the folder Homework 2
@@ -64,7 +64,7 @@ _Deadline Saturday_
 How to hand in your homework:
 • Upload your homework in your Github repository. 
 • Make sure to create a new folder "week2" first. 
-• Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
+• Your html-css/week2 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```
 
