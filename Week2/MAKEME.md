@@ -16,8 +16,6 @@
 
 ## Step 1: Give feedback:
 
-_Deadline Monday_
-
 - In Trello you are added to one of the cards of your fellow students.
 - Give feedback CV assignment of one of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - Revisit you own CV assignment and improve it with the feedback and suggestions given by one of your classmates.  
@@ -38,8 +36,6 @@ _Deadline Monday_
  - [cssgridgarden](http://cssgridgarden.com/)
 
 ## Step 3: Assignment:
-
-_Deadline Saturday_
 
 > Use the command line to create a directory "week2" inside your html-css directory. There should already be a week1 inside that contains your homework of last week.
 
@@ -75,7 +71,5 @@ How to hand in your homework:
     - SVG
 
 ## Step 4: Prepare for next class
-
-_Deadline Sunday morning_
 
 Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
