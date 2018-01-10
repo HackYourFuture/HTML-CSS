@@ -21,7 +21,7 @@
 - Revisit you own CV assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
 ## Step 2: Read/do/watch
- - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+ - [Introduction to media queries (Reading)](https://www.sitepoint.com/creating-media-queries-for-responsive-web-designs/) or [Introduction to media queries (Video)](https://www.youtube.com/watch?v=fA1NW-T1QXc)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
