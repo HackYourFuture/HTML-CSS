@@ -26,6 +26,7 @@
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  - [Read about nice color combinations](http://www.colorcombos.com/index.html)
+ - [Introduction to FlexBox](https://www.youtube.com/watch?v=sewV3LsmoXI)
 
 ### Exercises:
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
