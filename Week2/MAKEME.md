@@ -42,7 +42,10 @@
     - Download the HTML and images in the folder Homework 2
     - You are going to write the CSS for this page
     - You are not allowed to change the HTML
-    - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
+    - The page contains two grids: 
+      - The first one should work using floats, 
+      - The second using flex box. 
+    - Be careful not to mix the two!
     - We want the grid to look as follows (check the wireframe below):
       - On mobile phones: a two column grid, with the exception that the first item spans the full width
       - On tablets: a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
