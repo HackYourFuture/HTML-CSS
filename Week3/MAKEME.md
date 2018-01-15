@@ -1,6 +1,6 @@
 ## Homework Week 3
 
->[Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find the readings you have to complete before your first JavaScript lecture
+>[Here](https://github.com/SocialHackersCodeSchool/JavaScript/tree/master/Week0) you find the readings you have to complete before your first JavaScript lecture
 
 ### Learning goals for this week:
 ```
@@ -34,7 +34,7 @@ _Deadline Monday_
 
 _Deadline Tuesday_
 
->We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
+>We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/SocialHackersCodeSchool/CommandLine
 
 ```
 Write commands to do following:
