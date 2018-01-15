@@ -77,7 +77,7 @@ _Steps_:
 1. In your newly created Github account search for the invitation from the HackYourFuture organization to you join your classes team.
 2. Create a new repository (name it something like hyf-html-css) make sure you select the option: initialize with README.
 3. Inside your new repository create a folder called "week1". If you have trouble finding out how to create a folder in Github check this [Stack Overflow question](https://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git)
->Tip you can also create a "week1" folder on your local computer that contains you files and upload the entire folder to Github.
+>Tip: you can also create a "week1" folder on your local computer that contains you files and upload the entire folder to Github.
 
 4. Upload the files you created on your computer (step 3 of the homework) inside this folder, write a description for this “commit” (for example: "homework week1").
 5. Your hyf-html-css/week1 should now contain an index.html and a main.css file (and maybe a folder containing your images)
