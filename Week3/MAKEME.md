@@ -1,6 +1,6 @@
 ## Homework Week 3
 
->[Here](https://github.com/HackYourFuture/JavaScript/tree/master/Week0) you find the readings you have to complete before your first JavaScript lecture
+>[Here](/JavaScript/Week0/README.md) you find the readings you have to complete before your first JavaScript lecture
 
 ### Learning goals for this week:
 ```
@@ -57,7 +57,7 @@ How to hand in your homework:
 • Place the link to your repository in Trello.
 ```
 
-## Step 4: Prepare for next class
+## Step 3: Prepare for next class
 
 _Deadline Sunday morning_
 
