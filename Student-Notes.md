@@ -10,6 +10,6 @@
 * Explanation about the ViewPort meta tag: https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag#Viewport_basics
 * Introduction to using Media Queries: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 * How to position content on a page: https://learn.shayhowe.com/html-css/positioning-content/
-* Understanding and using REM units in CSS: Understanding and Using rem Units in CSS — SitePoint
+* Understanding and using REM units in CSS: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 
 # Week 3
