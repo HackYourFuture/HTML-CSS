@@ -1,3 +1,8 @@
+# General
+* Learn HTML in Arabic: https://www.youtube.com/playlist?list=PLDoPjvoNmBAwClZ1PDcjWilxp9YERUbNt
+* Learn CSS in Arabic: https://www.youtube.com/playlist?list=PLDoPjvoNmBAzAeIcXA3_JsmSkPKOs9W-Y
+* Learn CSS3 in Arabic: https://www.youtube.com/playlist?list=PLDoPjvoNmBAyEyQaHOHO1HJtmSgGt07VC
+
 # Week 1
 * Validate your HTML to make sure there are no bugs in it: https://validator.w3.org/
 * Some fun CSS transitions to play with to make your website look nice: https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
