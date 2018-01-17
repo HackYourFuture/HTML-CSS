@@ -17,5 +17,6 @@
 * How to position content on a page: https://learn.shayhowe.com/html-css/positioning-content/
 * Understanding and using REM units in CSS: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 * Useful Nth Child Codes: https://css-tricks.com/useful-nth-child-recipies/
+* Flexbox Information: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 # Week 3
