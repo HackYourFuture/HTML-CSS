@@ -13,15 +13,6 @@
  • How to rebuild an existing responsive page (getting started with this week's homework exercise)
 ```
 
-### In class:
- - Task: find some info about a certain topic in groups of 2, present to each other
-   - Choose one of the following subjects, look up how it works and implement it in a web page
-      - CSS transitions
-      - CSS animations with keyframes
-      - SVG
-      - Drop down menu in CSS
-      - flex-box
-
 ## Step 1: Give feedback
 
 - In Trello you are added to one of the cards of your fellow students.
