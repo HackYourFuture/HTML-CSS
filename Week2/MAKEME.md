@@ -39,7 +39,7 @@
 ## Step 3: Assignment:
 
  - Grids exercise
-    - Download the HTML and images in the folder Homework 2
+    - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SocialHackersCodeSchool/HTML-CSS/tree/master/Week2/Homework2))
     - You are going to write the CSS for this page
     - You are not allowed to change the HTML
     - The page contains two grids: 
