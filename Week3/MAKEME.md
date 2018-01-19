@@ -69,4 +69,4 @@ How to hand in your homework:
 
 ## Step 3: Prepare for next class
 
-Go trough the reading material in the JavaScript [README.md](/JavaScript/Week0/README.md) to prepare for your next class
+Go trough the reading material in the JavaScript [README.md](https://github.com/SocialHackersCodeSchool/JavaScript/blob/master/Week0/README.md) to prepare for your next class
