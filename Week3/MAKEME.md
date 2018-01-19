@@ -26,7 +26,7 @@
 ```
 Write commands to do following:
 1. 
-Create a directory. Enter a directory. Create an empty file named blank. 
+Create a folder. Enter a folder. Create an empty file named blank. 
 2. 
 Then write the content `"Hello"` five times to the file greetings.txt. 
 Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
@@ -39,7 +39,7 @@ Then write the text "cat" to commands.txt
 Then append the text "ls" to commands.txt
 Then append the text "pwd" to commands.txt
 5. 
-Then find unique strings from these two files pets.txt and commands.txt and store the unique strings in lovelyCommands.txt
+Then find unique words from these two files pets.txt and commands.txt and store the unique words in lovelyCommands.txt
 ```
 
 
