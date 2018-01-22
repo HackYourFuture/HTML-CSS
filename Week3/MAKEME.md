@@ -45,8 +45,6 @@ Then find unique words from these two files pets.txt and commands.txt and store 
 
 ## Step 3: Assignment
 
-> Use the command line to create a directory "week3" inside your "sha-html-css" directory. There should already be a "week1" and "week2" inside that contains your homework of the last weeks. 
-
  - Remake an existing responsive website: choose one of the following
    - https://www.rijksoverheid.nl
    - http://www.awwwards.com
