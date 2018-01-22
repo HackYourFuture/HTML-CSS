@@ -52,6 +52,7 @@ Write commands to do following:
  - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+ - [How CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  - [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
