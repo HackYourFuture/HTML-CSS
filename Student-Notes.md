@@ -18,5 +18,6 @@
 * Understanding and using REM units in CSS: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 * Useful Nth Child Codes: https://css-tricks.com/useful-nth-child-recipies/
 * Flexbox Information: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Flexbox Properties Demonstration: https://codepen.io/justd/full/yydezN/
 
 # Week 3
