@@ -61,4 +61,4 @@ How to hand in your homework:
 
 _Deadline Sunday morning_
 
-Go trough the reading material in the JavaScript [README.md](/JavaScript/Week0/README.md) to prepare for your next class
+Go trough the reading material in the JavaScript [README.md](https://github.com/HackYourFuture/JavaScript/Week0/README.md) to prepare for your next class
