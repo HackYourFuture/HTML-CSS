@@ -1,6 +1,6 @@
 ## Homework Week 3
 
->[Here](/JavaScript/Week0/README.md) you find the readings you have to complete before your first JavaScript lecture
+>[Here](https://github.com/HackYourFuture/JavaScript/Week0/README.md) you find the readings you have to complete before your first JavaScript lecture
 
 ### Learning goals for this week:
 ```
