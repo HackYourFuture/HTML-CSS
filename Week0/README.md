@@ -61,16 +61,11 @@
 
 >If the answer to this is 'no', don't panic, you can always ask help in Slack, but before you do, please first try and see if you can find some information about the above tools yourself (hint: ask Google first).
 
-### Do you have a text editor installed?
+### Do you have Visual studio installed?
 
-Any of the ones listed below is fine.
 - [Visual studio](https://code.visualstudio.com/)
-- [Brackets](http://brackets.io)
-- [Atom](https://atom.io/)
-- [Spacemacs](http://spacemacs.org/)
-- [Sublime (not free)](https://www.sublimetext.com/)
 
-If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
+>Visual studio is the default text editor we use in the course. We expect you to use this editor through the entire course.
 
 ### Curriculum
 Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
