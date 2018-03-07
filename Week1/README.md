@@ -18,6 +18,9 @@ If you have *Windows machines*, please follow the following link and install Git
 
 If you have Linux installed on your laptop or you have a MACbook, then you don’t need to do anything. See you this Sunday.
 
+### Read about CLI
+
+[CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
 ### Here are resources that we like you to read as a preparation for the coming lecture:
 - Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html). 
