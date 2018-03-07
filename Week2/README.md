@@ -2,7 +2,7 @@
 
 ```
 In week two we will discuss the following topics
-• [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
+• CLI(https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md)
     • Learn output redirection, piping on the terminal.
     • Write basic shell scripts to ease the programming life.
 • Recap
@@ -10,6 +10,7 @@ In week two we will discuss the following topics
 ```
 
 - [CSS tricks ](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+- [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md)
 - Bookmark the sites/resources that you used that where most useful for you the last two weeks.
 
 _Please go through the material and come to class prepared!_
