@@ -42,14 +42,11 @@ Before you start check out this [video](http://www.learningscientists.org/videos
 
 _Deadline Monday_
 
-- Please create a repository on Github, call it `sha-html-css`.
-- Inside this repository create a folder `week0`.
-- Use the code of the application assignment you have made, copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
-- For better instructions on how to do this please check the [how to hand in homework](#how-to-hand-in-homework) down below.
+- Make sure you have posted the link to your CodePen on your Trello card
 - In Trello, you are assigned to one of the cards of your fellow students (in the _your class number_ Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
 
-> Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
+> Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
 
 ## Step 3: Assignment
 
