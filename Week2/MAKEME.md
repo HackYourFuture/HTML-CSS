@@ -24,6 +24,7 @@
  - [Introduction to media queries (Reading)](https://www.sitepoint.com/creating-media-queries-for-responsive-web-designs/) or [Introduction to media queries (Video)](https://www.youtube.com/watch?v=fA1NW-T1QXc)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+ - [How CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  - [Read about nice color combinations](http://www.colorcombos.com/index.html)
  - [Introduction to FlexBox](https://www.youtube.com/watch?v=sewV3LsmoXI)
@@ -32,7 +33,7 @@
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
  - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
-### Super fun flexbox and grid practice 
+### Super fun flexbox and grid practice
  - [flexboxfroggy](https://flexboxfroggy.com/)
  - [cssgridgarden](http://cssgridgarden.com/)
 
@@ -42,9 +43,9 @@
     - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SocialHackersCodeSchool/HTML-CSS/tree/master/Week2/Homework2))
     - You are going to write the CSS for this page
     - You are not allowed to change the HTML
-    - The page contains two grids: 
-      - The first one should work using floats, 
-      - The second using flex box. 
+    - The page contains two grids:
+      - The first one should work using floats,
+      - The second using flex box.
       - Be careful not to mix the two!
     - We want the grid to look as follows (check the wireframe below):
       - On mobile phones: a two column grid, with the exception that the first item spans the full width
@@ -60,8 +61,8 @@
 
 ```
 How to hand in your homework:
-• Upload your homework in your Github repository. 
-• Make sure to create a new folder "week2" first. 
+• Upload your homework in your Github repository.
+• Make sure to create a new folder "week2" first.
 • Your html-css/week2 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```

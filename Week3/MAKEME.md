@@ -25,20 +25,20 @@
 
 ```
 Write commands to do following:
-1. 
-Create a folder. Enter a folder. Create an empty file named blank. 
-2. 
-Then write the content `"Hello"` five times to the file greetings.txt. 
+1.
+Create a folder. Enter a folder. Create an empty file named blank.
+2.
+Then write the content `"Hello"` five times to the file greetings.txt.
 Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
-3. 
+3.
 Then write the text "cat" to pets.txt
 Then append the text "dog" to pets.txt
 Then append the text "hamster" to pets.txt
-4. 
+4.
 Then write the text "cat" to commands.txt
 Then append the text "ls" to commands.txt
 Then append the text "pwd" to commands.txt
-5. 
+5.
 Then find unique words from these two files pets.txt and commands.txt and store the unique words in lovelyCommands.txt
 ```
 
@@ -59,8 +59,8 @@ Then find unique words from these two files pets.txt and commands.txt and store 
 
 ```
 How to hand in your homework:
-• Upload your homework in your Github repository. 
-• Make sure to create a new folder "week3" first. 
+• Upload your homework in your Github repository.
+• Make sure to create a new folder "week3" first.
 • Your sha-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```

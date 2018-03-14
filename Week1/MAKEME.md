@@ -40,6 +40,12 @@ Before you start check out this [video](http://www.learningscientists.org/videos
 
 ## Step 2: Give feedback
 
+_Deadline Monday_
+
+- Please create a repository on Github, call it `sha-html-css`.
+- Inside this repository create a folder `week0`.
+- Use the code of the application assignment you have made, copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
+- For better instructions on how to do this please check the [how to hand in homework](#how-to-hand-in-homework) down below.
 - In Trello, you are assigned to one of the cards of your fellow students (in the _your class number_ Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
 
@@ -71,6 +77,8 @@ _Steps_:
 1. In your newly created Github account search for the invitation from the SocialHackersAcademy organization to you join your classes team.
 2. Create a new repository (name it something like html-css) make sure you select the option: initialize with README.
 3. Inside your new repository create a folder called "week1". If you have trouble finding out how to create a folder in Github check this [Stack Overflow question](https://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git)
+>Tip: you can also create a "week1" folder on your local computer that contains you files and upload the entire folder to Github.
+
 4. Upload the files you created on your computer (step 3 of the homework) inside this folder, write a description for this “commit” (for example: "homework week1").
 5. Your html-css/week1 should now contain an index.html and a main.css file (and maybe a folder containing your images)
 6. Open the files in your folder to check if all of this worked.
@@ -89,4 +97,3 @@ _Steps_:
 ## Step 4: Prepare for next class
 
 Go trough the reading material in the [README.md](/Week1/README.md) to prepare for your next class
-
