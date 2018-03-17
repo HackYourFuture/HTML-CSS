@@ -8,6 +8,7 @@ In week two we will discuss the following topics
 • Recap
 • How to find useful resources on the web
 ```
+Read the following links: 
 
 - [CSS tricks ](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 - [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md)
