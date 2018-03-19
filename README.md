@@ -15,7 +15,6 @@ So since this is your first module, what can you expect the next three weeks?
 ## Planning for Current Class
 | Week | Topic | Read | Homework |
 | ---- | ----- | ---- |----------|
-|0.|Prepare for first session|[Pre-reading](/Week0/README.md)|-|-|
 | 1. | DOM, HTML/CSS syntax | [Week 1 Reading](/Week1/README.md) |  [Homework week 1](/Week1/MAKEME.md) |
 | 2. | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md), Responsive design, media queries, developer tools | [Week 2 Reading](/Week2/README.md) | [Homework week 2](/Week2/MAKEME.md) |
 | 3. | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md), Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/blob/master/Week0/README.md) | [Homework week 3](/Week3/MAKEME.md) |
