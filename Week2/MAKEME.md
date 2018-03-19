@@ -1,6 +1,6 @@
 ## Homework Week 2
 
->[Here](/Week2/README.md) you find the readings you have to complete before the third lecture.
+>[Here](/Week3/README.md) you find the readings you have to complete before the third lecture.
 
 ### Learning goals for this week:
 ```
@@ -104,4 +104,4 @@ How to hand in your homework:
 
 _Deadline Sunday morning_
 
-Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
+Go trough the reading material in the [README.md](/Week3/README.md) to prepare for your next class
