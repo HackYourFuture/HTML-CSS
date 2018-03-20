@@ -38,9 +38,7 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 ## Step 2: Give feedback
 
-_Deadline Monday_
-
-- Please create a repository on Github, call it `hyf-html-css`.
+- Please create a repository on Github, call it `sha-html-css`.
 - Inside this repository create a folder `week0`.
 - Use the code of the application assignment you have made, copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
 - For better instructions on how to do this please check the [how to hand in homework](#how-to-hand-in-homework) down below.
@@ -50,8 +48,6 @@ _Deadline Monday_
 > Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
 
 ## Step 3: Assignment
-
-_Deadline Saturday_
 
  - Make your own web resume:
     - One page
@@ -95,8 +91,6 @@ _Steps_:
 [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
 ## Step 4: Prepare for next class
-
-_Deadline Sunday morning_
 
 Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
 
