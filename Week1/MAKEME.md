@@ -94,6 +94,14 @@ _Steps_:
 ### Fun to check out:
 [Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
+### Tools for testing accessibility:
+
+Chrome: [Accessibility for developer](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+
+Software
+- Windows: [NVDA](https://www.nvaccess.org/)
+- Mac: [VoiceOver](https://www.apple.com/accessibility/mac/vision/)
+
 ## Step 4: Prepare for next class
 
 _Deadline Sunday morning_
