@@ -1,0 +1,12 @@
+/* inherit a secondery .css file */
+/* @import "second.css"; */
+
+
+h1,p{
+    background: blue;
+    text-align: center;
+}
+
+/* div .cont{
+    color: green;
+} */
