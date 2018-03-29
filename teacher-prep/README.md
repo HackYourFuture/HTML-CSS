@@ -10,11 +10,11 @@ In here, you will find any planning that teachers who have delivered this course
 
 ## Presentations
 
-[Week 1](Week 1/Slides.pdf)
+[Week 1](Week%201/Slides.pdf)
 
 ## Live Coding Exercises
 
-* [Simple HTML file](Week 1/examples/simple.html) - Shows the structure of a simple **index.html** file.
-* [Non-semantic elements demo](Week 1/examples/elements.html) - Demonstrates the use of non-semantic elements in a web page.
-* [Attributes demo](Week 1/examples/attributes.html) - Demonstrates various HTML elements that accept certain attributes.
-* [CSS demo](Week1 /examples/index.html) - Demonstrates various CSS styling techniques.
+* [Simple HTML file](Week%201/examples/simple.html) - Shows the structure of a simple **index.html** file.
+* [Non-semantic elements demo](Week%201/examples/elements.html) - Demonstrates the use of non-semantic elements in a web page.
+* [Attributes demo](Week%201/examples/attributes.html) - Demonstrates various HTML elements that accept certain attributes.
+* [CSS demo](Week%201/examples/index.html) - Demonstrates various CSS styling techniques.
