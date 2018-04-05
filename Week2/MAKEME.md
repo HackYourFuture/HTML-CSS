@@ -32,11 +32,11 @@
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
  - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
-### Super fun flexbox and grid practice
+## Step 3: Super fun flexbox and grid practice
  - [flexboxfroggy](https://flexboxfroggy.com/)
  - [cssgridgarden](http://cssgridgarden.com/)
 
-## Step 3: Assignment:
+## Step 4: Assignment:
 
  - Grids exercise
     - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SocialHackersCodeSchool/HTML-CSS/tree/master/Week2/Homework2))
@@ -68,7 +68,7 @@ How to hand in your homework:
     - An animation using CSS keyframes
     - SVG
 
-## Step 4: Prepare for next class
+## Step 5: Prepare for next class
 
 Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
 
