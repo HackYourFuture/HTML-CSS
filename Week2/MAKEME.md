@@ -32,7 +32,7 @@
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
  - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
-## Step 3: Super fun flexbox and grid practice
+## Step 3: Super Fun Games
  - [FlexBox Froggy](https://flexboxfroggy.com/)
  - [CSS Diner](https://flukeout.github.io/)
 
