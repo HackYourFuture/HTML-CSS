@@ -33,8 +33,8 @@
  - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
 ## Step 3: Super fun flexbox and grid practice
- - [flexboxfroggy](https://flexboxfroggy.com/)
- - [cssgridgarden](http://cssgridgarden.com/)
+ - [FlexBox Froggy](https://flexboxfroggy.com/)
+ - [CSS Diner](https://flukeout.github.io/)
 
 ## Step 4: Assignment:
 
