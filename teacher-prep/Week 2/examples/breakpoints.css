@@ -1,0 +1,47 @@
+header {
+  background-color: graytext;
+   margin-bottom: 25px;
+}
+
+nav a {
+  font-size: 0.7em
+}
+
+@media screen and (max-width: 600px) {
+  nav {
+    width: 100px;
+  }
+  
+  header {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  nav {
+    width: auto;
+  }
+  
+  header {
+    font-size: 20px;
+  }
+}
+
+button {
+  background-color: cyan;
+  padding: 12px;
+}
+
+@media screen and (orientation: portrait) {
+  button {
+    white-space: nowrap;
+    width: 210px;
+  }
+  
+  span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 85px;
+    display: inline-block;
+  }
+}

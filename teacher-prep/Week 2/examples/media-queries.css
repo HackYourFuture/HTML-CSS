@@ -1,0 +1,26 @@
+@media screen {
+  section {
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    margin-bottom: 25px;
+  }
+}
+
+@media (orientation: landscape) {
+  aside {
+    width: 50%;
+    height: 100%;
+    background-color: lightgray;
+  }
+}
+
+ul {
+  padding-top: 5px;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2vw;
+  }
+}

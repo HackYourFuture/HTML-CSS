@@ -1,0 +1,29 @@
+section {
+    width: 600px;
+    height: 400px;
+    background-color: green;
+    margin-bottom: 25px;
+  }
+  
+  aside {
+    width: 50%;
+    height: 100%;
+    background-color: lightgray;
+  }
+  
+  ul {
+    padding-top: 5px;
+  }
+  
+  header {
+    background-color: graytext;
+    font-size: 20px;
+  }
+  
+  nav a {
+    font-size: 0.7em
+  }
+  
+  h1 {
+    font-size: 2vw;
+  }
