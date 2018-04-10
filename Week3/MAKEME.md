@@ -30,8 +30,16 @@ _Deadline Monday_
 - Give feedback on the drone assignment and the command line homework of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - Revisit you own drone assignment and command line homework and improve it with the feedback and suggestions given by one of your classmates.  
 
+## Step 2: Command Line
 
-## Step 2: Assignment
+_Deadline Tuesday_
+
+>If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
+
+Make the command line homework that is listed here: https://github.com/HackYourFuture/CommandLine/blob/master/HomeWork2.md
+
+
+## Step 3: Assignment
 
 _Deadline Saturday_
 
@@ -57,7 +65,7 @@ How to hand in your homework:
 • Place the link to your repository in Trello.
 ```
 
-## Step 3: Prepare for next class
+## Step 4: Prepare for next class
 
 _Deadline Sunday morning_
 
