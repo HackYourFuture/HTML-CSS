@@ -34,7 +34,7 @@ _Deadline Monday_
 
 _Deadline Tuesday_
 
->We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
+>If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
 
 Make the command line homework that is listed here: https://github.com/HackYourFuture/CommandLine/blob/master/HomeWork2.md
 
