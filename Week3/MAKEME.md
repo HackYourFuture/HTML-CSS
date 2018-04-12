@@ -45,8 +45,12 @@ Then find unique words from these two files pets.txt and commands.txt and store 
 
 ## Step 3: Assignment
 
- - Remake an existing responsive website: choose one of the following
+The final part of this homework is to practice HTML and CSS by making a website. You don't have to complete it, just give it your best shot!
+
+ - Remake an existing responsive website: this one is good website to try with lots of different elements.
    - https://www.rijksoverheid.nl
+   
+ - If you want something a little harder you could try one of these
    - http://www.awwwards.com
    - https://www.bostonglobe.com
    - https://www.thinkwithgoogle.com
