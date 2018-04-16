@@ -69,6 +69,6 @@ How to hand in your homework:
 • Place the link to your repository in Trello.
 ```
 
-## Step 3: Prepare for next class
+## Step 4: Prepare for next class
 
 Go trough the reading material in the JavaScript [README.md](https://github.com/SocialHackersCodeSchool/JavaScript/blob/master/Week0/README.md) to prepare for your next class
