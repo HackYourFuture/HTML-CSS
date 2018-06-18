@@ -1,7 +1,7 @@
 # Reading material for the third lecture
 
 ```
-In week two we will discuss the following topics
+In week three we will discuss the following topics
 • CLI
     • Learn output redirection, piping on the terminal.
     • Write basic shell scripts to ease the programming life.

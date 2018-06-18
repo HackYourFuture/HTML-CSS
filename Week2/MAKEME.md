@@ -31,11 +31,37 @@ _Deadline Monday_
 
 _Deadline Tuesday_
 
->We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine
+>We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md
 
-Make the command line homework that is listed here: https://github.com/HackYourFuture/CommandLine/blob/master/HomeWork1.md
+```
+1. Research how to create a hidden file and how to display it using ls command.
 
-## Step 2: Read/do/watch
+2. Research how to create multiple nested directories with one mkdir command.
+E.g. How would you create 'fun' directory along with all directories in the path below:
+/c/Users/unmesh/these/folders/are/just/for/fun
+
+3. Execute following commands terminal:
+echo "test" > fun
+echo "another test" >> fun
+wc -c fun
+
+Verify number of characters in the file.
+
+4. Research how to append something in the file *WITHOUT* a newline character.
+E.g.
+echo "test" > fun
+echo "another test" >> fun
+cat fun
+Output of "cat fun" is
+test
+another test
+
+How would you use echo command, so that output would be:
+testanother test
+
+```
+
+## Step 3: Read/do/watch
  - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
@@ -50,7 +76,7 @@ Make the command line homework that is listed here: https://github.com/HackYourF
  - [flexboxfroggy](https://flexboxfroggy.com/)
  - [cssgridgarden](http://cssgridgarden.com/)
 
-## Step 3: Assignment:
+## Step 4: Assignment
 
 _Deadline Saturday_
 
@@ -87,7 +113,7 @@ How to hand in your homework:
     - An animation using CSS keyframes
     - SVG
 
-## Step 4: Prepare for next class
+## Step 5: Prepare for next class
 
 _Deadline Sunday morning_
 
