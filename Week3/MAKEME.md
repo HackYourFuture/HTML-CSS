@@ -31,7 +31,29 @@ _Deadline Monday_
 - Revisit you own drone assignment and command line homework and improve it with the feedback and suggestions given by one of your classmates.  
 
 
-## Step 2: Assignment
+## Step 2: Command Line
+
+_Deadline Wednesday_
+
+```
+Write ONE shell script to do following:
+1. create a directory. Enter a directory. Create an empty file named blank. 
+2. Then write the content "Hello" five times to the file greetings.txt. 
+   Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
+3. Then write the text "cat" to pets.txt
+   Then append the text "dog" to pets.txt
+   Then append the text "hamster" to pets.txt
+4. Then write the text "cat" to commands.txt
+   Then append the text "ls" to commands.txt
+   Then append the text "pwd" to commands.txt
+5. Then find unique strings from these two files pets.txt and commands.txt
+   and store the unique strings in lovelyCommands.txt
+```
+
+For and overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
+
+
+## Step 3: Assignment
 
 _Deadline Saturday_
 
