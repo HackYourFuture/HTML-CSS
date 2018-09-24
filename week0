@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Imagine Dragons band</title>
+</head>
+
+<body>
+
+  <h1 class="best-band">Imagine Dragons band</h1>
+
+  <img id="background-album" src="https://media1.s-nbcnews.com/i/newscms/2015_26/650336/150626-imagine-dragons-tz_475ef4b358f3fb4fab0ad37c65ab5705.jpg" alt="imagine dragons on stage" width="500">
+
+  <img id="album-art" src="https://pre00.deviantart.net/6b51/th/pre/i/2017/278/4/7/imagine_dragons_album_art_by_korkmaz0648-dbpnpv3.jpg" alt="imagine dragons album art by korkmaz" width="200">
+
+  <img id="on-stage" src="http://7wallpapers.net/wp-content/uploads/17_Imagine-Dragons.jpg" alt="imagine dragons on stage" width="500">
+
+  <div id="web-contents">
+    <ul id="heading">
+      <li><a href="#favorite-band">My favorite band of all time</a>.</li>
+      <li><a href="#awesome-group">Band members.</a></li>
+      <li><a href="#amazing-band">Some information about Imagine Dragons.</a></li>
+      <li><a href="#best-songs">Best of Imagine Dragons's Albums.</a></li>
+    </ul>
+
+    <h2 id="favorite-band" class="best-band">My favorite band of all time</h2>
+    <p class="info-web"><em>The best,</em> When I hear their music, I feel like entering a new world where I am full of power and in charge. I also feel like energetic aura rushing through my veins and make my problems fade away.. Plus, their lyrics is very empowering and
+      creative. <strong>They proving everytime and with releasing every new recording that they are awesome band.</strong></p>
+
+    <h2 id="awesome-group" class="best-band">Band members</h2>
+    <ul>
+      <li>Dan Reynolds – lead vocals, rhythm guitar, piano, keyboards, drums, percussion (2008–present).</li>
+      <li>Wayne Sermon – lead guitar, backing vocals, mandolin (2009–present).</li>
+      <li>Ben McKee – bass, piano, keyboards, synthesizers, backing vocals, guitar (2009–present).</li>
+      <li>Daniel Platzman – drums, percussion, backing vocals, rhythm guitar, viola, keyboards (2011–present).</li>
+    </ul>
+
+    <h2 id="amazing-band" class="best-band">Some information about Imagine Dragons</h2>
+
+    <p class="info-web"><img id="dragons-group" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Imagine_Dragons%2C_Roundhouse%2C_London_%2835390234536%29.jpg/533px-Imagine_Dragons%2C_Roundhouse%2C_London_%2835390234536%29.jpg" alt="imagine dragons, roundhouse, london">      <strong>Imagine Dragons</strong> is an American pop rock band from Las Vegas, Nevada, consisting of lead vocalist Dan Reynolds, lead guitarist Wayne Sermon, bassist Ben McKee, and drummer Daniel Platzman. The band first gained exposure with the
+      release of single "It's Time", followed by their award-winning debut studio album Night Visions 2012, which resulted in the chart-topping singles "Radioactive" and "Demons". Billboard placed them at the top of their "Year In Rock" rankings for 2013
+      and 2017 and named them their "Breakthrough Band of 2013". and "Biggest Band of 2017." Rolling Stone named "Radioactive", which holds the record for most weeks charted on the Billboard Hot 100, the "biggest rock hit of the year", <strong>and MTV called them "the year's biggest breakout band"</strong>.In
+      May 2014, the band was nominated for fourteen Billboard Music Awards, including Top Artist of the Year and a Milestone Award, which recognizes innovation and creativity of artists across different genres. Imagine Dragons have sold 12 million albums
+      and 35 million singles worldwide. <strong>In April 2018, the band was nominated eleven more times for Billboard Music Awards.</strong></p>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Imagine_Dragons">For more information cilck here</a>
+
+    <h3 class="best-band">Got Awards </h3>
+    <div id="music-center">
+      <ul>
+        <li><strong>3 American Music Awards</strong></li>
+        <li><strong>9 Billboard Music Awards</strong></li>
+        <li><strong>1 Grammy Award</strong></li>
+        <li><strong>1 MTV Video Music Award</strong></li>
+        <li><strong>1 World Music Award</strong></li>
+      </ul>
+    </div>
+
+    <h2 id="best-songs" class="best-band">Best of Imagine Dragons's Albums</h2>
+
+    <div id="back-list">
+      <table>
+        <thead>
+          <tr>
+            <th><strong>Album's name</strong></th>
+            <th><strong>Year</strong </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Evolve</td>
+            <td>2017</td>
+          </tr>
+          <tr>
+            <td>Smoke + Mirrors</td>
+            <td>2015</td>
+          </tr>
+          <tr>
+            <td>The Archive</td>
+            <td>2013</td>
+          </tr>
+          <tr>
+            <td>Continued Silence</td>
+            <td>2012</td>
+          </tr>
+          <tr>
+            <td>It's Time</td>
+            <td>2011</td>
+          </tr>
+          <tr>
+            <td>Hell And Silence</td>
+            <td>2010</td>
+          </tr>
+
+        </tbody>
+
+      </table>
+
+    </div>
+
+    <a target="_blank" href="https://www.imaginedragonsmusic.com/">Visit Imagine Dragons's official website</a>
+
+  </div>
+
+</body>
+
+</html>
