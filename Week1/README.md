@@ -26,8 +26,8 @@ In week one we will discuss the following topics
 ### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2017/what-is-a-FD.html)
  * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2017/practice.html)
- * From Part II. read: [Self Directed Learning](https://www.frontendhandbook.com/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2017/learning/html-css.html)
- * Read [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+ * From Part II. have a look at: [Self Directed Learning](https://www.frontendhandbook.com/learning/self-direct-learning.html), read the definitions of HTML and CSS here (use the rest of the links for later reference) [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2017/learning/html-css.html)
+ * Read(important!) [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### After you finish reading ask yourself the following questions:
  * What is a Front-End Developer?
