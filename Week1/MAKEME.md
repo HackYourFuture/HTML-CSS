@@ -42,7 +42,7 @@ _Deadline Monday_
 
 - Please create a repository on Github, call it `hyf-html-css`.
 - Inside this repository create a folder `week0`.
-- Use the code of the application assignment you have made, copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
+- Use the code of the application assignment you have made(in codepen.io), copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
 - For better instructions on how to do this please check the [how to hand in homework](#how-to-hand-in-homework) down below.
 - In Trello, you are assigned to one of the cards of your fellow students (in the _your class number_ Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
