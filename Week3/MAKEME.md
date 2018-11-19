@@ -22,16 +22,7 @@
       - Drop down menu in CSS
       - flex-box
 
-## Step 1: Give feedback
-
-_Deadline Monday_
-
-- In Trello you are added to one of the cards of your fellow students.
-- Give feedback on the drone assignment and the command line homework of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- Revisit you own drone assignment and command line homework and improve it with the feedback and suggestions given by one of your classmates.  
-
-
-## Step 2: Command Line
+## Step 1: Command Line
 
 _Deadline Wednesday_
 
@@ -53,7 +44,7 @@ Write ONE shell script to do following:
 For and overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
 
-## Step 3: Assignment
+## Step 2: Assignment
 
 _Deadline Saturday_
 
