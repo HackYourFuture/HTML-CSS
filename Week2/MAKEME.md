@@ -19,15 +19,7 @@
  • How to work with the inspector
 ```
 
-## Step 1: Give feedback:
-
-_Deadline Monday_
-
-- In Trello you are added to one of the cards of your fellow students.
-- Give feedback CV assignment of one of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- Revisit you own CV assignment and improve it with the feedback and suggestions given by one of your classmates.  
-
-## Step 2: Command Line
+## Step 1: Command Line
 
 _Deadline Tuesday_
 
@@ -61,7 +53,7 @@ testanother test
 
 ```
 
-## Step 3: Read/do/watch
+## Step 2: Read/do/watch
  - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
@@ -76,9 +68,9 @@ testanother test
  - [flexboxfroggy](https://flexboxfroggy.com/)
  - [cssgridgarden](http://cssgridgarden.com/)
 
-## Step 4: Assignment
+## Step 3: Assignment
 
-_Deadline Saturday_
+_Deadline Friday_
 
 > Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
 
