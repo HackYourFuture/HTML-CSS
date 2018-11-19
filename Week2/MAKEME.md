@@ -31,7 +31,7 @@ _Deadline Monday_
 
 _Deadline Tuesday_
 
->We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md
+>We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md
 
 ```
 1. Research how to create a hidden file and how to display it using ls command.
