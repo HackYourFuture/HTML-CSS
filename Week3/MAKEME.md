@@ -24,15 +24,7 @@
     - Drop down menu in CSS
     - flex-box
 
-## Step 1: Give feedback
-
-_Deadline Monday_
-
-- In Trello you are added to one of the cards of your fellow students.
-- Give feedback on the drone assignment and the command line homework of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- Revisit you own drone assignment and command line homework and improve it with the feedback and suggestions given by one of your classmates.
-
-## Step 2: Command Line
+## Step 1: Command Line
 
 _Deadline Wednesday_
 
