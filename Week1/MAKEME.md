@@ -91,7 +91,7 @@ _Steps_:
 6. Open the files in your folder to check if all of this worked.
 7. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
 8. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
-9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/week1
+9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_.github.io/hyf-html-css/week1
 10. Please upload a link to your homework in Trello.
 
 ### Here is an example of how your homework repository should look:
