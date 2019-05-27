@@ -1,41 +1,37 @@
-# HTML-CSS and Command Line
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/HTML-CSS/pulls).
 
-## Introduction
+# HackYourFuture - HTML, CSS and GIT (Frontend)
 
-In this module you will learn HTML and CSS. HTML is the language in which you define the structure of the content of your pages (e.g. headings, paragraphs, links and images). CSS is used to write down how everything should look (e.g. font sizes, colors and positions). While learning the basics of these two languages, you will also get familiar with text editors and the developer tools of your browser.
+Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice. Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing.
 
-We will focus on _responsive_ web development : you will learn how to make your website adapt to the size of the screen, using the _mobile first_ approach. As well as the _accessibility_ part of it, by adopting ARIA (Accessible Rich Internet Applications) as part of our dicipline. ARIA defines ways to make Web content and Web applications (especially those developed with Ajax and JavaScript) more accessible to people with disabilities. Last but not least we will spend time practicing some soft skills that are important for becoming a good developer. These include: presenting and explaining your work, and finding documentation on the web.
+## Learning goals
 
-## Command line
+In order to successfully complete this module you will need to master the following:
 
-The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module you will be introduced to the command line, in this module we will mainly use it to navigate our file system and creating files. Throughout the entire program you will have to use these skills and build on top of it.
+- Be able to write syntactically correct HTML and CSS
+- Understand what is meant by "responsive" web development
+- Keep in mind accessibility by developing according to the rules of ARIA
+- Explain your code by presenting what you've done
+- Know your way around your text editor
+- Feel comfortable working with your browser's inspector
+- Properly indent your code
 
-So since this is your first module, what can you expect the next three weeks?
+## How to use this repository
 
-## Planning for Current Class
+This repository consists of 3 essential parts:
 
-| Week | Topic                                                                                                                                | Read                                                                                         | Homework                            |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1.   | DOM, HTML/CSS syntax                                                                                                                 | [Week 1 Reading](/Week1/README.md)                                                           | [Homework week 1](/Week1/MAKEME.md) |
-| 2.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md), Responsive design, media queries, developer tools | [Week 2 Reading](/Week2/README.md)                                                           | [Homework week 2](/Week2/MAKEME.md) |
-| 3.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/), Recap, useful resources on the web               | [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) | [Homework week 3](/Week3/MAKEME.md) |
+1. `Reading materials`: this document contains all the required theory you need to know _**while**_ you're coding. It's meant as both study material and as a reference to understand what you're doing.
+2. `Homework`: this document contains the instructions for each week's homework.
 
-Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!
+Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!
 
-## Learning goals for HTML-CSS:
+## Planning
 
-```
-• Basic understanding of HTML and CSS
-• Know how to organize your files
-• Know your way around your text editor
-• Feel comfortable working with the inspector
-• Properly indent your code
-• Properly naming classes, id's
-• Responsive, mobile first development
-• Know good and bad practices when it comes to HTML
-• Get an understanding of where to find information on the web
-• Presenting and explaining your work to others
-```
+| Week | Topic                                                                                                                                | Reading Materials                                                                            | Homework                            | Lesson Plan                            |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------- | -------------------------------------- |
+| 1.   | HTML/CSS syntax, Document-Object Model                                                                                               | [Week 1 Reading](/Week1/README.md)                                                           | [Homework week 1](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
+| 2.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md), Responsive design, media queries, developer tools | [Week 2 Reading](/Week2/README.md)                                                           | [Homework week 2](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
+| 3.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/), Recap, useful resources on the web               | [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) | [Homework week 3](/Week3/MAKEME.md) | [W1 Lesson Plan](/Week3/LESSONPLAN.md) |
 
 ## Learning goals for CLI
 
