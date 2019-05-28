@@ -1,6 +1,6 @@
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/HTML-CSS/pulls).
+> If you are following the HackYourFuture curriculum we recommend you to first take a look at the complete curriculum, which you can find [here](https://www.github.com/curriculum).
 
-# HackYourFuture - HTML, CSS and GIT (Frontend)
+# Module #1 - HTML, CSS and GIT (Frontend)
 
 Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice. Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing.
 
@@ -22,8 +22,13 @@ This repository consists of 3 essential parts:
 
 1. `Reading materials`: this document contains all the required theory you need to know _**while**_ you're coding. It's meant as both study material and as a reference to understand what you're doing.
 2. `Homework`: this document contains the instructions for each week's homework.
+3. `Lesson Plans`: this part is meant for teachers as a reference. However, as a student don't be shy to take a look at it as well!
 
-Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!
+After your first class you should start off with checking the `reading materials` for that week. At the beginning that would be the [Week 1 Reading](/Week1/README.md). Study all the concepts and try to get the gist of every concept. After, you can get started with the `homework` for that week.
+
+**Have time left over?** Already take a look at the readings for the next week. That why you'll be doubly prepared for your next class!
+
+If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!
 
 ## Planning
 
@@ -33,12 +38,12 @@ Please get yourself familiar with this repository by navigating your way through
 | 2.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md), Responsive design, media queries, developer tools | [Week 2 Reading](/Week2/README.md)                                                           | [Homework week 2](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
 | 3.   | [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/), Recap, useful resources on the web               | [JavaScript Intro](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) | [Homework week 3](/Week3/MAKEME.md) | [W1 Lesson Plan](/Week3/LESSONPLAN.md) |
 
-## Learning goals for CLI
+## How to submit homework
 
-```
-• To know the terminal/bash/command line for UNIX based systems.
-• Navigate the file system without using a UI explorer.
-• Copy, rename and move files with terminal commands.
-• Learn output redirection, piping on the terminal.
-• Write basic shell scripts to ease the programming life.
-```
+In this module we'll be using [Trello](https://www.trello.com)
+
+## Finished?
+
+Have you finished the module? Great! Pat yourself on the back for the great work you've done.
+
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/HTML-CSS/pulls).
