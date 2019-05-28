@@ -54,7 +54,7 @@ testanother test
 
 ```
 
-## Step 3: Read/do/watch
+## Step 2: Read/do/watch
 
 - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
 - [More about media queries](https://css-tricks.com/css-media-queries/)
@@ -72,7 +72,7 @@ testanother test
 - [flexboxfroggy](https://flexboxfroggy.com/)
 - [cssgridgarden](http://cssgridgarden.com/)
 
-## Step 4: Assignment
+## Step 3: Assignment
 
 _Deadline Saturday_
 
@@ -109,8 +109,8 @@ How to hand in your homework:
   - An animation using CSS keyframes
   - SVG
 
-## Step 5: Prepare for next class
+## Step 4: Prepare for next class
 
 _Deadline Sunday morning_
 
-Go trough the reading material in the [README.md](/Week3/README.md) to prepare for your next class
+Go through the reading materials in the [README.md](/Week3/README.md) to prepare for your next class.
