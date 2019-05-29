@@ -66,8 +66,6 @@ GitHub is a place where you can put your code online. Why? To safely store your 
 - [Register](https://github.com/join) for an account
 - Put the URL for your account in the class channel
 
-At first we won't be using it. But after module #2 it will be a close companion, so stay tuned!
-
 ### Check double check:
 
 Let's make sure you have done everything necessary:

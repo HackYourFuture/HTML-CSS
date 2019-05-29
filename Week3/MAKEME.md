@@ -43,7 +43,7 @@ Write ONE shell script to do following:
    and store the unique strings in lovelyCommands.txt
 ```
 
-For and overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md/)
+For an overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md/)
 
 ## Step 3: Assignment
 

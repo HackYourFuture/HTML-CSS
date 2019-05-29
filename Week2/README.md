@@ -1,46 +1,112 @@
-# Reading material for the second lecture
+# Reading Material HTML/CSS/GIT Week 2
 
-```
-In week two we will discuss the following topics
-• CLI
-    • To know the terminal/bash/command line for UNIX based systems.
-    • Navigate the file system without using a UI explorer.
-    • Copy, rename and move files with terminal commands.
-• Responsive web development
-    • Relative measurements (%, (r)em, vw)
-    • Media queries
-    • Positioning (absolute, relative, fixed)
-    • Floating and clearing
-    • Flexbox
-• How to use the inspector
-```
+## Agenda
 
-## Introduction to the Command Line
+These are the topics for week 2:
 
-The Command Line interface (also known as CLI or shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module you will be introduced to the command line, in this module we will mainly use it to navigate our file system and creating files. Throughout the entire program you will have to use these skills and build on top of it.
+1. Introduction to GIT
+   - Working with the command line
+   - What is GIT?
+   - Installing GIT
+   - Basic GIT commands
+2. Advanced CSS
+   - Flexible organizing with flexbox
+   - Responsive design with media queries
+3. Working with the browser
+   - What is a browser?
+   - Choosing the right browser
+   - How to use the inspector
 
-### Install GitBash if you have a windows machine.
+## 1. Introduction to GIT
 
-If you have _Windows machines_, please follow the following link and install GitBash https://github.com/git-for-windows/git/releases/tag/v2.10.2.windows.1
+### Working with the command line
 
-If you have Linux installed on your laptop or you have a MACbook, then you don’t need to do anything. See you this Sunday.
+In order to learn GIT you first have to learn the `command line`!
 
-### Read about CLI
+The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It's a program that you can find pre-installed on your computer, but is named differently depending on your operating system:
 
-Go to the [CLI](https://github.com/HackYourFuture/CommandLine/) repoistory to prepare for you first commandline class!
+- For Windows it's called `cmd.exe`
+- For MacOS and Linux it's called `Terminal`
 
-### Here are resources that we like you to read as a preparation for the coming lecture:
+It's crucial to get used to working with it. In the following [document](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md) you'll read about the basic commands you need to know in order to successfully make use of the command line.
 
-- Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
-- And read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
+Also watch the following videos and code along:
+
+- [Terminal basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+
+### What is GIT?
+
+GIT is software that allows you to save your work at any given moment in time during your work. It's typically called a `version control system`, which essentially means that it allows you to create `versions` of your workspace and makes possible to switch between older and newer states.
+
+For example, let's say you have a folder with a single file. You can use GIT to make a "snapshot" of the current state of your workspace. This snapshot can be accessed at any given moment and used.
+
+Watch the following videos and code along:
+
+- [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+
+### Installing GIT
+
+In order to use GIT you have to first install it. The software is different depending on your operating system:
+
+- For Windows, install [Git Bash](https://git-scm.com/download/win)
+- For MacOS, install [GIT](https://git-scm.com/download/mac)
+- For Linux, install [GIT](https://git-scm.com/download/linux)
+
+### Basic GIT commands
+
+## 2. Intermediate CSS
+
+By now you've gotten some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
+
+### Flexible organizing with flexbox
+
+read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
+
 - [Mastering the :nth-child](http://nthmaster.com/)
+
+### Responsive design with media queries
+
+Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
+
 - Also take a look at these two websites, here you can find examples of responsive design
   - https://responsivedesign.is/examples/
   - https://www.awwwards.com/50-examples-of-responsive-web-design.html
 
+## 3. Working with the browser
+
+### What is a browser?
+
+You probably use it daily. But do you even know what it is that you're using?
+
+A browser is software that allows you to (1) connect to the internet and retrieve various files from it and (2) display documents
+
+- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
+
+Read:
+
+- [About your web browser](http://www.allaboutcookies.org/browsers/)
+
+### Choosing the right browser
+
+As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
+
+- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Microsoft Edge]()
+- [Opera]
+
+In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
+
 ### How to use the inspector :mag:
 
-Read and watch about how you can [Inspect and Edit Pages and Styles](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/) using the inspector
+The inspector is part of browsers developers can use to take a closer look at the
+
+Watch the following video and follow along:
+
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 Here you can read about the inspector which is part of the [The Chrome Developer Tools](https://developer.chrome.com/devtools)
 
