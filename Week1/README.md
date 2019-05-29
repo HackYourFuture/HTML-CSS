@@ -11,7 +11,7 @@ These are the topics for week 1:
    - Parents, children, attributes
    - Indentation
 3. Introduction to CSS:
-   - Where can we write it and what difference does that make?
+   - Where to write it?
    - The box model
    - The cascading effect
    - Selectors (id, class, element type), properties
@@ -87,16 +87,16 @@ If at any point you came to believe you would have to learn a whole list of tags
 
 ## 3. Introduction to CSS
 
-## Where to write it
+### Where to write it?
 
-## The box model
+### The box model
 
 "In CSS, everything is a box". This phrase summarizes a central concept in HTML/CSS: the box model. When building a web page each element can be considered a box that has the following properties: `margins`, `borders`, `paddings` and `content`. Starting from the first element within the <body>, everything that comes after will be pushed down (thanks to these 4 properties).
 
 Watch the following video to [learn more](https://www.youtube.com/watch?v=rIO5326FgPE).
 Read the following article to [learn more](https://learn.shayhowe.com/html-css/opening-the-box-model/).
 
-## The cascading effect
+### The cascading effect
 
 The first C in CSS stands for Cascading and it's crucial to learning how to use CSS correctly.
 

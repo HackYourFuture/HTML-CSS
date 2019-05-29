@@ -11,10 +11,11 @@ These are the topics for week 2:
    - Basic GIT commands
 2. Advanced CSS
    - Flexible organizing with flexbox
+   - Pseudo class selectors
    - Responsive design with media queries
 3. Working with the browser
-   - What is a browser?
-   - Choosing the right browser
+   - What is a web browser?
+   - Choosing the right web browser
    - How to use the inspector
 
 ## 1. Introduction to GIT
@@ -64,9 +65,24 @@ By now you've gotten some practice with CSS. In the following sections you'll le
 
 read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
 
+### Pseudo class selectors
+
+So far you've learned the following:
+
+- HTML allows you to structure content and media on a webpage
+- CSS is used to
+
+Every HTML element can be
+
 - [Mastering the :nth-child](http://nthmaster.com/)
 
 ### Responsive design with media queries
+
+Nowadays people use different devices to access websites: desktops, tablets and mobiles of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size on which it is viewed. It keeps images from being larger than the screen width, and prevents visitors on mobile devices from needing to do extra work to read your content.
+
+Most
+
+The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
 
 Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
 
@@ -76,11 +92,13 @@ Start reading about media queries here: [Introduction to Media Queries](https://
 
 ## 3. Working with the browser
 
-### What is a browser?
+### What is a web browser?
 
-You probably use it daily. But do you even know what it is that you're using?
+You probably use it daily. Let's talk a closer look at what it actually is.
 
-A browser is software that allows you to (1) connect to the internet and retrieve various files from it and (2) display documents
+A web browser is software that allows you view websites, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to render a webpage.
+
+For further study, watch the following:
 
 - [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
 
@@ -94,8 +112,9 @@ As a web developer you will write code that will display in browsers. As such it
 
 - [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
 - [Google Chrome](https://www.google.com/chrome/)
+- [Safari](https://support.apple.com/downloads/safari)
 - [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-- [Microsoft Edge]()
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
 - [Opera]
 
 In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
