@@ -6,21 +6,18 @@ These are the topics for week 1:
 
 1. What do HTML and CSS do?
 2. Introduction to HTML:
+   - Crash course
    - The essentials
    - Semantic HTML
-   - Parents, children, attributes
-   - Indentation
 3. Introduction to CSS:
+   - Crash course
    - Where to write it?
    - The box model
    - The cascading effect
-   - Selectors (id, class, element type), properties
-   - How to structure a CSS file
-   - Naming things
-4. Introduction to ARIA:
-   - What is ARIA and why is it important?
-   - Using ARIA in HTML
-   - Validating ARIA
+4. Working with the browser
+   - What is a web browser?
+   - Choosing the right web browser
+   - How to use the inspector
 
 ## 1. What do HTML and CSS do?
 
@@ -34,50 +31,11 @@ The products of HTML and CSS comprise a two-thirds of what is called `frontend` 
 
 ## 2. Introduction to HTML
 
-### The essentials
+### Crash course
 
-There are four sets of HTML tags that are needed to form the basic structure for every HTML file:
+HTML is the foundation of web development. In order to learn this properly it's important to know
 
-```html
-<html></html>
-<head></head>
-<title></title>
-<body></body>
-```
-
-Let's take a closer look at each of them:
-
-```
-Definition - <html> </html>
-```
-
-This basically defines the document as a web page. It also identifies the beginning and end of the HTML document. All other tags must fall between the html tags.
-
-```
-Header - <head> </head>
-```
-
-The header contains meta information: information about the information displayed in the document, such as the title, the author, stylesheet references and others.
-
-```
-Title - <title> </title>
-```
-
-The title tag defines the title that will appear in the title bar of your web browser. The title must appear between the head tags.
-
-```
-Body - <body> </body>
-```
-
-The body tags contain all the information and other visible content on the page. All your images, links and plain text must go between the <body></body> tags.
-
-These four tags are special. There must only be one set of each and they must be in the correct order.
-
-### Semantic HTML
-
-You're probably familiar with basic tags like <div> or <p>. The use of these might be obvious, but if you would read an HTML file full of these tags you most likely wouldn't be able to understand what's going on.
-
-This is where semantic tags are helpful. 'Semantic' is another word for 'meaningful'. With the arrival of HTML5 tags like <header>, <section> and <footer> it's much more clear to the reader what the role and purpose of any given HTML section would be.
+- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ### The commonly used tags
 
@@ -89,6 +47,14 @@ If at any point you came to believe you would have to learn a whole list of tags
 
 ### Where to write it?
 
+There are 3 basic ways to write CSS:
+
+- In an external stylesheet: a `.css` file, that is linked to a `.html` file.
+- In the <head> of a `.html` file. This is done using the <style> tag.
+- As part of the attribute `style` inside any HTML tag.
+
+As a rule, you want to write your CSS in separate `.css` files. This is because you want to make sure **every file has a single purpose**: an HTML file should only contain the content and structure of a page, while a stylesheet should only contain styling rules that apply to a page.
+
 ### The box model
 
 "In CSS, everything is a box". This phrase summarizes a central concept in HTML/CSS: the box model. When building a web page each element can be considered a box that has the following properties: `margins`, `borders`, `paddings` and `content`. Starting from the first element within the <body>, everything that comes after will be pushed down (thanks to these 4 properties).
@@ -98,25 +64,54 @@ Read the following article to [learn more](https://learn.shayhowe.com/html-css/o
 
 ### The cascading effect
 
-The first C in CSS stands for Cascading and it's crucial to learning how to use CSS correctly.
+The first C in CSS stands for Cascading and it's crucial to learning how to use CSS correctly. Essentially, it means that it matters
+(1) **in which order** and
+(2) **how specific**
+you write CSS rules.
 
-Read the following article to [learn about it](https://css-tricks.com/the-c-in-css-the-cascade/).
+Read the following articles to learn about it:
 
-## 4. Introduction to ARIA
+- [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
+- [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
-- [What is ARIA and why is it important?](https://www.youtube.com/watch?v=HtTyRajRuyY)
-- [Introduction to ARIA](https://www.youtube.com/watch?v=g9Qff0b-lHk)
-- [Web applications and ARIA FAQ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ)
+## 4. Working with the browser
 
-> Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
+### What is a web browser?
 
-## [Optional] Browsers & the Internet:
+You probably use it daily. Let's take a closer look at what it actually is.
 
-Have time left over? Or just curious? Check out the following videos to get more background information:
+A web browser is software that allows you view websites, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to render a webpage.
 
-- <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
-- <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
+For further study, watch the following:
 
-## Add a card in Trello:
+- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
+- [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
-- In Trello, create a card with your name (there is an example in there) and add the link to your CodePen that contains you technical assignment.
+Read:
+
+- [About your web browser](http://www.allaboutcookies.org/browsers/)
+
+### Choosing the right browser
+
+As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
+
+- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Safari](https://support.apple.com/downloads/safari)
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
+- [Opera](https://www.opera.com/download)
+
+In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
+
+### How to use the browser inspector :mag:
+
+The inspector is part of browsers developers can use to take a closer look at the
+
+Watch the following video and follow along:
+
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+
+## Finished?
+
+Are you finished with going through the materials? Nice job!!! If you feel ready to get practical, click [here](./MAKEME.md)

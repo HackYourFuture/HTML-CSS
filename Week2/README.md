@@ -13,10 +13,9 @@ These are the topics for week 2:
    - Flexible organizing with flexbox
    - Pseudo class selectors
    - Responsive design with media queries
-3. Working with the browser
-   - What is a web browser?
-   - Choosing the right web browser
-   - How to use the inspector
+3. The Document-Object model (DOM)
+   - What is the DOM?
+   -
 
 ## 1. Introduction to GIT
 
@@ -67,14 +66,7 @@ read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
 
 ### Pseudo class selectors
 
-So far you've learned the following:
-
-- HTML allows you to structure content and media on a webpage
-- CSS is used to
-
-Every HTML element can be
-
-- [Mastering the :nth-child](http://nthmaster.com/)
+Every HTML element can be in different states.
 
 ### Responsive design with media queries
 
@@ -86,53 +78,6 @@ The primary way of making a responsive website is by writing custom CSS code tha
 
 Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
 
-- Also take a look at these two websites, here you can find examples of responsive design
-  - https://responsivedesign.is/examples/
-  - https://www.awwwards.com/50-examples-of-responsive-web-design.html
-
-## 3. Working with the browser
-
-### What is a web browser?
-
-You probably use it daily. Let's talk a closer look at what it actually is.
-
-A web browser is software that allows you view websites, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to render a webpage.
-
-For further study, watch the following:
-
-- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
-
-Read:
-
-- [About your web browser](http://www.allaboutcookies.org/browsers/)
-
-### Choosing the right browser
-
-As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
-
-- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
-- [Opera]
-
-In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
-
-### How to use the inspector :mag:
-
-The inspector is part of browsers developers can use to take a closer look at the
-
-Watch the following video and follow along:
-
-- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
-
-Here you can read about the inspector which is part of the [The Chrome Developer Tools](https://developer.chrome.com/devtools)
-
-Please read the following sections:
-
-- Accessing the DevTools
-- The DevTools window
-- Inspecting the DOM and styles
+## 3. The Document-Object model (DOM)
 
 _Please go through the material and come to class prepared!_

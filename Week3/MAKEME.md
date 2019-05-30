@@ -1,51 +1,23 @@
-## Homework Week 3
+## Homework HTML/CSS/GIT Week 3
 
-> [Here](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) you find the readings you have to complete before your first JavaScript lecture
+## Todo list
 
-### Learning goals for this week:
+1. GIT exercises
+2. Responsive design challenges
+3. Code along
+4. PROJECT: Responsive website
 
-```
- • CLI
-    • Learn output redirection, piping on the terminal.
-    • Write basic shell scripts to ease the programming life.
- • Student presentations
- • Last week recap and questions
- • How to find information on the web
- • How to rebuild an existing responsive page (getting started with this week's homework exercise)
-```
+### 1. GIT exercises
 
-### In class:
+### 2. Responsive design challenges
 
-- Task: find some info about a certain topic in groups of 2, present to each other
-  - Choose one of the following subjects, look up how it works and implement it in a web page
-    - CSS transitions
-    - CSS animations with keyframes
-    - SVG
-    - Drop down menu in CSS
-    - flex-box
+### 3. Code along
 
-## Step 1: Command Line
+In the following video you'll learn how to build responsive website, using a popular CSS framework called [MaterializeCSS](https://materializecss.com/).
 
-_Deadline Wednesday_
+- [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
-```
-Write ONE shell script to do following:
-1. create a directory. Enter a directory. Create an empty file named blank.
-2. Then write the content "Hello" five times to the file greetings.txt.
-   Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
-3. Then write the text "cat" to pets.txt
-   Then append the text "dog" to pets.txt
-   Then append the text "hamster" to pets.txt
-4. Then write the text "cat" to commands.txt
-   Then append the text "ls" to commands.txt
-   Then append the text "pwd" to commands.txt
-5. Then find unique strings from these two files pets.txt and commands.txt
-   and store the unique strings in lovelyCommands.txt
-```
-
-For an overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md/)
-
-## Step 3: Assignment
+### 4. PROJECT: Responsive website
 
 _Deadline Saturday_
 
@@ -53,7 +25,6 @@ _Deadline Saturday_
 
 - Remake an existing responsive website: choose one of the following
   - https://www.rijksoverheid.nl
-  - http://www.awwwards.com
   - https://www.bostonglobe.com
   - https://www.thinkwithgoogle.com
   - http://muumilaakso.tampere.fi/en/
@@ -62,16 +33,8 @@ _Deadline Saturday_
 - It should have an external CSS file
 - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
-```
-How to hand in your homework:
-• Upload your homework in your Github repository.
-• Make sure to create a new folder "week3" first.
-• Your hyf-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
-• Place the link to your repository in Trello.
-```
+## SUBMIT YOUR HOMEWORK!
 
-## Step 3: Prepare for next class
+After you've finished your todo list it's time to show us what you got! Go through the [guide](../hand-in-homework.md) to learn how to submit your homework.
 
-_Deadline Sunday morning_
-
-Go through the reading material in the JavaScript [README.md](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) to prepare for your next class
+_Deadline Saturday 23.59 CET_

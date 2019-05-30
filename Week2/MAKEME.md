@@ -1,85 +1,30 @@
-## Homework Week 2
+## Homework HTML/CSS/GIT Week 2
 
-> [Here](/Week3/README.md) you find the readings you have to complete before the third lecture.
+## Todo list
 
-### Learning goals for this week:
+1. GIT exercises
+2. Responsive design challenges
+3. Code along
+4. PROJECT: Responsive website
 
-```
- • CLI
-    • To know the terminal/bash/command line for UNIX based systems.
-    • Navigate the file system without using a UI explorer.
-    • Copy, rename and move files with terminal commands.
- • Student presentations
- • Last week recap and questions
- • Responsive web development
-    • Relative measurements (%, (r)em, vw)
-    • Media queries
-    • Positioning (absolute, relative, fixed)
-    • Floating and clearing
-    • Flexbox
- • How to work with the inspector
-```
+### 1. GIT exercises
 
-## Step 1: Command Line
+### 2. Responsive design challenges
 
-_Deadline Tuesday_
+In the following mini-course you'll learn all about how to make your website `responsive`; how to make it change the size of elements while still looking good.
 
-> We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md
+- [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 
-```
-1. Research how to create a hidden file and how to display it using ls command.
+### 3. Code along
 
-2. Research how to create multiple nested directories with one mkdir command.
-E.g. How would you create 'fun' directory along with all directories in the path below:
-/c/Users/unmesh/these/folders/are/just/for/fun
+[Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 
-3. Execute following commands terminal:
-echo "test" > fun
-echo "another test" >> fun
-wc -c fun
+### 4. PROJECT: Responsive website
 
-Verify number of characters in the file.
-
-4. Research how to append something in the file *WITHOUT* a newline character.
-E.g.
-echo "test" > fun
-echo "another test" >> fun
-cat fun
-Output of "cat fun" is
-test
-another test
-
-How would you use echo command, so that output would be:
-testanother test
-
-```
-
-## Step 3: Read/do/watch
-
-- [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
-- [More about media queries](https://css-tricks.com/css-media-queries/)
-- [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
-- [How CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
-- [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
-- [Read about nice color combinations](http://www.colorcombos.com/index.html)
-
-### Exercises:
-
-- CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
-
-### Super fun flexbox and grid practice
-
-- [flexboxfroggy](https://flexboxfroggy.com/)
-- [cssgridgarden](http://cssgridgarden.com/)
-
-## Step 4: Assignment
-
-_Deadline Saturday_
-
-> Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
+https://www.html5webtemplates.co.uk/templates/simplestyle_purple/index.html
 
 - Grids exercise
-  - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/Homework2))
+  - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/homework2))
   - You are going to write the CSS for this page
   - You are not allowed to change the HTML
   - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
@@ -93,6 +38,8 @@ _Deadline Saturday_
     - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
   - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
 
+_Deadline Saturday_
+
 ![Wireframe](assets/wireframe.png)
 
 ```
@@ -102,15 +49,3 @@ How to hand in your homework:
 • Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```
-
-## Extra extra (bonus assignment :star: ):
-
-- Add one of the following to your page:
-  - An animation using CSS keyframes
-  - SVG
-
-## Step 5: Prepare for next class
-
-_Deadline Sunday morning_
-
-Go trough the reading material in the [README.md](/Week3/README.md) to prepare for your next class

@@ -1,18 +1,31 @@
-# Reading material for the third lecture
+# Reading Material HTML/CSS/GIT Week 3
 
-```
-In week three we will discuss the following topics
-• CLI
-    • Learn output redirection, piping on the terminal.
-    • Write basic shell scripts to ease the programming life.
-• Recap
-• How to find useful resources on the web
-```
+## Agenda
 
-Read the following links:
+These are the topics for week 3:
 
-- [CSS tricks ](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
-- [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/)
-- Bookmark the sites/resources that you used that where most useful for you the last two weeks.
+1. GIT branching
+   - Local branches
+   - Working with a remote repository
+   - Making pull requests
+   - Basic GIT workflow
+2. CSS Frameworks
+   - Why use a framework?
+   - Most popular frameworks
+3. CSS3 Animations
+   - Transitions
+   - Keyframes
 
-_Please go through the material and come to class prepared!_
+## 1. GIT branching
+
+### Local branches
+
+### Working with a remote repository
+
+### Making pull requests
+
+### Basic GIT workflow
+
+## 2. CSS Frameworks
+
+## 3. CSS3 Animations
