@@ -86,9 +86,6 @@ In week one we will discuss the following topics
 
 - [Visual studio](https://code.visualstudio.com/)
 
-After you installed vscode, also install the following plugins
-- [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
-
 >Visual studio is the default text editor we use in the course. We expect you to use this editor through the entire course.
 
 ### Curriculum
