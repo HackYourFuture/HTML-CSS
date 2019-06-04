@@ -9,6 +9,8 @@
 
 ### 1. GIT exercises
 
+Using GIT together with a remote code 
+
 ### 2. Responsive design challenges
 
 ### 3. Code along

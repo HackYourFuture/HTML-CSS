@@ -6,18 +6,18 @@ These are the topics for week 1:
 
 1. What do HTML and CSS do?
 2. Introduction to HTML:
-   - Crash course
-   - The essentials
-   - Semantic HTML
+    - Crash course
+    - The commonly used tags
+    - Semantic HTML
 3. Introduction to CSS:
-   - Crash course
-   - Where to write it?
-   - The box model
-   - The cascading effect
+    - Crash course
+    - Where to write it?
+    - The box model
+    - The cascading effect
 4. Working with the browser
-   - What is a web browser?
-   - Choosing the right web browser
-   - How to use the inspector
+    - What is a web browser?
+    - Choosing the right web browser
+    - How to use the inspector
 
 ## 1. What do HTML and CSS do?
 
@@ -25,7 +25,7 @@ HTML is an acronym for **HyperText Markup Language**. It is used to structure co
 
 CSS is an acronym for **Cascading Style Sheets**. It is a language created to change the appearance of content. By referring to the HTML tags you can `style` it in various ways: change the font size, increase the height or attach a background image to it.
 
-The two languages—HTML and CSS—are independent of one another and should remain that way. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always represent content, and CSS will always represent the appearance of that content.
+The two languages —HTML and CSS— are independent of one another and should remain that way. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always represent content, and CSS will always represent the appearance of that content.
 
 The products of HTML and CSS comprise a two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
 
@@ -33,25 +33,43 @@ The products of HTML and CSS comprise a two-thirds of what is called `frontend` 
 
 ### Crash course
 
-HTML is the foundation of web development. In order to learn this properly it's important to know
+HTML is the foundation of web development. In order to learn this properly it's important to know what is is. Go through the following video to learn about it:
 
-- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+-   [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ### The commonly used tags
 
 If at any point you came to believe you would have to learn a whole list of tags by heart in order to write great HTML, you are in luck: that's not needed.
 
-### Further research
+The most important thing to know is that the tags are used to **structure content**, or in other words: to decide how each part is organized in order to more easily understand what the page is trying to communicate.
+
+It's useful to memorize this list, but don't feel like you have to learn and memorize _every_ HTML tag. Once you understand the basic gist, you can easily look up what you need to fit your need in the moment.
+
+Check out the following article to find a list of the most commonly used tags: [The Most Commonly Used Tags](https://www.geeksforgeeks.org/most-commonly-used-tags-in-html/)
+
+## Semantic HTML
+
+Semantic HTML are HTML tags that introduce meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph. A <nav> tag indicates a navigation menu of some kind. Both examples show both meaning and structure, easier for both the browser and the developer to understand.
+
+This leads to the following insight about writing code: while code is written to produce working software, it should also be written so **other developers can easily read and understand it**. You'll learn more about that in later lessons.
+
+Take a look at the following resource to learn more about semantic HTML: [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
 ## 3. Introduction to CSS
+
+### Crash course
+
+CSS is just as important as HTML. Go through the following video to get a firm foundation:
+
+-   [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
 ### Where to write it?
 
 There are 3 basic ways to write CSS:
 
-- In an external stylesheet: a `.css` file, that is linked to a `.html` file.
-- In the <head> of a `.html` file. This is done using the <style> tag.
-- As part of the attribute `style` inside any HTML tag.
+-   In an external stylesheet: a `.css` file, that is linked to a `.html` file.
+-   In the <head> of a `.html` file. This is done using the <style> tag.
+-   As part of the attribute `style` inside any HTML tag.
 
 As a rule, you want to write your CSS in separate `.css` files. This is because you want to make sure **every file has a single purpose**: an HTML file should only contain the content and structure of a page, while a stylesheet should only contain styling rules that apply to a page.
 
@@ -71,8 +89,8 @@ you write CSS rules.
 
 Read the following articles to learn about it:
 
-- [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
-- [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
+-   [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
+-   [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
 ## 4. Working with the browser
 
@@ -84,34 +102,34 @@ A web browser is software that allows you view websites, either retrieved from t
 
 For further study, watch the following:
 
-- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
-- [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+-   [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
+-   [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
 Read:
 
-- [About your web browser](http://www.allaboutcookies.org/browsers/)
+-   [About your web browser](http://www.allaboutcookies.org/browsers/)
 
 ### Choosing the right browser
 
 As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
 
-- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
-- [Opera](https://www.opera.com/download)
+-   [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+-   [Google Chrome](https://www.google.com/chrome/)
+-   [Safari](https://support.apple.com/downloads/safari)
+-   [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+-   [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
+-   [Opera](https://www.opera.com/download)
 
 In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
 
 ### How to use the browser inspector :mag:
 
-The inspector is part of browsers developers can use to take a closer look at the
+The inspector is part of browsers developers can use to take a closer look at the composition of the HTML elements. This makes it easier to write correct HTML and CSS code that works.
 
 Watch the following video and follow along:
 
-- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+-   [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 ## Finished?
 
-Are you finished with going through the materials? Nice job!!! If you feel ready to get practical, click [here](./MAKEME.md)
+Are you finished with going through the materials? Nice job!!! If you feel ready to get practical, click [here](./MAKEME.md).

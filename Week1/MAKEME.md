@@ -11,47 +11,51 @@
 
 Before we get into coding we first have to create a folder that will hold all of our files. Follow the steps to get started:
 
-1. On your `Desktop`, create a folder called `HackYourFuture`. Inside this folder you will keep all your folders, files and projects during the whole of your HackYourFuture career!
-2. Inside this folder, create a folder called `HYF-Module1`.
+1. On , create a folder called `HackYourFuture`. Inside this folder you will keep all your folders, files and projects during the whole of your HackYourFuture career!
+2. Inside this folder, create a folder called `HYF-Module-HTML-CSS`.
 3.
 
 ### 2. CSS Challenges
 
-In order to get good fast you need to practice a lot! In the following challenges you'll work with CSS, starting from the absolute basics:
+In order to get good fast you need to practice a lot! In the following challenges you'll work with CSS, starting from the absolute basics to building a page:
 
--
+-   [CSS Challenges](https://en.wikiversity.org/wiki/Web_Design/CSS_challenges): Do challenge #1 to #6.
 
 ### 3. Code along
 
-A big part of learning web development is through learning by example. In the following video you'll learn how to build a
+A big part of learning web development is through learning by example. In the following video you'll learn how to build a simple website, using basic HTML & CSS:
+
+-   [Simple website](https://www.youtube.com/watch?v=pOwLCTkypUs)
 
 ### 4. PROJECT: Digital Resume
 
-Every week ends with a project you have to build on your own. Instead of getting clear-cut instructions, you'll get a list of criteria that your project needs to
+> Every week ends with a project you have to build on your own. Instead of getting clear-cut instructions, you'll get a list of criteria that your project needs to measure up to.
 
 In the following assignment you'll make your own Digital Resume. Here are the requirements that need to be fulfilled:
 
-- It needs to be one webpage
-- Your project folder should contain two files: HTML and CSS
-- Include the following pieces of information:
-  - Your personal info
-  - A picture of you
-  - A few lines about who you are
-  - Education
-  - Work experience
-  - _Please do not include your current address, phone number and mail address, your CV will be hosted on Github_
+-   It needs to be one webpage
+-   Your project folder should contain two files: HTML and CSS
+-   Include the following pieces of information:
+    -   Your personal information
+    -   A picture of you
+    -   A few lines about who you are
+    -   Education
+    -   Work experience
 
-When writing the HTML for your resume include the following:
+When writing the HTML include the following:
 
-- Different types of headings (`<h1>`, `<h2>`)
-- An unordered list (`<ul>`). In this list include the _learning strategies_ you used while studying. Also include some of the resources/references, this can be documentation/video etc., that were helpful.
-- Another unordered list (`<ul>`). In this list you include the most important platforms/resources where you can find all HackYourFuture related information.
-- an `<img>` tag (for the picture of you)
-- some `<p>` tags
-- Some CSS properties, like: `margin`, `padding`, `color`, etc.
+-   Different types of headings, like `<h1>` and `<h2>`
+-   An unordered list (`<ul>`). Use this to list out your educational background
+-   Another unordered list (`<ul>`).
+-   an `<img>` tag (for your picture)
+-   some `<p>` tags
+
+When writing the CSS include the following:
+
+-   Some CSS properties, like: `margin`, `padding`, `color`, etc.
 
 ## SUBMIT YOUR HOMEWORK!
 
-After you've finished your todo list it's time to show us what you got! Go through the [guide](../hand-in-homework.md) to learn how to submit your homework.
+After you've finished your todo list it's time to show us what you got! Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
 
 _Deadline Saturday 23.59 CET_
