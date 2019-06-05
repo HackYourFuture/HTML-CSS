@@ -4,7 +4,7 @@
 
 These are the topics for week 1:
 
-1. What do HTML and CSS do?
+1. What is the command line interface (CLI)?
 2. Introduction to HTML:
     - Crash course
     - The commonly used tags
@@ -19,21 +19,24 @@ These are the topics for week 1:
     - Choosing the right web browser
     - How to use the inspector
 
-## 1. What do HTML and CSS do?
+## 1. What is the command line interface (CLI)?
 
-HTML is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos or links to other websites, for example. The structure gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images.
+The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 
-CSS is an acronym for **Cascading Style Sheets**. It is a language created to change the appearance of content. By referring to the HTML tags you can `style` it in various ways: change the font size, increase the height or attach a background image to it.
+As a beginning programmer it's important to get familiar with it, as it will teach you how to computers work: to be used as a tool that you give instructions to. This is not any different from programming for web development; only instead of writing instructions to the computer directly, you write instructions for browsers to execute.
 
-The two languages —HTML and CSS— are independent of one another and should remain that way. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always represent content, and CSS will always represent the appearance of that content.
+For more information, check the following resources and code along:
 
-The products of HTML and CSS comprise a two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
+-   [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+-   [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 
 ## 2. Introduction to HTML
 
 ### Crash course
 
-HTML is the foundation of web development. In order to learn this properly it's important to know what is is. Go through the following video to learn about it:
+HTML is the foundation of web development. It is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos or links to other websites, for example. The structure gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images.
+
+In order to learn this properly it's important to know what is is. Go through the following video to learn more about it:
 
 -   [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
@@ -59,7 +62,9 @@ Take a look at the following resource to learn more about semantic HTML: [Semant
 
 ### Crash course
 
-CSS is just as important as HTML. Go through the following video to get a firm foundation:
+CSS is just as important as HTML. It is an acronym for **Cascading Style Sheets**. It is a language created to change the appearance of content. By referring to the HTML tags you can `style` it in various ways: change the font size, increase the height or attach a background image to it.
+
+Go through the following video to get a firmer foundation:
 
 -   [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 

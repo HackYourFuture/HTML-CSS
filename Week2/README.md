@@ -5,68 +5,121 @@
 These are the topics for week 2:
 
 1. Introduction to GIT
-    - Working with the command line
     - What is GIT?
     - Installing GIT
     - Basic GIT commands
-2. Advanced CSS
+2. More advanced CSS
     - Flexible organizing with flexbox
     - Pseudo class selectors
     - Responsive design with media queries
-3. The Document-Object model (DOM)
-    - What is the DOM?
-    -
 
 ## 1. Introduction to GIT
-
-### Working with the command line
-
-In order to learn GIT you first have to learn the `command line`!
-
-The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It's a program that you can find pre-installed on your computer, but is named differently depending on your operating system:
-
--   For Windows it's called `cmd.exe`
--   For MacOS and Linux it's called `Terminal`
-
-It's crucial to get used to working with it. In the following [document](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md) you'll read about the basic commands you need to know in order to successfully make use of the command line.
-
-Also watch the following videos and code along:
-
--   [Terminal basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
--   [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
 
 ### What is GIT?
 
 GIT is software that allows you to save your work at any given moment in time during your work. It's typically called a `version control system`, which essentially means that it allows you to create `versions` of your workspace and makes possible to switch between older and newer states.
 
-For example, let's say you have a folder with a single file. You can use GIT to make a "snapshot" of the current state of your workspace. This snapshot can be accessed at any given moment and used.
+For example, let's say you have a folder with a single file. You can use GIT to make a "snapshot" of the current state of your workspace. This snapshot can be accessed at any given moment, in case something went wrong (files corrupted, complex code that can't easily be reverted).
 
-Watch the following videos and code along:
+You can think of it like a video game. You get to a certain point in the game, after hours of struggle. You're really proud of how far you've come, and don't want to do it over again in case you die. So you decide to _save your game_. If something bad happens after that point you can always reload your game and start from that point on.
 
--   [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
--   [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. If you want to ever go back to a previous _game save_ you can load it by **checking out that commit**. You will learn more about that in the next sections.
 
 ### Installing GIT
 
-In order to use GIT you have to first install it. The software is different depending on your operating system:
+In order to use GIT you first have to install it. The software is different depending on your operating system:
 
 -   For Windows, install [Git Bash](https://git-scm.com/download/win)
 -   For MacOS, install [GIT](https://git-scm.com/download/mac)
 -   For Linux, install [GIT](https://git-scm.com/download/linux)
 
+After you've installed it you can use it through the CLI. To verify that it worked, enter the command:
+
+`git --version`
+
+It should say that the version is **2.21** (or up if you've installed a new version).
+
+Now that you have GIT installed, it's important give it some basic configuration. Inside your CLI, type in the following. Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively.
+
+```
+git config --global user.name "Your name"
+git config --global user.email "your.email@yourmailserver.com"
+```
+
+This makes sure GIT is able to identify who is using it.
+
 ### Basic GIT commands
 
-## 2. Intermediate CSS
+Like any software you execute through the CLI, you'll use GIT in the same way.
+
+There are different uses for GIT and for now we'll learn one procedure: committing your workspace to a local repository. Let's take that phrase apart first:
+
+-   **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
+-   **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
+-   **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
+-   **Repository** is a storage location inside which the data regarding your project folder is kept. GIT creates a hidden folder `.git` that functions as the local repository.
+
+Before we do anything we must know the most basic command of all:
+
+```
+git init
+```
+
+What this does is creating a brand new local repository in your project folder. Only after doing this will you be able the follow along the next procedure.
+
+No we can continue with the actual procedure itself. This happens in 3 stages:
+
+1. **Untracked**. In this stage GIT is not aware of the changes in your workspace.
+2. **Staged**. In this stage the changes are kept track of by GIT.
+3. **Committed** In this stage your changes have been saved into the local repository. If at any moment you need to refer to a previous version of your workspace you can safely do that now.
+
+This might sound very abstract, and it is. So to illustrate this watch the following videos and code along:
+
+-   [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+-   [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
+-   [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+## 2. More advanced CSS
 
 By now you've gotten some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
 
 ### Flexible organizing with flexbox
 
-read about [flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
+CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
+
+What this does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
+
+Read the following to learn more about 'grid-based web design':
+
+-   [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+-   [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+
+Once you understand this way of thinking you'll know why it makes sense to know Flexbox.
+
+In order to make use of it we have to access it through the `display` CSS property:
+
+```css
+display: flex;
+```
+
+This will allow us the Flexbox-specific properties, that allow us to develop clean and organised CSS. Check the following links to understand how this is done:
+
+-   [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+-   [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
 
 ### Pseudo class selectors
 
-Every HTML element can be in different states.
+Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
+
+```css
+p {
+	color: white;
+}
+```
+
+However, there are times when a user interacts with an element in a particular way. For most of these interactions we have special selectors. Read the following article to learn about it:
+
+-   [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
 
 ### Responsive design with media queries
 
@@ -78,6 +131,6 @@ The primary way of making a responsive website is by writing custom CSS code tha
 
 Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
 
-It's essential
+## Finished?
 
-## 3. The Document-Object model (DOM)
+Are you finished with going through the materials? Nice job!!! If you feel ready to get practical, click [here](./MAKEME.md).

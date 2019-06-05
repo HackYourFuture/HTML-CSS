@@ -2,18 +2,23 @@
 
 ## Todo list
 
-1. Set up folder
+1. Command Line Interface
 2. CSS Challenges
 3. Code along
 4. PROJECT: Digital Resume
 
-### 1. Setup folder
+### 1. Command Line Interface challenge
 
-Before we get into coding we first have to create a folder that will hold all of our files. Follow the steps to get started:
+Using the CLI, create a `.txt` that contains the commands necessary to answer the following questions:
 
-1. On , create a folder called `HackYourFuture`. Inside this folder you will keep all your folders, files and projects during the whole of your HackYourFuture career!
-2. Inside this folder, create a folder called `HYF-Module-HTML-CSS`.
-3.
+1. How do I create a hidden file or folder? How do I display it in the CLI?
+2. How do I create multiple nested directories, like `/c/Users/myusername/these/folders/are/just/for/fun`?
+3. How do I append a message to a file, without a newline character, so the output would be:
+
+```
+first message
+second message
+```
 
 ### 2. CSS Challenges
 
@@ -56,6 +61,11 @@ When writing the CSS include the following:
 
 ## SUBMIT YOUR HOMEWORK!
 
-After you've finished your todo list it's time to show us what you got! Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
+After you've finished your todo list it's time to show us what you got! The homework that needs to be submitted is the following:
+
+1. The CLI challenge
+2. The Digital Resume
+
+Upload both in a repository to GitHub and then upload the link to Trello. Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
 
 _Deadline Saturday 23.59 CET_

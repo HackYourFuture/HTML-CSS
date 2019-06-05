@@ -1,5 +1,7 @@
 ## Homework HTML/CSS/GIT Week 2
 
+> Create a directory "week2" inside your `HYF-Module-HTMLCSSGIT` directory on GitHub. There should already be a "week1" folder that contains your homework from the last week.
+
 ## Todo list
 
 1. GIT exercises
@@ -26,6 +28,8 @@ First HTML to provide structure & content, and then CSS. Look at the HTML tags u
 
 -   [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 
+The second website you're going to build revolves around using flexbox.
+
 ### 4. PROJECT: Drones website
 
 https://www.html5webtemplates.co.uk/templates/simplestyle_purple/index.html
@@ -48,4 +52,9 @@ https://www.html5webtemplates.co.uk/templates/simplestyle_purple/index.html
 
 ## SUBMIT YOUR HOMEWORK!
 
-After you've finished your todo list it's time to show us what you got! Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
+After you've finished your todo list it's time to show us what you got! The homework you have to this week is the following:
+
+1. GIT exercises
+2. The Drones website
+
+Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
