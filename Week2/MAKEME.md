@@ -11,6 +11,14 @@
 
 ### 1. GIT exercises
 
+The first exercise is to create a local repository using GIT and link it to a remote GitHub repository. Go through the following instructions:
+
+-   [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
+
+The next exercise is a short interactive course, that will take you through the basics of GIT usage:
+
+-   [Learn GIT](https://www.codecademy.com/learn/learn-git)
+
 ### 2. Responsive design challenges
 
 Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. However, fear not because it's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.
@@ -52,9 +60,9 @@ https://www.html5webtemplates.co.uk/templates/simplestyle_purple/index.html
 
 ## SUBMIT YOUR HOMEWORK!
 
-After you've finished your todo list it's time to show us what you got! The homework you have to this week is the following:
+After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
-1. GIT exercises
+1. GIT exercise #1 (the URL of the remote `git_practice` repository)
 2. The Drones website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.

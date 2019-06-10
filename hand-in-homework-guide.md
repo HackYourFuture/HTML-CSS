@@ -26,6 +26,6 @@ Follow these steps to upload the link to your homework:
 
 1. Go to the `Feedback Assignments` board
 2. In the right week, create a card with your name and week number (like, `Noer Paanakker Week 1 homework`)
-3. Click on the card, and attach the URL of your GitHub repository
+3. Click on the card, and attach the URL of your GitHub repository and/or other links
 
 If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!

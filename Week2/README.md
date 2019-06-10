@@ -8,6 +8,8 @@ These are the topics for week 2:
     - What is GIT?
     - Installing GIT
     - Basic GIT commands
+    - What is GitHub?
+    - Working with SSH
 2. More advanced CSS
     - Flexible organizing with flexbox
     - Pseudo class selectors
@@ -78,6 +80,34 @@ This might sound very abstract, and it is. So to illustrate this watch the follo
 -   [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
 -   [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 -   [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+## What is GitHub?
+
+GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is a development platform that allows you to store a copy of your code online. Check the following video to learn more:
+
+-   [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+We use GitHub because of its main benefit: it allows us to freely store our code online (or "remote", as we developers also call it). This is useful in case our computer, for some reason, crashes and our projects are lost.
+
+The second benefit is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
+
+### Working with SSH
+
+SSH stands for Secure Shell and is a way of providing users a secure way of accessing (the content of) a computer over an unsecure network. Simply put, it makes the connection much more difficult to hack or intercept.
+
+When working with online (or what you'll hear more often: remote) code repositories, you might be dealing with unsecure connections. In order to make the connection more secure, you have to use an **SSH key**. Similar to a real key, this digital key allows your computer to be identified by the network you're trying to access. If the connection has been made you can access and modify the contents of network.
+
+> The concept of secure networking through use of identifiers (like an SSH key) is also known as "authentication": are you who you say you are? Authentication is a central idea within programming and you should keep it in mind. You'll also be seeing more of it during later modules!
+
+Check the following resources for more information:
+
+-   [Beginners Guide To SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)
+-   [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
+
+When working with GitHub we want to ensure the same level of security. Thus, we will have to make an SSH key and link it to GitHub!
+
+-   [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+-   [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
 ## 2. More advanced CSS
 
