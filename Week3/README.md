@@ -6,9 +6,8 @@ These are the topics for week 3:
 
 1. GIT branching
     - Local branches
-    - Working with a remote repository: GitHub
+    - Working with branches on GitHub
     - Making pull requests
-    - Basic GIT workflow
 2. CSS Frameworks
     - Why use a framework?
     - Most popular frameworks
@@ -31,19 +30,23 @@ Working with branches is especially important when working with other developers
 
 -   [GitHub 'Hello World' Project](https://guides.github.com/activities/hello-world/)
 
-### Working with a remote repository: GitHub
-
-In practice, having a copy of your code is essential. What if your local files get corrupt, your computer crashes or it's almost impossible to rewrite complex code that just doesn't work? We already learned that GIT can help us with this.
-
-However, we can go a step further: we can have a copy of our code online. For this we use a Git repository hosting service, called **GitHub**.
-
--   [GIT Good: A Practical Introduction to GIT and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a)
-
 ### Making pull requests
 
 A **pull request** is a term GitHub uses to refer to merge requests; a request to incorporate code changes made by a developer (whether it's you or another developer) into the code stored in a branch of a repository.
 
-[[[[[TO BE CONTINUED!!!!!!!!!]]]]]
+These changes are proposed in a branch, and the pull request usually is made to merge into the `master` branch. Code changes through pull requests never merge directly into the target branch, unless the administrator uses their rights to do so. In normal circumstances, there has to be at least one other person reviewing the proposal before it is approved to be merged.
+
+Pull requests only happen in remote repositories. This can happen in 2 ways:
+(1) A merge request from one branch to another **within the same repository**. For more information on this, read:
+
+-   [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
+
+(2) A merge request from one branch to a branch **from a forked repository into the original repository**. A `fork` is a copy of a repository, that is stored in your personal GitHub account. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
+
+While both are important to know, it's useful to study the second way because that's how you'll submit your homework:
+
+-   [About forks](https://help.github.com/en/articles/about-forks)
+-   [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
 
 ## 2. CSS Frameworks
 

@@ -87,9 +87,11 @@ GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep
 
 -   [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-We use GitHub because of its main benefit: it allows us to freely store our code online (or "remote", as we developers also call it). This is useful in case our computer, for some reason, crashes and our projects are lost.
+We use GitHub because of its main benefit: it allows us to freely store our code online (or "remote", as we developers also call it). This is useful, for example, in case our computer crashes and our projects are lost.
 
-The second benefit is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
+The second benefit of using an online code storage is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
+
+-   [GIT Good: A Practical Introduction to GIT and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a)
 
 ### Working with SSH
 

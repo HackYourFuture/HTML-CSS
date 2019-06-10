@@ -22,6 +22,12 @@ FIRST HALF (12.00 - 13.30)
 -   Imagine having written complex code that messed everything up, GIT allow us to return to a previous state where everything was still working
 -   It can be used through the command line interface (CLI) or using a graphical user interface (also known as GUI): SourceTree
 
+_Create a new local repository and tell students to do the same_
+
+_Show the hidden file `.git` in the folder_
+
+-  
+
 SECOND HALF (14.00 - 16.00)
 
 1. **Grid-based thinking and Flexbox**
