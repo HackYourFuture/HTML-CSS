@@ -4,8 +4,12 @@
 
 The purpose of this class is to introduce to the student
 
--   GIT branching
--
+- What is GIT branching?
+- Master and development branch
+- What is a feature?
+
+- What is a framework?
+- Popular CSS frameworks
 
 [[[[[TO BE CONTINUED!!!!!!!!!]]]]]
 

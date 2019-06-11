@@ -4,6 +4,8 @@
 
 # Module #1 - HTML, CSS and GIT (Frontend)
 
+![image](assets/module1.png)
+
 Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice.
 
 The products of HTML and CSS comprise a two-thirds of what is called `frontend` (the final third is client-side JavaScript, which you will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
@@ -16,14 +18,14 @@ You'll also be learning [GIT](https//www.github.com/hackyourfuture/git), softwar
 
 In order to successfully complete this module you will need to master the following:
 
--   Be able to write syntactically correct HTML and CSS
--   Understand what is meant by "responsive" web development
--   Practice navigation your computer using the command line interface (CLI)
--   Learn about GIT and its basic usage
--   Become familiar with Trello and GitHub as a way to submit your homework
--   Explain your code by presenting what you've done
--   Know your way around Visual Studio Code
--   Feel comfortable working with your browser's inspector
+- Be able to write syntactically correct HTML and CSS
+- Understand what is meant by "responsive" web development
+- Practice navigation your computer using the command line interface (CLI)
+- Learn about GIT and its basic usage
+- Become familiar with Trello and GitHub as a way to submit your homework
+- Explain your code by presenting what you've done
+- Know your way around Visual Studio Code
+- Feel comfortable working with your browser's inspector
 
 ## How to use this repository
 

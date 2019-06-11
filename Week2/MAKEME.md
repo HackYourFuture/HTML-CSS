@@ -13,11 +13,11 @@
 
 The first exercise is to create a local repository using GIT and link it to a remote GitHub repository. Go through the following instructions:
 
--   [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
+- [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
 
 The next exercise is a short interactive course, that will take you through the basics of GIT usage:
 
--   [Learn GIT](https://www.codecademy.com/learn/learn-git)
+- [Learn GIT](https://www.codecademy.com/learn/learn-git)
 
 ### 2. Responsive design challenges
 
@@ -27,14 +27,14 @@ Instead, you'll be applying certain CSS rules only to certain device sizes: the 
 
 In the following two mini-courses you'll get some practice in doing this:
 
--   [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
--   [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
+- [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+- [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
 
 ### 3. Code along
 
 In the following video you'll be rebuilding a responsive HTML5 website. Put your focus on how the structure of the page is built: First HTML to provide structure & content, and then the CSS. Look at the HTML tags used and the names given to classes.
 
--   [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+- [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 
 ### 4. PROJECT: Drones website
 
@@ -48,15 +48,15 @@ The page contains two grids: the first one should work using `floats`, the secon
 
 Other than that you should use `media queries`. Here are the requirements for each device size:
 
--   On mobile phones (smaller than 600px): a two column grid, with the exception that the first item spans the full width
--   On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
--   On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
+- On mobile phones (smaller than 600px): a two column grid, with the exception that the first item spans the full width
+- On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
+- On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
 
 Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
--   `hover states` for buttons
--   A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
--   animation using `transition`
+- `hover states` for buttons
+- A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
+- animation using `transition`
 
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 

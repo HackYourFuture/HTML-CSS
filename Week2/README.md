@@ -5,15 +5,15 @@
 These are the topics for week 2:
 
 1. Introduction to GIT
-    - What is GIT?
-    - Installing GIT
-    - Basic GIT commands
-    - What is GitHub?
-    - Working with SSH
+   - What is GIT?
+   - Installing GIT
+   - Basic GIT commands
+   - What is GitHub?
+   - Working with SSH
 2. More advanced CSS
-    - Flexible organizing with flexbox
-    - Pseudo class selectors
-    - Responsive design with media queries
+   - Flexible organizing with flexbox
+   - Pseudo class selectors
+   - Responsive design with media queries
 
 ## 1. Introduction to GIT
 
@@ -31,9 +31,9 @@ This is exactly what happens with GIT: however, instead of calling it _saving yo
 
 In order to use GIT you first have to install it. The software is different depending on your operating system:
 
--   For Windows, install [Git Bash](https://git-scm.com/download/win)
--   For MacOS, install [GIT](https://git-scm.com/download/mac)
--   For Linux, install [GIT](https://git-scm.com/download/linux)
+- For Windows, install [Git Bash](https://git-scm.com/download/win)
+- For MacOS, install [GIT](https://git-scm.com/download/mac)
+- For Linux, install [GIT](https://git-scm.com/download/linux)
 
 After you've installed it you can use it through the CLI. To verify that it worked, enter the command:
 
@@ -56,10 +56,10 @@ Like any software you execute through the CLI, you'll use GIT in the same way.
 
 There are different uses for GIT and for now we'll learn one procedure: committing your workspace to a local repository. Let's take that phrase apart first:
 
--   **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
--   **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
--   **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
--   **Repository** is a storage location inside which the data regarding your project folder is kept. GIT creates a hidden folder `.git` that functions as the local repository.
+- **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
+- **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
+- **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
+- **Repository** is a storage location inside which the data regarding your project folder is kept. GIT creates a hidden folder `.git` that functions as the local repository.
 
 Before we do anything we must know the most basic command of all:
 
@@ -77,21 +77,21 @@ No we can continue with the actual procedure itself. This happens in 3 stages:
 
 This might sound very abstract, and it is. So to illustrate this watch the following videos and code along:
 
--   [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
--   [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
--   [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
+- [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## What is GitHub?
 
 GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is a development platform that allows you to store a copy of your code online. Check the following video to learn more:
 
--   [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 We use GitHub because of its main benefit: it allows us to freely store our code online (or "remote", as we developers also call it). This is useful, for example, in case our computer crashes and our projects are lost.
 
 The second benefit of using an online code storage is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
 
--   [GIT Good: A Practical Introduction to GIT and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a)
+- [GIT Good: A Practical Introduction to GIT and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a)
 
 ### Working with SSH
 
@@ -103,13 +103,13 @@ When working with online (or what you'll hear more often: remote) code repositor
 
 Check the following resources for more information:
 
--   [Beginners Guide To SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)
--   [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
+- [Beginners Guide To SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)
+- [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
 
 When working with GitHub we want to ensure the same level of security. Thus, we will have to make an SSH key and link it to GitHub!
 
--   [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
--   [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
+- [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
 ## 2. More advanced CSS
 
@@ -123,8 +123,8 @@ What this does is helping you to think according to 'grid-based web design': ele
 
 Read the following to learn more about 'grid-based web design':
 
--   [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
--   [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
 
 Once you understand this way of thinking you'll know why it makes sense to know Flexbox.
 
@@ -136,8 +136,8 @@ display: flex;
 
 This will allow us the Flexbox-specific properties, that allow us to develop clean and organised CSS. Check the following links to understand how this is done:
 
--   [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
--   [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+- [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
 
 ### Pseudo class selectors
 
@@ -145,13 +145,15 @@ Every HTML element can be in different states. The default state is when an elem
 
 ```css
 p {
-	color: white;
+  color: white;
 }
 ```
 
-However, there are times when a user interacts with an element in a particular way. For most of these interactions we have special selectors. Read the following article to learn about it:
+However, there are times when a user interacts with an element in a particular way: for example, clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). However, we have to write instructions for that to happen.
 
--   [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
+
+- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
 
 ### Responsive design with media queries
 

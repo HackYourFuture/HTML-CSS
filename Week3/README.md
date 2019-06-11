@@ -5,30 +5,39 @@
 These are the topics for week 3:
 
 1. GIT branching
-    - Local branches
-    - Working with branches on GitHub
-    - Making pull requests
+   - Local branches
+   - Working with branches on GitHub
+   - Making pull requests
 2. CSS Frameworks
-    - Why use a framework?
-    - Most popular frameworks
+   - Why use a framework?
+   - Most popular frameworks
 
 ## 1. GIT branching
 
 ### Local branches
 
-`Branches` are a core benefit of using GIT. It allows you to work on different versions of your project in parallel. Imagine
+`Branches` are a core benefit of using GIT. It allows you to work on different versions of your project in parallel, each branch representing a different version of the same project. Take a look at the following image:
 
-[[[[[TO BE CONTINUED!!!!!!!!!]]]]]
+![branches](assets/branches.png)
+
+You can see a branch as an experiment, a possible way your project can evolve. Usually, each branch (except the master branch) you work on contains code for what is called a new `feature`: a piece of functionality that you want to add to your software. Let's take Facebook as a simple example: After creating an account (which is a feature itself) you can do multiple things. Each "thing" is a feature: having a news feed, being able to send friend requests or liking posts.
 
 Working with branches is especially important when working with other developers. This only applies when working with a **remote** repository, which we'll talk about in the next section.
 
--   [Introduction to GIT - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
+When working with different branches it is useful to have one single branch that contains all the working and finished code: the `master` branch (we call it master out of convention, but in actuality you can name it whatever you want). Whenever you're working on a project that has already been put on the internet, it is the code from the master branch that is online.
+
+However, usually there's a separate branch that contains all the development code. Of course, this is called the `development` branch. This branch is an almost exact copy of master, but contains features that have not been tested yet.
+
+After finishing a feature, it is time to merge the branch into the main branch. This is usually either the `master` or `development` branch.
+
+- [Git Tutorial: Branches](https://www.youtube.com/watch?v=sgzkY5vFKQQ)
+- [Introduction to GIT - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
 
 ### Working with branches on GitHub
 
 [[[[[TO BE CONTINUED!!!!!!!!!]]]]]
 
--   [GitHub 'Hello World' Project](https://guides.github.com/activities/hello-world/)
+- [GitHub 'Hello World' Project](https://guides.github.com/activities/hello-world/)
 
 ### Making pull requests
 
@@ -39,14 +48,14 @@ These changes are proposed in a branch, and the pull request usually is made to 
 Pull requests only happen in remote repositories. This can happen in 2 ways:
 (1) A merge request from one branch to another **within the same repository**. For more information on this, read:
 
--   [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
+- [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 
 (2) A merge request from one branch to a branch **from a forked repository into the original repository**. A `fork` is a copy of a repository, that is stored in your personal GitHub account. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
 While both are important to know, it's useful to study the second way because that's how you'll submit your homework:
 
--   [About forks](https://help.github.com/en/articles/about-forks)
--   [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
+- [About forks](https://help.github.com/en/articles/about-forks)
+- [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
 
 ## 2. CSS Frameworks
 
