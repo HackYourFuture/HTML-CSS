@@ -39,6 +39,12 @@ Done? This is optional, but for those who are curious:
 
 ### Where do I write my code? Inside a code editor called Visual Studio Code
 
+Technically speaking, you can write code for the web in any application that allows you to write and save plain text files (such as Notepad or TextEdit). However a code editor is a tool specifically designed for editing code.
+
+Depending on to the the programming language, the code editor highlights special keywords, give suggestions for some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
+
+While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as programmers easier. In the following video you'll learn about the most useful code editor extensions you can install in order to make development a much richer experience:
+
 Currently, Visual Studio Code is one of the top code editors on the market. As such, we have chosen it has our default code editor to use. We highly recommend you to use it as well:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -50,6 +56,10 @@ We can always improve what we have, including our code editor! We can add `plugi
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+For more specific information on how to setup your editor:
+
+- [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
 
 ### What's the way to submit my homework? Use planning tool Trello
 

@@ -4,38 +4,18 @@
 
 These are the topics for week 1:
 
-1. Code editor setup
-   - Useful extensions
-2. What is the command line interface (CLI)?
-3. Introduction to HTML:
+1. What is the command line interface (CLI)?
+2. Introduction to HTML:
    - Crash course
    - The commonly used tags
    - Semantic HTML
-4. Introduction to CSS:
+3. Introduction to CSS:
    - Crash course
    - Where to write it?
    - The box model
    - The cascading effect
 
-## 1. Code editor setup
-
-Technically speaking, you can write code for the web in any application that allows you to write and save plain text files (such as Notepad or TextEdit). However a code editor is a tool specifically designed for editing code.
-
-Depending on to the the programming language, the code editor highlights special keywords, give suggestions for some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
-
-In HackYourFuture the code editor you'll be working with is called [Visual Studio Code](https://code.visualstudio.com/). After you've downloaded it try to get familiar with it.
-
-Go through the following resource to properly set it up:
-
-- [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
-
-### Useful extensions
-
-While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as programmers easier. In the following video you'll learn about the most useful code editor extensions you can install in order to make development a much richer experience:
-
-- [15 VS Code Extensions For Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0)
-
-## 2. What is the command line interface (CLI)?
+## 1. What is the command line interface (CLI)?
 
 The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 
@@ -46,7 +26,7 @@ For more information, check the following resources and code along:
 - [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
 - [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 
-## 3. Introduction to HTML
+## 2. Introduction to HTML
 
 ### Crash course
 
@@ -74,7 +54,7 @@ This leads to the following insight about writing code: while code is written to
 
 Take a look at the following resource to learn more about semantic HTML: [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
-## 4. Introduction to CSS
+## 3. Introduction to CSS
 
 ### Crash course
 
