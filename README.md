@@ -29,6 +29,8 @@ In order to successfully complete this module you will need to master the follow
 
 ## How to use this repository
 
+> Before you do anything, first go [here](Week0/preparation.md).
+
 This repository consists of 3 essential parts:
 
 1. `Reading materials`: this document contains all the required theory you need to know _**while**_ you're coding. It's meant as both study material and as a reference to understand what you're doing.
