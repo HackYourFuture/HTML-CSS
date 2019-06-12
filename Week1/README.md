@@ -4,22 +4,38 @@
 
 These are the topics for week 1:
 
-1. What is the command line interface (CLI)?
-2. Introduction to HTML:
-    - Crash course
-    - The commonly used tags
-    - Semantic HTML
-3. Introduction to CSS:
-    - Crash course
-    - Where to write it?
-    - The box model
-    - The cascading effect
-4. Working with the browser
-    - What is a web browser?
-    - Choosing the right web browser
-    - How to use the inspector
+1. Code editor setup
+   - Useful extensions
+2. What is the command line interface (CLI)?
+3. Introduction to HTML:
+   - Crash course
+   - The commonly used tags
+   - Semantic HTML
+4. Introduction to CSS:
+   - Crash course
+   - Where to write it?
+   - The box model
+   - The cascading effect
 
-## 1. What is the command line interface (CLI)?
+## 1. Code editor setup
+
+Technically speaking, you can write code for the web in any application that allows you to write and save plain text files (such as Notepad or TextEdit). However a code editor is a tool specifically designed for editing code.
+
+Depending on to the the programming language, the code editor highlights special keywords, give suggestions for some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
+
+In HackYourFuture the code editor you'll be working with is called [Visual Studio Code](https://code.visualstudio.com/). After you've downloaded it try to get familiar with it.
+
+Go through the following resource to properly set it up:
+
+- [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
+
+### Useful extensions
+
+While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as programmers easier. In the following video you'll learn about the most useful code editor extensions you can install in order to make development a much richer experience:
+
+- [15 VS Code Extensions For Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0)
+
+## 2. What is the command line interface (CLI)?
 
 The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 
@@ -27,10 +43,10 @@ As a beginning programmer it's important to get familiar with it, as it will tea
 
 For more information, check the following resources and code along:
 
--   [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
--   [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
+- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+- [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 
-## 2. Introduction to HTML
+## 3. Introduction to HTML
 
 ### Crash course
 
@@ -38,7 +54,7 @@ HTML is the foundation of web development. It is an acronym for **HyperText Mark
 
 In order to learn this properly it's important to know what is is. Go through the following video to learn more about it:
 
--   [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ### The commonly used tags
 
@@ -58,7 +74,7 @@ This leads to the following insight about writing code: while code is written to
 
 Take a look at the following resource to learn more about semantic HTML: [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
 
-## 3. Introduction to CSS
+## 4. Introduction to CSS
 
 ### Crash course
 
@@ -66,15 +82,15 @@ CSS is just as important as HTML. It is an acronym for **Cascading Style Sheets*
 
 Go through the following video to get a firmer foundation:
 
--   [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
 ### Where to write it?
 
 There are 3 basic ways to write CSS:
 
--   In an external stylesheet: a `.css` file, that is linked to a `.html` file.
--   In the <head> of a `.html` file. This is done using the <style> tag.
--   As part of the attribute `style` inside any HTML tag.
+- In an external stylesheet: a `.css` file, that is linked to a `.html` file.
+- In the <head> of a `.html` file. This is done using the <style> tag.
+- As part of the attribute `style` inside any HTML tag.
 
 As a rule, you want to write your CSS in separate `.css` files. This is because you want to make sure **every file has a single purpose**: an HTML file should only contain the content and structure of a page, while a stylesheet should only contain styling rules that apply to a page.
 
@@ -94,46 +110,8 @@ you write CSS rules.
 
 Read the following articles to learn about it:
 
--   [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
--   [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
-
-## 4. Working with the browser
-
-### What is a web browser?
-
-You probably use it daily. Let's take a closer look at what it actually is.
-
-A web browser is software that allows you view websites, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to render a webpage.
-
-For further study, watch the following:
-
--   [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
--   [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
-
-Read:
-
--   [About your web browser](http://www.allaboutcookies.org/browsers/)
-
-### Choosing the right browser
-
-As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
-
--   [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
--   [Google Chrome](https://www.google.com/chrome/)
--   [Safari](https://support.apple.com/downloads/safari)
--   [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
--   [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
--   [Opera](https://www.opera.com/download)
-
-In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
-
-### How to use the browser inspector :mag:
-
-The inspector is part of browsers developers can use to take a closer look at the composition of the HTML elements. This makes it easier to write correct HTML and CSS code that works.
-
-Watch the following video and follow along:
-
--   [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
+- [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
 ## Finished?
 

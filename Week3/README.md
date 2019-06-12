@@ -11,6 +11,12 @@ These are the topics for week 3:
 2. CSS Frameworks
    - Why use a framework?
    - Most popular frameworks
+   - Framework vs. custom
+3. Working with the browser
+   - What is a web browser?
+   - Choosing the right web browser
+   - How to use the inspector
+   - Useful browser extensions
 
 ## 1. GIT branching
 
@@ -30,12 +36,18 @@ However, usually there's a separate branch that contains all the development cod
 
 After finishing a feature, it is time to merge the branch into the main branch. This is usually either the `master` or `development` branch.
 
+After, the cycle repeats: first verify that everything is still working correctly on `master`/`development`, then branch off to create a new feature, then merge back into `master`/`development`!
+
+Go through the following resources to learn more:
+
 - [Git Tutorial: Branches](https://www.youtube.com/watch?v=sgzkY5vFKQQ)
 - [Introduction to GIT - Branching and Merging](https://www.youtube.com/watch?v=FyAAIHHClqI)
 
 ### Working with branches on GitHub
 
-[[[[[TO BE CONTINUED!!!!!!!!!]]]]]
+While working with branches works a bit differently on GitHub, because of its user interface the concept remains the same: you always want to have a master branch that holds all your stable, working code. Any other branches will contain software features that eventually will be merged into master.
+
+Go through the following project to learn how to work with branches on GitHub:
 
 - [GitHub 'Hello World' Project](https://guides.github.com/activities/hello-world/)
 
@@ -65,16 +77,90 @@ Let's suppose you want to make a ginger tea on daily basis. You do this with sev
 
 One morning you come up with idea of mixing all the ingredients in one jar in the correct proportion, such that every spoon will serve the right amount to make the tea.
 
-This jar is your framework. By using it you never have to think about When we want to do lots of things on regular basis it just consumes time and a framework will not only save time it will also provide right components in ur applications. Fast and easy.
+This jar is your framework. By using it you don't have to think about what the ingredients, nor the proportions. Only about how much you want to use it to fit your needs.
+
+> Tip: the concept of a framework will come back many times, as we don't want to reinvent the wheel everytime we create a new application. The point of any piece of software is to write it as simply as possible, and a framework really helps with that. So keep it in mind!
 
 ### Why use a CSS framework?
 
-A CSS framework allows you to style your HTML reliably, by making use of carefully written CSS rules.
+A CSS framework allows you to style your HTML reliably, by making use of pre-defined CSS rules. This way you don't have to think about what custom CSS you have to write to make something the way you want. This is useful mainly to speed up development.
 
-[[[[[TO BE CONTINUED!!!!!!!!!]]]]]
+There are other reasons as well which you can learn about in teh following article:
+
+- [What are the benefits of using a CSS framework](https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/)
 
 ### Most popular frameworks
 
-The most popular CSS frameworks
+There are a lot of different CSS frameworks out, each with their pros and cons. In the following video you'll learn about several of the top ones used and what problems exactly they're trying to solve:
 
-[[[[[TO BE CONTINUED!!!!!!!!!]]]]]
+- [CSS frameworks](https://www.youtube.com/watch?v=AMDx0IIgiK4)
+
+### Framework vs. custom
+
+As a general rule, you always want to be able to write custom CSS when needed. And if you're using a framework, you at least know why it works the way it does. This means that you look into the class definition within the stylesheet (you can use the browser inspector for this, more on that later).
+
+However, writing custom CSS is in practice not always possible. This could be because of project deadlines, lack of skill or wanting to do rapid prototyping (a technique to quickly build a working version in order to test if it works). This is when we use frameworks to help us out.
+
+Keep in mind that a framework should be there only to assist, not compensate. Research the following resources to learn about the pros and cons of CSS frameworks:
+
+- [Are CSS Frameworks Bad?](https://www.youtube.com/watch?v=VlY5CfkL760)
+- [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/)
+
+## 3. Working with the browser
+
+### What is a web browser?
+
+You probably use it daily. Let's take a closer look at what it actually is.
+
+A web browser is software that allows you view webpages, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML files, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to display a page.
+
+For further study, watch the following:
+
+- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
+- [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+
+Read:
+
+- [About your web browser](http://www.allaboutcookies.org/browsers/)
+
+### Choosing the right browser
+
+As a web developer you will write code that will display in browsers. As such it is important that you get familiar with most major browsers in use today. These are:
+
+- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Safari](https://support.apple.com/downloads/safari)
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
+- [Opera](https://www.opera.com/download)
+
+In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easy and clear way.
+
+### How to use the browser inspector :mag:
+
+The inspector is part of browsers developers can use to take a closer look at the composition of the HTML elements. This makes it easier to write correct HTML and CSS code that works.
+
+Watch the following video and follow along:
+
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+
+### Useful browser extensions
+
+As web developers we'll be dealing with the browser all the time. Why not upgrade our browser so it can make our programming life easier?
+
+A `browser extension` is a piece of software someone has written to increase the capability of the browser. For example, if you hate receiving advertisements you probably use something like [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) to block all the unwanted ads you might find in your webpages (if not, download it as soon as possible!).
+
+The following is a list of extensions that have proven to be useful during development. This list only applies for Google Chrome, so if you don't have it [install it](https://www.google.com/chrome/).
+
+Extensions:
+
+- Modify the technologies underlying each website, in real time, using [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related?hl=en-US)
+- Expose what technologies a website is using with [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en-US)
+- If oyu ever wanted to know the exact color of any element in a page, you can now do so with [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
+- When developing you'll be using dummy text to populate your elements. Enter [Loren Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20)
+
+There are many moreof these extensions and we encourage you to explore. See what fits your needs!
+
+## Finished?
+
+Are you finished with going through the materials? Nice job!!! If you feel ready to get practical, click [here](./MAKEME.md).
