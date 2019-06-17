@@ -19,6 +19,10 @@ The next exercise is a short interactive course, that will take you through the 
 
 - [Learn GIT](https://www.codecademy.com/learn/learn-git)
 
+The final exercise is a mini-course of Git and GitHub. Go through it and try to code along:
+
+- [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+
 ### 2. Responsive design challenges
 
 Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. However, fear not because it's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.

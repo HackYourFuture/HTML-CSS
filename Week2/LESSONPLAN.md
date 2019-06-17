@@ -54,7 +54,7 @@ _Ask students to create an SSH key, link it to their account and clone the repo_
 
 SECOND HALF (14.00 - 16.00)
 
-1. **Grid-based thinking and Flexbox**
+2. **Grid-based thinking and Flexbox**
 
 - Thinking in grids
 
