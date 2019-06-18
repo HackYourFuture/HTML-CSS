@@ -2,8 +2,8 @@
 
 During the first module you will hand in your homework in two places:
 
-1. [GitHub](https://www.github.com/)
-2. [Trello](https://www.trello.com/)
+1. [GitHub](https://www.github.com/HackYourFuture/HTML-CSS)
+2. [Trello](https://trello.com/b/U1gK8Q1c/feedback-assignments)
 
 ## 1. GitHub homework guide
 
@@ -22,7 +22,7 @@ For week 1 of `HTML-CSS-GIT` follow these instructions:
 
 For subsequent weeks look at the following video to learn how to submit your homework:
 
--   [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
+- [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
 
 ## 2. Trello homework guide
 
