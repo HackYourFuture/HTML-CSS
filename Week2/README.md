@@ -19,13 +19,11 @@ These are the topics for week 2:
 
 ### What is GIT?
 
-GIT is software that allows you to save your work at any given moment in time during your work. It's typically called a `version control system`, which essentially means that it allows you to create `versions` of your workspace and makes possible to switch between older and newer states.
-
-For example, let's say you have a folder with a single file. You can use GIT to make a "snapshot" of the current state of your workspace. This snapshot can be accessed at any given moment, in case something went wrong (files corrupted, complex code that can't easily be reverted).
+GIT is software that allows you to save your work at any given moment in time. It's typically called a `version control system`, which essentially means that it allows you to create `versions` of your workspace and makes possible to switch between older and newer states.
 
 You can think of it like a video game. You get to a certain point in the game, after hours of struggle. You're really proud of how far you've come, and don't want to do it over again in case you die. So you decide to _save your game_. If something bad happens after that point you can always reload your game and start from that point on.
 
-This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. If you want to ever go back to a previous _game save_ you can load it by **checking out that commit**. You will learn more about that in the next sections.
+This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. If you want to go back to a previous _game save_ you can load it by **checking out that commit**. You will learn more about that in the next sections.
 
 ### Installing GIT
 
@@ -41,41 +39,41 @@ After you've installed it you can use it through the CLI. To verify that it work
 
 It should say that the version is **2.21** (or up if you've installed a new version).
 
-Now that you have GIT installed, it's important give it some basic configuration. Inside your CLI, type in the following. Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively.
+Now that you have GIT installed, it's important to make a basic configuration. Inside your CLI, do in the following: Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively.
 
 ```
 git config --global user.name "Your name"
 git config --global user.email "your.email@yourmailserver.com"
 ```
 
-This makes sure GIT is able to identify who is using it.
+This makes sure GIT is able to identify you.
 
 ### Basic GIT commands
 
-Like any software you execute through the CLI, you'll use GIT in the same way.
+You'll use GIT like any software you execute through the CLI.
 
-There are different uses for GIT and for now we'll learn one procedure: committing your workspace to a local repository. Let's take that phrase apart first:
+There are different ways of using GIT. For now we'll learn one procedure: committing your workspace to a local repository. Let's take that phrase apart first:
 
 - **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
 - **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
 - **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
-- **Repository** is a storage location inside which the data regarding your project folder is kept. GIT creates a hidden folder `.git` that functions as the local repository.
+- **Repository** is a storage location containing the data regarding your project folder. GIT creates a hidden folder `.git` that functions as the local repository.
 
-Before we do anything we must know the most basic command of all:
+Before we start we must know the most basic command of all:
 
 ```
 git init
 ```
 
-What this does is creating a brand new local repository in your project folder. Only after doing this will you be able the follow along the next procedure.
+What it does is creating a brand new local repository in your project folder. Only after doing this you will be able to follow along the next procedure.
 
 No we can continue with the actual procedure itself. This happens in 3 stages:
 
 1. **Untracked**. In this stage GIT is not aware of the changes in your workspace.
-2. **Staged**. In this stage the changes are kept track of by GIT.
-3. **Committed** In this stage your changes have been saved into the local repository. If at any moment you need to refer to a previous version of your workspace you can safely do that now.
+2. **Staged**. In this stage the changes will be tracked by GIT.
+3. **Committed** In this stage your changes have been saved into the local repository. If you need to refer to a previous version of your workspace you can safely do that now.
 
-This might sound very abstract, and it is. So to illustrate this watch the following videos and code along:
+This might sound very abstract, and it is. So to make it more comprehensible, watch the following videos and code along:
 
 - [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
@@ -113,13 +111,13 @@ When working with GitHub we want to ensure the same level of security. Thus, we 
 
 ## 2. More advanced CSS
 
-By now you've gotten some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
+By now you've had some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
 
 ### Flexible organizing with flexbox
 
 CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
 
-What this does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
+What it does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
 
 Read the following to learn more about 'grid-based web design':
 
@@ -134,7 +132,7 @@ In order to make use of it we have to access it through the `display` CSS proper
 display: flex;
 ```
 
-This will allow us the Flexbox-specific properties, that allow us to develop clean and organised CSS. Check the following links to understand how this is done:
+This will give us the Flexbox-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
 
 - [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 - [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
@@ -149,7 +147,7 @@ p {
 }
 ```
 
-However, there are times when a user interacts with an element in a particular way: for example, clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). However, we have to write instructions for that to happen.
+There are times when a user interacts with an element. For example: clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). We need to write instructions for that to happen.
 
 Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
 
@@ -157,7 +155,7 @@ Like the hover state there are others as well: click, focus, visited, and others
 
 ### Responsive design with media queries
 
-Nowadays people use different devices to access websites: desktops, tablets and mobiles of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size on which it is viewed. It keeps images from being larger than the screen width, and prevents visitors on mobile devices from needing to do extra work to read your content.
+Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
 
 For more information about responsive design, check this article: [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/).
 
