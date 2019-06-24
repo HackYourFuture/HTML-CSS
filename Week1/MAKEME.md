@@ -22,7 +22,7 @@ second message
 
 ### 2. CSS Challenges
 
-In order to get good fast you need to practice a lot! In the following challenges you'll work with CSS, starting from the absolute basics to building a page:
+In order to improve you need to practice a lot! In the following challenges you'll work with CSS, starting from the absolute basics to building a page:
 
 -   [CSS Challenges](https://en.wikiversity.org/wiki/Web_Design/CSS_challenges): Do challenge #1 to #6.
 
@@ -66,6 +66,6 @@ After you've finished your todo list it's time to show us what you got! The home
 1. The CLI challenge
 2. The Digital Resume
 
-Upload both in a repository to GitHub and then upload the link to Trello. Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
+Upload both in a repository to GitHub and then upload the link on Trello. Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
 
 _Deadline Saturday 23.59 CET_
