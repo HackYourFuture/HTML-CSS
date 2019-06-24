@@ -25,7 +25,7 @@ The final exercise is a mini-course of Git and GitHub. Go through it and try to 
 
 ### 2. Responsive design challenges
 
-Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. However, fear not because it's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.
+Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. It's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.
 
 Instead, you'll be applying certain CSS rules only to certain device sizes: the average desktop (1024px and more), the average tablet (between 600px and 1024px) and the average mobile device (600px and below).
 
