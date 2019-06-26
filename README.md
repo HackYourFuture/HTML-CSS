@@ -54,3 +54,5 @@ If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯
 Have you finished the module? Great! Pat yourself on the back for the great work you've done.
 
 If you feel ready for the next challenge, click [here](https://www.github.com/hackyourfuture/javascript1) to go to **JavaScript1**!
+
+_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
