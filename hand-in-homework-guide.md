@@ -1,11 +1,16 @@
 # How to hand in homework
 
-During the first module you will hand in your homework in two places:
+During this module you will hand in your homework in the following order:
 
-1. [GitHub](https://www.github.com/HackYourFuture/HTML-CSS)
-You'll create a personal GitHub repository (a storage place for code) in which you'll upload all the homework files.
-2. [Trello](https://trello.com/b/U1gK8Q1c/feedback-assignments)
+1. [GitHub](https://www.github.com/HackYourFuture/HTML-CSS).
+
+You'll first create a personal GitHub repository (a storage place for code) in which you'll upload all the homework files.
+
+2. [Trello](https://trello.com/b/U1gK8Q1c/feedback-assignments).
+
 After you've uploaded your files you'll copy the link to the homework folder in GitHub and paste it in a card on Trello.
+
+In the following guides you'll learn how to do this step-by-step.
 
 ## 1. GitHub homework guide
 
