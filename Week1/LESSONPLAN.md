@@ -49,7 +49,7 @@ _Show examples of semantic HTML: `<header>`, `<footer>`, `<section>`_
 4. **The box model**
 
 - Everything is a box
-- The "box" refers to the attributes universal to every element: `margin`, `padding`, border`
+- The "box" refers to the attributes universal to every element: `margin`, `padding`, `border`
 - Every element pushes against one another
 
 _Show example of the box model by using the browser inspector on various elements_
