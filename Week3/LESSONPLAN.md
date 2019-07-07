@@ -5,8 +5,8 @@
 The purpose of this class is to introduce to the student
 
 - What is GIT branching?
-- What is a feature?
-- Master and development branch
+- Remote vs. local branches
+- What's a pull request?
 
 * What is a framework?
 * Popular CSS frameworks
@@ -19,12 +19,10 @@ FIRST HALF (12.00 - 13.30)
 1. **What is GIT branching?**
 
 - A branch is an experiment, a possible way your project can evolve.
-- It usually contains code for a `feature`
-- A `feature` is a piece of functionality that you want to add to your software. For example, the news feed/liking option/friending ability in Facebook
-- The `master` branch contains all the latest stable code
-- The `development` branch serves as a copy of `master`, that can be experimented with
+- Local branch can be created with `git branch <name>` command. Remote branch must be set using `--set-upstream` option while pushing
+- Pull request is a `diff` between two commit points. It can be merged when we want to suggest changes to a Github repository to which we don't have write access.
 
-_Create a repository and initialize GIT. Show the use of `git branch`, `git checkout -b`, ``_
+_Create a repository and initialize GIT. Show the use of `git branch`, `git checkout -b`_
 
 SECOND HALF (14.00 - 16.00)
 
