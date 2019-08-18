@@ -1,77 +1,79 @@
-## Homework Week 3
+## Homework HTML/CSS/GIT Week 3
 
-> [Here](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) you find the readings you have to complete before your first JavaScript lecture
+> Create a directory "week3" inside your `HYF-Module-HTMLCSSGIT` directory on GitHub. There should already be a "week1" and "week2" folder that contains your homework from the last 2 weeks.
 
-### Learning goals for this week:
+## Todo list
 
-```
- • CLI
-    • Learn output redirection, piping on the terminal.
-    • Write basic shell scripts to ease the programming life.
- • Student presentations
- • Last week recap and questions
- • How to find information on the web
- • How to rebuild an existing responsive page (getting started with this week's homework exercise)
-```
+1. GIT exercise: `animals` repository
+2. CSS framework challenges
+3. Code along
+4. PROJECT: Responsive website
 
-### In class:
+### 1. GIT exercise: `animals` repository
 
-- Task: find some info about a certain topic in groups of 2, present to each other
-  - Choose one of the following subjects, look up how it works and implement it in a web page
-    - CSS transitions
-    - CSS animations with keyframes
-    - SVG
-    - Drop down menu in CSS
-    - flex-box
+> Tip: make use of the CLI to practice your GIT skills. This not only teaches you how GIT works, but also how to work like a real software developer!
 
-## Step 1: Command Line
+In this homework you'll be working with GIT and GitHub. Follow the steps to learn how to create a remote repository and work with it from your local machine:
 
-_Deadline Wednesday_
+1. Create a repository on GitHub, called `animals`
+2. Clone the repository to your local machine, using SSH
+3. Locally, create a file called "zoo.txt". Include 3 animals found in a zoo
+4. Add and commit the file to the local repository. Make sure the commit message is meaningful (ex. "created txt file with animal names")
+5. Push your commit to the remote repository, verify that it has worked on GitHub
+6. Go back to your local repository and create a branch called `new-feature`
 
-```
-Write ONE shell script to do following:
-1. create a directory. Enter a directory. Create an empty file named blank.
-2. Then write the content "Hello" five times to the file greetings.txt.
-   Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
-3. Then write the text "cat" to pets.txt
-   Then append the text "dog" to pets.txt
-   Then append the text "hamster" to pets.txt
-4. Then write the text "cat" to commands.txt
-   Then append the text "ls" to commands.txt
-   Then append the text "pwd" to commands.txt
-5. Then find unique strings from these two files pets.txt and commands.txt
-   and store the unique strings in lovelyCommands.txt
-```
+> Tip: in software, a "feature" is a technical term that points to any functionality that a user can derive benefit from. For example, Facebook has many features: the ability to make a profile, like a post, place comments, etc.
 
-For and overview of the commands we learned in class please take a look at the overview of the [second lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md/). If you need a refresher you can of course also go over the commands of the [first lecture](https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md/)
+7. Inside the new branch, create a file called "pets.txt". Include 3 animals that could be a pet
+8. Also, add 2 more animals to the "zoo.txt" file
+9. Add and commit the file to the local repository. Again, make sure the commit message is meaningful
+10. Push your commit to the remote repository, verify that it has worked on GitHub
+11. On GitHub, find out how to merge branch `new-feature` into `master`
+12. Merge the branches
+13. Switch back to branch `master`
+14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
-## Step 2: Assignment
+### 2. Framework tutorial: MaterializeCSS
 
-_Deadline Saturday_
+In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework created by Google. Follow the playlist and code along!
 
-> Use the command line to create a directory "week3" inside your "hyf-html-css" directory. There should already be a "week1" and "week2" inside that contains your homework of the last weeks.
+- [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 
-- Remake an existing responsive website: choose one of the following
-  - https://www.rijksoverheid.nl
-  - http://www.awwwards.com
-  - https://www.bostonglobe.com
-  - https://www.thinkwithgoogle.com
-  - http://muumilaakso.tampere.fi/en/
-  - http://incredibletypes.com
-  - http://thenextweb.com
-- It should have an external CSS file
-- BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+### 3. Code along
 
-```
-How to hand in your homework:
-• Upload your homework in your Github repository.
-• Make sure to create a new folder "week3" first.
-• Your hyf-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
-• Place the link to your repository in Trello.
-```
+You'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called Travelville:
 
-## Step 3: Prepare for next class
+- [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
-_Deadline Sunday morning_
+> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
-Go through the reading material in the JavaScript [README.md](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) to prepare for your next class
+### 4. PROJECT: Responsive website
+
+In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
+
+- https://www.rijksoverheid.nl
+- https://www.bostonglobe.com
+- https://www.thinkwithgoogle.com
+- http://muumilaakso.tampere.fi/en/
+- http://incredibletypes.com
+- http://thenextweb.com
+
+In order to pass you need to fulfill the following criteria:
+
+- Write your CSS in an external stylesheet
+- Make use of Flexbox
+- Use media queries for both tablet and mobile (This might be same for the website you're making)
+- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
+
+> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
+
+_Deadline Saturday 23.59 CET_
+
+## SUBMIT YOUR HOMEWORK!
+
+After you've finished your todo list it's time to show us what you got! The homework to be submitted this week is the following:
+
+1. GIT exercise: `animals` repository
+2. Responsive website
+
+Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.

@@ -1,116 +1,74 @@
-## Homework Week 2
+## Homework HTML/CSS/GIT Week 2
 
-> [Here](/Week3/README.md) you find the readings you have to complete before the third lecture.
+> Create a directory "week2" inside your `HYF-Module-HTMLCSSGIT` directory on GitHub. There should already be a "week1" folder that contains your homework from the last week.
 
-### Learning goals for this week:
+## Todo list
 
-```
- • CLI
-    • To know the terminal/bash/command line for UNIX based systems.
-    • Navigate the file system without using a UI explorer.
-    • Copy, rename and move files with terminal commands.
- • Student presentations
- • Last week recap and questions
- • Responsive web development
-    • Relative measurements (%, (r)em, vw)
-    • Media queries
-    • Positioning (absolute, relative, fixed)
-    • Floating and clearing
-    • Flexbox
- • How to work with the inspector
-```
+1. GIT exercises
+2. Responsive design challenges
+3. Code along
+4. PROJECT: Responsive website
 
-## Step 1: Command Line
+### 1. GIT exercises
 
-_Deadline Tuesday_
+The first exercise is to create a local repository using GIT and link it to a remote GitHub repository. Go through the following instructions:
 
-> We covered a bit of command line usage in the first class and got a program running which is great. If you need a refresher for the command line please have a look here: https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md
+- [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
 
-```
-1. Research how to create a hidden file and how to display it using ls command.
+The next exercise is a short interactive course, that will take you through the basics of GIT usage:
 
-2. Research how to create multiple nested directories with one mkdir command.
-E.g. How would you create 'fun' directory along with all directories in the path below:
-/c/Users/unmesh/these/folders/are/just/for/fun
+- [Learn GIT](https://www.codecademy.com/learn/learn-git)
 
-3. Execute following commands terminal:
-echo "test" > fun
-echo "another test" >> fun
-wc -c fun
+The final exercise is a mini-course of Git and GitHub. Go through it and try to code along:
 
-Verify number of characters in the file.
+- [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
-4. Research how to append something in the file *WITHOUT* a newline character.
-E.g.
-echo "test" > fun
-echo "another test" >> fun
-cat fun
-Output of "cat fun" is
-test
-another test
+### 2. Responsive design challenges
 
-How would you use echo command, so that output would be:
-testanother test
+Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. It's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.
 
-```
+Instead, you'll be applying certain CSS rules only to certain device sizes: the average desktop (1024px and more), the average tablet (between 600px and 1024px) and the average mobile device (600px and below).
 
-## Step 2: Read/do/watch
+In the following two mini-courses you'll get some practice in doing this:
 
-- [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
-- [More about media queries](https://css-tricks.com/css-media-queries/)
-- [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
-- [How CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
-- [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
-- [Read about nice color combinations](http://www.colorcombos.com/index.html)
+- [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+- [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
 
-### Exercises:
+### 3. Code along
 
-- CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+In the following video you'll be rebuilding a responsive HTML5 website. Put your focus on how the structure of the page is built: First HTML to provide structure & content, and then the CSS. Look at the HTML tags used and the names given to classes.
 
-### Super fun flexbox and grid practice
+- [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 
-- [flexboxfroggy](https://flexboxfroggy.com/)
-- [cssgridgarden](http://cssgridgarden.com/)
+### 4. PROJECT: Drones website
 
-## Step 3: Assignment
+In this project you'll be building on an existing project. It's your job to make it `responsive` and look organised on various devices.
 
-_Deadline Saturday_
+Start off by downloading the HTML and images in the following [folder](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/homework).
 
-> Use the command line to create a directory "week2" inside your hyf-html-css directory. There should already be a week1 inside that contains your homework of last week.
+You are going to write the CSS for this page, **it is not allowed to change the HTML**.
 
-- Grids exercise
-  - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/Homework2))
-  - You are going to write the CSS for this page
-  - You are not allowed to change the HTML
-  - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
-  - We want the grid to look as follows (check the wireframe below):
-    - On mobile phones: a two column grid, with the exception that the first item spans the full width
-    - On tablets: a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
-    - On desktops: a four column grid, with the exception that the first item spans two columns.
-  - There should be some space between the grid items
-  - Make the page look beautiful by adding some more CSS! Some tips:
-    - How about some nice colors, fonts, hover styles?
-    - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
-  - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+The page contains two grids: the first one should work using `floats`, the second using `flexbox`. Be careful not to mix the two!
 
-![Wireframe](assets/wireframe.png)
+Other than that you should use `media queries`. Here are the requirements for each device size:
 
-```
-How to hand in your homework:
-• Upload your homework in your Github repository.
-• Make sure to create a new folder "week2" first.
-• Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
-• Place the link to your repository in Trello.
-```
+- On mobile phones (smaller than 600px): a two column grid, with the exception that the first item spans the full width
+- On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
+- On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
 
-## Extra extra (bonus assignment :star: ):
+Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
-- Add one of the following to your page:
-  - An animation using CSS keyframes
-  - SVG
+- `hover states` for buttons
+- A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
+- animation using `transition`
 
-## Step 4: Prepare for next class
+> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
-_Deadline Sunday morning_
+## SUBMIT YOUR HOMEWORK!
 
-Go through the reading materials in the [README.md](/Week3/README.md) to prepare for your next class.
+After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
+
+1. GIT exercise #1 (the URL of the remote `git_practice` repository)
+2. The Drones website
+
+Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
