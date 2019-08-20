@@ -9,7 +9,7 @@
 
 ### 1. Command Line Interface challenge
 
-Using the CLI, create a `.txt` that contains the commands necessary to answer the following questions:
+Using the CLI, create a plain text file (`.txt`) that contains the commands necessary to answer the following questions:
 
 1. How do I create a hidden file or folder? How do I display it in the CLI?
 2. How do I create multiple nested directories, like `/c/Users/myusername/these/folders/are/just/for/fun`?
