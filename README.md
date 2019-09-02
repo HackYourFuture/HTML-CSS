@@ -47,7 +47,7 @@ If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯
 | ---- | ------------------------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------- |
 | 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](/Week1/README.md)                                                         | [W1 Homework](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
 | 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](/Week2/README.md)                                                         | [W2 Homework](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
-| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](https://github.com/HackYourFuture/JavaScript/blob/master/Week1/README.md) | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
+| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](/Week3/README.md) | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
 
 ## Finished?
 
