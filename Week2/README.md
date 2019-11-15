@@ -10,7 +10,7 @@ In week two we will discuss the following topics
 ```
 
 - [CSS tricks ](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
-- [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-2.md)
+- [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Week2/Lecture.md)
 - Bookmark the sites/resources that you used that where most useful for you the last two weeks.
 
 _Please go through the material and come to class prepared!_
