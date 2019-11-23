@@ -11,17 +11,22 @@
 
 ### 1. GIT exercises
 
-The first exercise is to create a local repository using GIT and link it to a remote GitHub repository. Go through the following instructions:
+# Git branching homework:
 
-- [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
+* Ask your teacher to create a repository on her/his Github account 
+`https://github.com/<TEACHER_NAME>/hyfclass.git`  for this homework.
+* Clone the repository (Google how to clone a repository).
+* Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
+* You will receive an email notification when (s)he adds you as a collaborator.
+* Accept the invitation for collaboration.
+* Create a file `YOUR_NAME-commands.txt`.
+* Add bash commands that you like. Add description for commands.
+* Then git add, commit and push the file.
+* Add more files if you want to and practice with `git log` and `git pull`.
+* You should observe that `you can see changes from your fellow students`.
 
-The next exercise is a short interactive course, that will take you through the basics of GIT usage:
-
-- [Learn GIT](https://www.codecademy.com/learn/learn-git)
-
-The final exercise is a mini-course of Git and GitHub. Go through it and try to code along:
-
-- [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+* **Do not merge the changes to master branch**.
+* **Do not make any changes to master branch**.
 
 ### 2. Responsive design challenges
 

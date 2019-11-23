@@ -9,7 +9,9 @@
 3. Code along
 4. PROJECT: Responsive website
 
-### 1. GIT exercise: `animals` repository
+### 1. GIT exercises
+
+#### `animals` repository
 
 > Tip: make use of the CLI to practice your GIT skills. This not only teaches you how GIT works, but also how to work like a real software developer!
 
@@ -33,6 +35,8 @@ In this homework you'll be working with GIT and GitHub. Follow the steps to lear
 13. Switch back to branch `master`
 14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
+
+
 ### 2. Framework tutorial: MaterializeCSS
 
 In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework created by Google. Follow the playlist and code along!
@@ -40,6 +44,12 @@ In order to speed up development it's wise to know how to use a CSS framework. I
 - [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 
 ### 3. Code along
+
+If you need more practice with Git, please follow these links and follow the instructions.
+
+1. [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
+2. [Learn GIT](https://www.codecademy.com/learn/learn-git)
+3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
 You'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called Travelville:
 
