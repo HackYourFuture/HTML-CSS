@@ -44,7 +44,7 @@ _Show examples of commonly used HTML tags: `<h1>`, `<a href="#">`, `<div>`_
 - Semantic tags make the code more comprehensible
 - It helps organize the page
 
-_Show examples of semantic HTML: `<header>`, `<footer>`, `<section>`_
+_Show examples of semantic HTML: `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<nav>`, `<aside>`_
 
 4. **The box model**
 
