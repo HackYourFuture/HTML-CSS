@@ -58,7 +58,8 @@ When writing the HTML include the following:
 When writing the CSS include the following:
 
 -   Some CSS properties, like: `margin`, `padding`, `color`, etc.
--   You are NOT allowed to use CSS frameworks (like Bootstrap or MaterializeCSS)
+-   Use `flexbox`
+-   You are NOT allowed to use CSS frameworks (like Bootstrap, MaterializeCSS, etc.)
 
 ## SUBMIT YOUR HOMEWORK!
 
