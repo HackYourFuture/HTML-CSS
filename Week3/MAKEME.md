@@ -35,7 +35,7 @@ In this homework you'll be working with GIT and GitHub. Follow the steps to lear
 
 ### 2. Framework tutorial: MaterializeCSS
 
-In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework created by Google. Follow the playlist and code along!
+In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework based on Material Design - a design language created by Google. Follow the playlist and code along!
 
 - [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 
