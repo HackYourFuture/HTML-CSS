@@ -75,6 +75,8 @@ Take a look at the following [CodePen](https://codepen.io/enxaneta/pen/adLPwv) w
 Look at the following [website](https://htmlstream.com/preview/unify-v2.6.2/unify-main/home/home-default.html) and dissect it thinking in grids
 ### Excercise
 Rebuild the navigation bar, center image and reponsive website layout from this [example](https://github.com/ratracegrad/made-with-flexbox)
+
+Play the game! : https://flexboxfroggy.com/
 ### Essence
 
 
