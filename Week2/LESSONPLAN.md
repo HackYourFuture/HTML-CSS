@@ -16,15 +16,15 @@ The purpose of this class is to introduce to the student (1) the basics of using
 
 FIRST HALF (12.00 - 13.30)
 
-1. **Introduction to GIT**
+## GIT
 
-##### Explanation
+### Explanation
 - GIT is software that allows us to keep track of the changes within our files
 - Imagine having written complex code that messed everything up, GIT allow us to return to a previous state where everything was still working
 - It can be used through the command line interface (CLI) or using a graphical user interface (also known as GUI): SourceTree, SmartGit, etc.
 
-##### Example
-##### Exercise
+### Example
+### Exercise
 
 _Create a new local repository and tell students to do the same_
 
@@ -56,26 +56,27 @@ _Show how to clone the HTML-CSS-GIT repo using SSH_
 
 _Ask students to create an SSH key, link it to their account and clone the repo_
 
-##### Essence
+### Essence
 
 
 
 
 SECOND HALF (14.00 - 16.00)
 
-2. **Grid-based thinking and Flexbox**
+## 2. Grid-based thinking and Flexbox
 
-
-- Thinking in grids
-
-_Look at the following [website](https://htmlstream.com/preview/unify-v2.6.2/unify-main/home/home-default.html) and dissect it thinking in grids_
-
+### Explanation
 - Flexbox allows us to easily align elements on the page
 - It replaces float-based web design
 - It is activated with the `display: flex` CSS property, after you can make use of flex-specific properties
+### Example
+Take a look at the following [CodePen](https://codepen.io/enxaneta/pen/adLPwv) with students
 
-_Take a look at the following [CodePen](https://codepen.io/enxaneta/pen/adLPwv) with students_
+Look at the following [website](https://htmlstream.com/preview/unify-v2.6.2/unify-main/home/home-default.html) and dissect it thinking in grids
+### Excercise
+Rebuild the navigation bar, center image and reponsive website layout from this [example](https://github.com/ratracegrad/made-with-flexbox)
 
-_Rebuild the navigation bar, center image and reponsive website layout from this [example](https://github.com/ratracegrad/made-with-flexbox)_
+Play the game! : https://flexboxfroggy.com/
+### Essence
 
-_Ask student to rebuild the navigation bar using Flexbox_
+
