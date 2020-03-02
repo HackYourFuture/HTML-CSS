@@ -25,6 +25,10 @@ You can think of it like a video game. You get to a certain point in the game, a
 
 This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. If you want to go back to a previous _game save_ you can load it by **checking out that commit**. You will learn more about that in the next sections.
 
+Check out the following short clip to learn about the essentials of GIT:
+
+- [GIT explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+
 ### Installing GIT
 
 In order to use GIT you first have to install it. The software is different depending on your operating system:
@@ -46,7 +50,7 @@ git config --global user.name "Your name"
 git config --global user.email "your.email@yourmailserver.com"
 ```
 
-This makes sure GIT is able to identify you.
+This makes sure GIT is able to identify you as the person that uses it to save your files and folders.
 
 ### Basic GIT commands
 
