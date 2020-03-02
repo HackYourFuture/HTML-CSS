@@ -105,9 +105,11 @@ Box model
 - It helps organize the page
 
 ### Example
+
+- Show examples of semantic HTML: `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<nav>`, `<aside>`
+
 ### Excercise
 ### Essence
-
 
 ## 4. CSS Basics
 
@@ -119,8 +121,6 @@ Box model
 Show different ways to write css, and some basic css properties: `font-size`, `background-color`, `border`
 ### Excercise
 ### Essence
-
-
 
 
 
