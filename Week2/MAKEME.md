@@ -52,7 +52,7 @@ The page contains two grids: the first one should work using `floats`, the secon
 
 Other than that you should use `media queries`. Here are the requirements for each device size:
 
-- On mobile phones (smaller than 600px): a one column grid, with the exception that the first item spans the full width
+- On mobile phones (smaller than 600px): a one column grid, that spans the full width
 - On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
 - On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
 
