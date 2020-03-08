@@ -4,6 +4,8 @@
 
 These are the topics for week 3:
 
+
+
 1. GIT branching
    - Local branches
    - Working with branches on GitHub
