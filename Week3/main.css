@@ -1,0 +1,34 @@
+.parent{
+    display:flex;
+    justify-content:space-between;
+
+}
+.container {
+   border: 2px solid yellow;
+   
+    
+    
+    margin:auto;
+    margin-right:0;
+    
+    
+}
+
+ .item{
+     display:inline-block;
+     margin:20px;
+     padding:20px;
+     text-align:center;
+    
+ }
+
+@media only screen and (min-width: 768px) {
+
+    
+    
+}
+@media only screen and (max-width: 767px) {
+    .parent{
+        flex-direction:column;
+    }
+}
