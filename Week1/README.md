@@ -21,7 +21,7 @@ The Command Line interface (also known as CLI or shell) is a way to navigate thr
 
 As a beginning programmer it's important to get familiar with it, as it will teach you how computers work: As a tool that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
 
-Please install [Git for Windows] (https://gitforwindows.org) which comes with
+Please install [Git for Windows](https://gitforwindows.org) which comes with
 an application called *Git BASH* which simulates frequently used CLI commands.
 
 For more information, check the following resources and code along:
