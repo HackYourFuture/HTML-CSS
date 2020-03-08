@@ -3,25 +3,79 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>A Button Should be Here</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+  <title>Bootstrap - The most popular HTML, CSS, and JS library in the world </title>
   <style>
-    .button {
-      
-      padding: 0.8rem 2.5rem;
-      border-radius: 25px;
-      text-decoration: none;
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .main-nav {
+      display: flex;
+      justify-content: space-between;
+      background: #563D7C;
+      width: 100%;
+      padding: 1rem;
+      align-items: center;;
+    }
+    .left-links {
+      display: flex;
+      align-items: center;
+
+    }
+    .left-links li {
+      padding: 0 0.5rem;
+    }
+    .menu-link {
+      color: #cbbde2;
+    }
+    .menu-link:hover,
+    .active {
       color: white;
-      background:rgb(93, 192, 51);
+    }
+    ul {
+      list-style: none;
+    }
+    a {
+      text-decoration: none;
+    }
+    .fab {
+      color: white;
+    }
+    .button {
+      padding: 0.5rem;
+      color: #FDE484;
+      border: 1px solid #FDE484;
+      border-radius: 5px;
+      transition: color 0.2s ease-in;
     }
     .button:hover {
-      background:#64D761;
+      background: #FDE484;
+      color: #563D7C;
     }
+    
+   
+    
   </style>
 </head>
 <body>
-  <br>
-  <div>
-    <a class="button" href="#">Take Spotify Free</a>
-  </div>
+  <nav class="main-nav">
+    <ul class="left-links">
+      <li><a href="#"><i class="fab fa-bootstrap fa-2x"></i></a></li>
+      <li><a href="#" class="menu-link active">Home</a></li>
+      <li><a href="#" class="menu-link">Documentation</a></li>
+      <li><a href="#" class="menu-link">Examples</a></li>
+      <li><a href="#" class="menu-link">Icons</a></li>
+      <li><a href="#" class="menu-link">Themes</a></li>
+      <li><a href="#" class="menu-link">Expo</a></li>
+      <li><a href="#" class="menu-link">Blog</a></li>
+      
+    </ul>
+    <div class="download-button">
+      <a href="#" class="button">Download</a>
+
+    </div>
+  </nav>
 </body>
 </html>
