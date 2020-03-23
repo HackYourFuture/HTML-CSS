@@ -17,17 +17,17 @@ These are the topics for week 1:
 
 ## 1. What is the command line interface (CLI)?
 
-The Command Line interface (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
+The `Command Line interface` (also known as CLI or shell) is a way to navigate through your computer's content (media, folders, applications, etc.) without a visual user interface. It allows you to type text commands to perform specific tasks. Since you can directly control the computer by typing, many tasks can be performed more quickly, and some tasks can be automated with special commands that loop through and perform the same action on many files.
 
-As a beginning programmer it's important to get familiar with it, as it will teach you how computers work: As a tool that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
+As a beginning developer it's important to get familiar with it, as it will teach you how computers work: as tools that you give instructions to. This is not any different from programming for web development; but instead of writing instructions to the computer directly, you write instructions for browsers to execute.
 
-Please install [Git for Windows](https://gitforwindows.org) which comes with
-an application called *Git BASH* which simulates frequently used CLI commands.
+Please install [Git for Windows](https://gitforwindows.org) which comes with an application called _Git BASH_ which simulates frequently used CLI commands.
 
 For more information, check the following resources and code along:
 
-- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+- [Understanding the Command Line for Beginners](https://learntocodewith.me/getting-started/topics/command-line/)
 - [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
+- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
 
 ## 2. Introduction to HTML
 
@@ -35,8 +35,9 @@ For more information, check the following resources and code along:
 
 HTML is the foundation of web development. It is an acronym for **HyperText Markup Language**. It is used to structure content on a webpage. What do we mean by content? Plain text, images, videos, links to other websites, etc. The structure gives content meaning by defining that content as, for example, headings, paragraphs, or images.
 
-In order to learn HTML properly it's important to know what is is. Go through the following video to learn more about it:
+In order to learn HTML properly it's important to know what is is. Go through the following resources to learn more about it:
 
+- [HTML5 Basics - History of HTML](https://www.youtube.com/watch?v=NzzGt7EmXVw)
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ### The commonly used tags
@@ -55,7 +56,10 @@ Semantic HTML are HTML tags that introduce meaning to the web page rather than j
 
 This leads to the following insight about writing code: while code is written to produce working software, it should also be written so **other developers can easily read and understand it**. You'll learn more about that later.
 
-Take a look at the following resource to learn more about semantic HTML: [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+Take a look at the following resources to learn more about semantic HTML:
+
+- [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+- [HTML5 as Fast as Possible](https://www.youtube.com/watch?v=IsXEVQRaTX8)
 
 ## 3. Introduction to CSS
 
@@ -72,8 +76,8 @@ Go through the following video to get a firmer foundation:
 There are 3 basic ways to write CSS:
 
 - In an external stylesheet: a `.css` file, that is linked to a `.html` file.
-- In the <head> of a `.html` file. This is done using the `<style>` tag.
-- As part of the attribute `style` inside any HTML tag.
+- In the <head> of a `.html` file. This is done using the `<style>` tag. This is called an `internal stylesheet`
+- As part of the attribute `style` inside any HTML tag. This is called `inline styling`
 
 In practice, you'll always write your CSS in separate `.css` files. This is because you want to make sure **every file has a single purpose**: an HTML file should only contain the content and structure of a page, while a stylesheet should only contain styling rules that apply to a page.
 

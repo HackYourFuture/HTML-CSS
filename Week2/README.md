@@ -69,7 +69,7 @@ Before we start we must know the most basic command of all:
 git init
 ```
 
-What it does is creating a brand new local repository in your project folder. Only after doing this you will be able to follow along the next procedure.
+What it does is creating a brand new **local** repository in your project folder. Only after doing this you will be able to follow along the next procedure.
 
 No we can continue with the actual procedure itself. This happens in 3 stages:
 
@@ -85,15 +85,16 @@ This might sound very abstract, and it is. So to make it more comprehensible, wa
 
 ## What is GitHub?
 
-GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is a development platform that allows you to store a copy of your code online. Check the following video to learn more:
+GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is a software development platform that allows you to store a copy of your code online. Check the following video to learn more:
 
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-We use GitHub because of its main benefit: it allows us to freely store our code online (or "remote", as we developers also call it). This is useful, for example, in case our computer crashes and our projects are lost.
+We use GitHub because of its main benefit: it allows us to freely store our code online (or `remote`, as we developers also call it). This is useful, for example, in the case that our computer crashes and our projects are lost.
 
 The second benefit of using an online code storage is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
 
-- [GIT Good: A Practical Introduction to GIT and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a)
+- [GIT Good: A Practical Introduction to GIT and GitHub I](https://codeburst.io/git-good-part-a-e0d826286a2a)
+- [GIT Good: A Practical Introduction to GIT and GitHub II](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48)
 
 ### Working with SSH
 
@@ -121,14 +122,14 @@ By now you've had some practice with CSS. In the following sections you'll learn
 
 CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
 
-What it does is helping you to think according to 'grid-based web design': elements are not randomly placed on the page, but are neatly organised along a grid.
+What it does is helping you to think according to `grid-based web design`: elements are not randomly placed on the page, but are neatly organised along a grid.
 
 Read the following to learn more about 'grid-based web design':
 
 - [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
 - [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
 
-Once you understand this way of thinking you'll know why it makes sense to know Flexbox.
+Once you understand this way of thinking you'll know why it makes sense to use Flexbox.
 
 In order to make use of it we have to access it through the `display` CSS property:
 
@@ -138,8 +139,9 @@ display: flex;
 
 This will give us the Flexbox-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
 
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
-- [CSS Flexbox Tutorial for Beginners 1/2 ](https://www.youtube.com/watch?v=siKKg8Y_tQY)
+- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+- [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo))
 
 ### Pseudo class selectors
 
@@ -156,12 +158,13 @@ There are times when a user interacts with an element. For example: clicking a b
 Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
 
 - [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+- [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
 
 ### Responsive design with media queries
 
 Nowadays people use different devices to access websites: desktops, tablets and mobile phones of all different sizes. Responsive design is a way to put together a website so that it automatically scales its content and elements to match the screen size of the viewer. It prevents that images are larger than the screen width, so visitors on mobile devices will see a visually attractive website as well
 
-For more information about responsive design, check this article: [Responsive Design](https://internetingishard.com/html-and-css/responsive-design/).
+For more information about responsive design, check this article: [Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/).
 
 The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
 
