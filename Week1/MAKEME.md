@@ -9,6 +9,8 @@
 
 ### 1. Command Line Interface challenge
 
+> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Give the folder the name `hyf-html-exercises`. Inside, create a `week1` folder and will hold this week's exercise files inside. 
+
 Using the CLI, create a plain text file (`.txt`) that contains the commands necessary to answer the following questions:
 
 1. How do I create a hidden file or folder? How do I display it in the CLI?
@@ -39,27 +41,27 @@ A big part of learning web development is through learning by example. In the fo
 In the following assignment you'll make your own Digital Resume. Here are the requirements that need to be fulfilled:
 
 -   It needs to be one webpage
--   Your project folder should contain two files: HTML and CSS
+-   Your project folder should contain two files: a `.html` and a `.css` file
 -   Include the following pieces of information:
     -   Your personal information
     -   A picture of you
     -   A few lines about who you are
-    -   Education
-    -   Work experience
+    -   Education (list at least 1 education institute)
+    -   Work experience (list at least 1 workplace)
 
 When writing the HTML include the following:
 
 -   Different types of headings, like `<h1>` and `<h2>`
 -   An unordered list (`<ul>`). Use this to list out your educational background
 -   Another unordered list (`<ul>`).
--   an `<img>` tag (for your picture)
--   some `<p>` tags
+-   An `<img>` tag (for your picture)
+-   Some `<p>` tags
 
 When writing the CSS include the following:
 
 -   Some CSS properties, like: `margin`, `padding`, `color`, etc.
--   Use `flexbox` and/or `grid`
--   You are NOT allowed to use CSS frameworks (like Bootstrap, MaterializeCSS, etc.)
+-   Use [flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE) or [grid](https://www.youtube.com/watch?v=9zBsdzdE4sM)
+-   You are **NOT** allowed to use CSS frameworks (like Bootstrap, MaterializeCSS, etc.)
 
 ## SUBMIT YOUR HOMEWORK!
 
@@ -68,6 +70,6 @@ After you've finished your todo list it's time to show us what you got! The home
 1. The CLI challenge
 2. The Digital Resume
 
-Upload both in a repository to GitHub and then upload the link on Trello. Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
+Upload both in a repository to GitHub and then upload the link to it on the Trello board: "Feedback Assignments". Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
 
 _Deadline Saturday 23.59 CET_

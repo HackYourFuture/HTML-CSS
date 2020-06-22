@@ -8,7 +8,7 @@ You'll first create a personal GitHub repository (a storage place for code) in w
 
 2. [Trello](https://trello.com/b/U1gK8Q1c/feedback-assignments).
 
-After you've uploaded your files you'll copy the link to the homework folder in GitHub and paste it in a card on Trello.
+After you've uploaded your files you'll copy the link to the homework folder in GitHub and paste it in a card on Trello in the board "Feedback Assignments" (in the correct week).
 
 In the following guides you'll learn how to do this step-by-step.
 
@@ -35,7 +35,7 @@ Then follow these steps for every week of the HTML/CSS/GIT module:
 Follow these steps to upload the link to your homework:
 
 1. Go to the `Feedback Assignments` board
-2. In the right week, create a card with your name and week number (like, `Noer Paanakker Week 1 homework`)
-3. Click on the card, and attach the URL of your GitHub repository and/or other links that are relevant
+2. In the correct week, create a card with your name and week number (like, `Noer Paanakker Week 1 homework`)
+3. Click on the card, and attach the URL of your GitHub repository and/or other links that are relevant. Additionally, add a short description of what you did
 
 If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!

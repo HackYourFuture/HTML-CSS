@@ -11,41 +11,44 @@
 
 ### 1. GIT exercises
 
+> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder and will hold this week's exercise files inside.
+
 # Git branching homework:
 
-* Ask your teacher to create a repository on her/his Github account 
-`https://github.com/<TEACHER_NAME>/hyfclass.git`  for this homework.
-* Clone the repository (Google how to clone a repository).
-* Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
-* You will receive an email notification when (s)he adds you as a collaborator.
-* Accept the invitation for collaboration.
-* Create a file `YOUR_NAME-commands.txt`.
-* Add bash commands that you like. Add description for commands.
-* Then git add, commit and push the file.
-* Add more files if you want to and practice with `git log` and `git pull`.
-* You should observe that `you can see changes from your fellow students`.
+-   Ask your teacher to create a repository on her/his Github account
+    `https://github.com/<TEACHER_NAME>/hyfclass.git` for this homework.
+-   Clone the repository (Google how to clone a repository).
+-   Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
+-   You will receive an email notification when (s)he adds you as a collaborator.
+-   Accept the invitation for collaboration.
+-   Create a file `YOUR_NAME-commands.txt`.
+-   Add bash commands that you like. Add description for commands.
+-   Then git add, commit and push the file.
+-   Add more files if you want to and practice with `git log` and `git pull`.
+-   You should observe that `you can see changes from your fellow students`.
 
-* **Do not merge the changes to master branch**.
-* **Do not make any changes to master branch**.
+-   **Do not merge the changes to master branch**.
+-   **Do not make any changes to master branch**.
 
 ### 2. Responsive design challenges
 
-Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building. You have to learn how to do this to. It's not as intimating as it might seem; you're not going to build a separete page for literally every device size out there.
+Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building websites. You have to learn how to do this too. It's not as intimating as it might seem; you're **not** going to build a separate page for literally every device size out there.
 
 Instead, you'll be applying certain CSS rules only to certain device sizes: the average desktop (1024px and more), the average tablet (between 600px and 1024px) and the average mobile device (600px and below).
 
-In the following two mini-courses you'll get some practice in doing this:
+In the following mini-course you'll get some practice in doing this:
 
-- [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
-- [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
+-   [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
 
 ### 3. Code along
 
 In the following video you'll be rebuilding a responsive HTML5 website. Put your focus on how the structure of the page is built: First HTML to provide structure & content, and then the CSS. Look at the HTML tags used and the names given to classes.
 
-- [Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+-   [Build A Responsive Website With HTML & CSS Tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA)
 
 ### 4. PROJECT: Drones website
+
+> Use GIT and GitHub while making this project, you can easily use this as part of your portfolio!
 
 In this project you'll be building on an existing project. It's your job to make it `responsive` and look organised on various devices.
 
@@ -57,17 +60,15 @@ The page contains two grids: the first one should work using `floats`, the secon
 
 Other than that you should use `media queries`. Here are the requirements for each device size:
 
-- On mobile phones (smaller than 600px): a one column grid, that spans the full width
-- On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
-- On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
+-   On mobile phones (smaller than 600px): a one column grid, that spans the full width
+-   On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
+-   On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
 
 Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
-- `hover states` for buttons
-- A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
-- animation using `transition`
-
-> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
+-   `hover` states for buttons
+-   A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
+-   Animation using `transition`
 
 ## SUBMIT YOUR HOMEWORK!
 

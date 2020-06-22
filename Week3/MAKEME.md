@@ -1,7 +1,5 @@
 ## Homework HTML/CSS/GIT Week 3
 
-> Create a directory "week3" inside your `HYF-Module-HTMLCSSGIT` directory on GitHub. There should already be a "week1" and "week2" folder that contains your homework from the last 2 weeks.
-
 ## Todo list
 
 1. GIT exercise: `animals` repository
@@ -10,6 +8,8 @@
 4. PROJECT: Responsive website
 
 ### 1. GIT exercises
+
+> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week3` folder and will hold this week's exercise files inside.
 
 #### `animals` repository
 
@@ -35,13 +35,11 @@ In this homework you'll be working with GIT and GitHub. Follow the steps to lear
 13. Switch back to branch `master`
 14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
-
-
 ### 2. Framework tutorial: MaterializeCSS
 
 In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework based on Material Design - a design language created by Google. Follow the playlist and code along!
 
-- [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
+-   [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 
 ### 3. Code along
 
@@ -53,7 +51,7 @@ If you need more practice with Git, please follow these links and follow the ins
 
 You'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called Travelville:
 
-- [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
+-   [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
@@ -61,19 +59,19 @@ You'll continue practicing your skill using MaterializeCSS. In the following vid
 
 In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
 
-- https://www.rijksoverheid.nl
-- https://www.bostonglobe.com
-- https://www.thinkwithgoogle.com
-- http://muumilaakso.tampere.fi/en/
-- http://incredibletypes.com
-- http://thenextweb.com
+-   https://www.rijksoverheid.nl
+-   https://www.bostonglobe.com
+-   https://www.thinkwithgoogle.com
+-   http://muumilaakso.tampere.fi/en/
+-   http://incredibletypes.com
+-   http://thenextweb.com
 
 In order to pass you need to fulfill the following criteria:
 
-- Write your CSS in an external stylesheet
-- Make use of Flexbox
-- Use media queries for both tablet and mobile (This might be same for the website you're making)
-- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
+-   Write your CSS in an external stylesheet
+-   Make use of Flexbox
+-   Use media queries for both tablet and mobile (This might be same for the website you're making)
+-   **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
 
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 

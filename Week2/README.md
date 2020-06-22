@@ -5,15 +5,15 @@
 These are the topics for week 2:
 
 1. Introduction to GIT
-   - What is GIT?
-   - Installing GIT
-   - Basic GIT commands
-   - What is GitHub?
-   - Working with SSH
+    - What is GIT?
+    - Installing GIT
+    - Basic GIT commands
+    - What is GitHub?
+    - Working with SSH
 2. More advanced CSS
-   - Flexible organizing with flexbox
-   - Pseudo class selectors
-   - Responsive design with media queries
+    - Flexible organizing with flexbox
+    - Pseudo class selectors
+    - Responsive design with media queries
 
 ## 1. Introduction to GIT
 
@@ -23,29 +23,33 @@ GIT is software that allows you to save your work at any given moment in time. I
 
 You can think of it like a video game. You get to a certain point in the game, after hours of struggle. You're really proud of how far you've come, and don't want to do it over again in case you die. So you decide to _save your game_. If something bad happens after that point you can always reload your game and start from that point on.
 
-This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. If you want to go back to a previous _game save_ you can load it by **checking out that commit**. You will learn more about that in the next sections.
+This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. A "change" is a code modification you made within a working day.
+
+If you ever would want to go back to a previous _game save_ you can make GIT help you do so by **checking out to that commit**. You will learn more about that in the next sections.
 
 Check out the following short clip to learn about the essentials of GIT:
 
-- [GIT explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+-   [GIT explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 
 ### Installing GIT
 
 In order to use GIT you first have to install it. The software is different depending on your operating system:
 
-- For Windows, install [Git Bash](https://git-scm.com/download/win)
-- For MacOS, install [GIT](https://git-scm.com/download/mac)
-- For Linux, install [GIT](https://git-scm.com/download/linux)
+-   For Windows, install [Git Bash](https://git-scm.com/download/win)
+-   For MacOS, install [GIT](https://git-scm.com/download/mac)
+-   For Linux, install [GIT](https://git-scm.com/download/linux)
 
 After you've installed it you can use it through the CLI. To verify that it worked, enter the command:
 
-`git --version`
+```bash
+git --version
+```
 
 It should say that the version is **2.21** (or up if you've installed a new version).
 
-Now that you have GIT installed, it's important to make a basic configuration. Inside your CLI, do in the following: Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively.
+Now that you have GIT installed, it's important to make a basic configuration. Inside your CLI, type in the following (Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively):
 
-```
+```bash
 git config --global user.name "Your name"
 git config --global user.email "your.email@yourmailserver.com"
 ```
@@ -56,16 +60,16 @@ This makes sure GIT is able to identify you as the person that uses it to save y
 
 You'll use GIT like any software you execute through the CLI.
 
-There are different ways of using GIT. For now we'll learn one procedure: committing your workspace to a local repository. Let's take that phrase apart first:
+There are different ways of using GIT. For now we'll learn one procedure: **committing your workspace to a local repository**. Let's take that phrase apart first:
 
-- **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
-- **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
-- **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
-- **Repository** is a storage location containing the data regarding your project folder. GIT creates a hidden folder `.git` that functions as the local repository.
+-   **Committing** is another word for saving or storing the changes you've made to the files in your workspace. For example, changing the content of a file is a "change".
+-   **Workspace** is another word for the project folder (and its contents). When making a repository it will be in the root (in other words, the top level) of the folder.
+-   **Local** refers to your computer, with no involvement of the internet. When you create a file or folder on your computer, you are creating it "locally".
+-   **Repository** is a storage location containing the data regarding your project folder. GIT creates a hidden folder `.git` that functions as the local repository.
 
 Before we start we must know the most basic command of all:
 
-```
+```bash
 git init
 ```
 
@@ -79,40 +83,40 @@ No we can continue with the actual procedure itself. This happens in 3 stages:
 
 This might sound very abstract, and it is. So to make it more comprehensible, watch the following videos and code along:
 
-- [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
-- [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+-   [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+-   [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
+-   [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## What is GitHub?
 
-GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is a software development platform that allows you to store a copy of your code online. Check the following video to learn more:
+GitHub is **NOT the same** as GIT. While GIT is software that allows you to keep track of your files, GitHub is an online software development platform that allows you to store a copy of your code online. Check the following video to learn more:
 
-- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+-   [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 We use GitHub because of its main benefit: it allows us to freely store our code online (or `remote`, as we developers also call it). This is useful, for example, in the case that our computer crashes and our projects are lost.
 
 The second benefit of using an online code storage is that it allows us to work together with other developers, using one central (and remote) repository. This is done using branches, which you will learn about [next week](../Week3/README.me).
 
-- [GIT Good: A Practical Introduction to GIT and GitHub I](https://codeburst.io/git-good-part-a-e0d826286a2a)
-- [GIT Good: A Practical Introduction to GIT and GitHub II](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48)
+-   [GIT Good: A Practical Introduction to GIT and GitHub I](https://codeburst.io/git-good-part-a-e0d826286a2a)
+-   [GIT Good: A Practical Introduction to GIT and GitHub II](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48)
 
 ### Working with SSH
 
 SSH stands for Secure Shell and is a way of providing users a secure way of accessing (the content of) a computer over an unsecure network. Simply put, it makes the connection much more difficult to hack or intercept.
 
-When working with online (or what you'll hear more often: remote) code repositories, you might be dealing with unsecure connections. In order to make the connection more secure, you have to use an **SSH key**. Similar to a real key, this digital key allows your computer to be identified by the network you're trying to access. If the connection has been made you can access and modify the contents of network.
+When working with online (or what you'll hear more often: `remote`) code repositories, you might be dealing with unsecure connections. In order to make the connection more secure, you have to use an **SSH key**. Similar to a real key, this digital key allows your computer to be identified by the network you're trying to access. If the connection has been made you can access and modify the contents of network.
 
-> The concept of secure networking through use of identifiers (like an SSH key) is also known as "authentication": are you who you say you are? Authentication is a central idea within programming and you should keep it in mind. You'll also be seeing more of it during later modules!
+> The concept of secure networking through use of identifiers (like an SSH key) is also known as "authentication": are you who you say you are? Authentication is a central idea within programming and you should keep it in mind. You'll also be seeing more of it in later modules!
 
 Check the following resources for more information:
 
-- [Beginners Guide To SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)
-- [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
+-   [Beginners Guide To SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)
+-   [How SSH works](https://www.youtube.com/watch?v=zlv9dI-9g1U)
 
 When working with GitHub we want to ensure the same level of security. Thus, we will have to make an SSH key and link it to GitHub!
 
-- [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-- [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
+-   [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+-   [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
 ## 2. More advanced CSS
 
@@ -120,16 +124,16 @@ By now you've had some practice with CSS. In the following sections you'll learn
 
 ### Flexible organizing with flexbox
 
-CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using Flexbox.
+CSS is used to order and style HTML elements. A big part of this is organising elements in a visually attractive way. This can be done using `flexbox`.
 
 What it does is helping you to think according to `grid-based web design`: elements are not randomly placed on the page, but are neatly organised along a grid.
 
 Read the following to learn more about 'grid-based web design':
 
-- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-- [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
+-   [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+-   [Intro to Web Design Grids](https://www.youtube.com/watch?v=gjYZoPEk0ow)
 
-Once you understand this way of thinking you'll know why it makes sense to use Flexbox.
+Once you understand this way of thinking you'll know why it makes sense to use `flexbox`.
 
 In order to make use of it we have to access it through the `display` CSS property:
 
@@ -137,28 +141,34 @@ In order to make use of it we have to access it through the `display` CSS proper
 display: flex;
 ```
 
-This will give us the Flexbox-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
+This will give us the `flexbox`-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
 
-- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
-- [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo))
+-   [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+-   [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
+-   [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo))
 
 ### Pseudo class selectors
 
 Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
 
 ```css
-p {
-  color: white;
+button {
+	background-color: white;
 }
 ```
 
-There are times when a user interacts with an element. For example: clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). We need to write instructions for that to happen.
+There are times when a user interacts with an element. For example: clicking a button that opens another page. As frontend developers we need to give the user feedback on that particular action. When they place the mouse on top of the button it lights up (we call this a `hover state`). We need to write instructions for that to happen:
 
-Like the hover state there are others as well: click, focus, visited, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try the out for yourself!:
+```css
+button:hover {
+	background-color: blue;
+}
+```
 
-- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
-- [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
+Like the hover state there are others as well: `click`, `focus`, `visited`, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try them out for yourself!:
+
+-   [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+-   [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
 
 ### Responsive design with media queries
 
@@ -168,7 +178,10 @@ For more information about responsive design, check this article: [Responsive De
 
 The primary way of making a responsive website is by writing custom CSS code that makes it so. This can be done using `media queries`: CSS instructions that only apply to certain screen sizes.
 
-Start reading about media queries here: [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
+Learn more about media queries here:
+
+-   [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
+-   [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
 
 ## Finished?
 
