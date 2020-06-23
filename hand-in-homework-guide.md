@@ -24,8 +24,14 @@ Then follow these steps for every week of the HTML/CSS/GIT module:
 3. Upload the the homework files
 4. Before submitting the upload, write a message that says something about what you've done. For week1 the message could be: "wrote cli commands and build digital resume"
 5. Open the files in your folder to check if all of this worked.
-6. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
-7. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
+6. Now go to the settings of your repository:
+
+![settings overview](./assets/github_pages1.png)
+
+7. And go to _Github Pages_ select "master" instead of "none"
+
+![pages overview](./assets/github_pages2.png)
+
 8. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_.github.io/HYF-Module-HTMLCSSGIT/week1
 
 > Here is an example of how your homework repository should look: https://github.com/mkruijt/HTML-CSS

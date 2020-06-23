@@ -2,12 +2,20 @@
 
 ## Todo list
 
-1. GIT exercise: `animals` repository
-2. CSS framework challenges
-3. Code along
-4. PROJECT: Responsive website
+1. Practice the concepts
+2. GIT exercise: `animals` repository
+3. CSS framework challenges
+4. Code along
+5. PROJECT: Responsive website
 
-### 1. GIT exercises
+### 1. Practice the concepts
+
+We'll start the week off with some more GIT practice! Go through the following:
+
+1. [Learn GIT](https://www.codecademy.com/learn/learn-git)
+2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+
+### 2. GIT exercises
 
 > Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week3` folder and will hold this week's exercise files inside.
 
@@ -18,7 +26,7 @@
 In this homework you'll be working with GIT and GitHub. Follow the steps to learn how to create a remote repository and work with it from your local machine:
 
 1. Create a repository on GitHub, called `animals`
-2. Clone the repository to your local machine, using SSH
+2. Clone the repository to your local machine, using the SSH URL
 3. Locally, create a file called "zoo.txt". Include 3 animals found in a zoo
 4. Add and commit the file to the local repository. Make sure the commit message is meaningful (ex. "created txt file with animal names")
 5. Push your commit to the remote repository, verify that it has worked on GitHub
@@ -35,45 +43,41 @@ In this homework you'll be working with GIT and GitHub. Follow the steps to lear
 13. Switch back to branch `master`
 14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
-### 2. Framework tutorial: MaterializeCSS
+### 3. Framework tutorial: MaterializeCSS
 
 In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework based on Material Design - a design language created by Google. Follow the playlist and code along!
 
 -   [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 
-### 3. Code along
+### 4. Code along
 
-If you need more practice with Git, please follow these links and follow the instructions.
-
-1. [Getting Started with Git and GitHub](https://www.codecademy.com/articles/f1-u3-git-setup)
-2. [Learn GIT](https://www.codecademy.com/learn/learn-git)
-3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
-
-You'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called Travelville:
+In this code along you'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called TravelVille:
 
 -   [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
-### 4. PROJECT: Responsive website
+### 5. PROJECT: Responsive website
+
+> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
 In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
 
--   https://www.rijksoverheid.nl
--   https://www.bostonglobe.com
--   https://www.thinkwithgoogle.com
--   http://muumilaakso.tampere.fi/en/
--   http://incredibletypes.com
--   http://thenextweb.com
+-   [Goodreads](https://www.goodreads.com/)
+-   [Amazon](https://www.amazon.com/)
+-   [Codecademy](https://www.codecademy.com/)
+-   [Uber](https://www.uber.com/nl/nl/)
+-   [Adyen](https://www.adyen.com/)
+-   [Patreon](https://www.patreon.com/)
 
-In order to pass you need to fulfill the following criteria:
+You don't have to build everything, but include the following requirements:
 
+-   Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
 -   Write your CSS in an external stylesheet
--   Make use of Flexbox
+-   Make use of `flexbox`
+-   Download the assets (images, other forms of media) through the original webpage, or use your own!
 -   Use media queries for both tablet and mobile (This might be same for the website you're making)
 -   **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
-
-> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
 _Deadline Saturday 23.59 CET_
 

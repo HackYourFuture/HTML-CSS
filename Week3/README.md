@@ -26,6 +26,12 @@ These are the topics for week 3:
 
 ![branches](assets/branches.png)
 
+Whenever you make a branch, you're creating an exact copy of your workspace that you can work with. Try it out:
+
+```md
+Go into a folder and initialize GIT to create a local repository. Then create a branch. In this new branch, create some basic files. **stage** and **commit** the changes you've made. Now, switch back to the original branch (**master**). What do you see? Nothing! That's because in that branch you didn't make those changes. If you switch back to the other branch you will see the files you've created again. Magic!
+```
+
 You can see a branch as an experiment, a possible way your project can evolve. Usually, each branch (except the `master` branch) contains code for what is called a new `feature`: a piece of functionality that you want to add to your software. Let's take Facebook as a simple example: After creating an account (which is a feature itself) you can do multiple things. Each "thing" is a feature: having a news feed, being able to send friend requests or liking posts.
 
 Working with branches is especially important when working with other developers. This only applies when working with a **remote** repository, which we'll talk about in the next section.
@@ -53,9 +59,11 @@ Go through the following project to learn how to work with branches on GitHub:
 
 ### Making pull requests
 
-A **pull request** is a term GitHub uses to refer to merge requests; a request to incorporate code changes made by a developer (whether it's you or another developer) into the code stored in a branch of a repository.
+A **pull request** is a term GitHub uses to refer to a request to incorporate code changes from one branch made by a developer (whether it's you or another developer) into the code stored in a different branch of a repository.
 
-These changes are proposed in a branch, and the pull request usually is made to merge into the `master` branch. Code changes through pull requests never merge directly into the target branch, unless the administrator uses their rights to do so. In normal circumstances, there has to be at least one other person reviewing the proposal before it is approved to be merged.
+> Sometimes you'll hear developers speak of "merge requests". This is just another name for the same thing: pulling changes from another branch or fork into your branch and merging the changes with your existing code. Software development platforms like GitLab (an alternative to GitHub) use this the term "merge request" instead of "pull request".
+
+These changes are made in one branch, and the pull request usually is made to merge into the `master` branch. However, this doesn't happen directly: in normal circumstances, there has to be at least one other person reviewing the proposal before it is approved to be merged. The reason why is simple: it's very easy to merge code that might be buggy or conflicts with what's already there.
 
 -   [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
@@ -66,22 +74,28 @@ Pull requests only happen in remote repositories. This can happen in 2 ways:
 
 (2) From one branch to another branch **from a forked repository into the original repository**. A `fork` is a copy of a repository, that is stored in your personal GitHub account. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
-While both are important to know, it's useful to study the second way because that's how you'll submit your homework:
+While both are important to know about, it's useful to study the second way a little more in-depth because that's how you'll submit your homework:
 
 -   [About forks](https://help.github.com/en/articles/about-forks)
--   [GitHub Homework flow](https://www.youtube.com/watch?v=2qJPAVTiKPE)
+-   [GitHub Homework flow](https://www.youtube.com/watch?v=CpYARPYGQU8)
 
 ## 2. CSS Frameworks
 
-In order to explain CSS frameworks, we first must understand what a framework is. Let's explain using an analogy.
+In order to explain CSS frameworks, we first must understand what a framework is. Let's illustrate this using an analogy.
 
-Let's suppose you want to make a ginger tea on daily basis. You do this with several ingredients: water, pieces of ginger and sugar. Doing so you will find it is really difficult to put all ingredients in the right proportions all the time.
+Let's suppose you want to make a ginger tea on daily basis. You do this with several ingredients: water, pieces of ginger and sugar. Doing so you will find it is really difficult to put all ingredients in the right proportions, to get the right flavor, all the time.
 
 One morning you come up with idea of mixing all the ingredients in one jar in the correct proportion, such that every spoon will serve the right amount to make the tea.
 
 This jar is your framework. By using it you don't have to think about the ingredients, nor the proportions. Only about how much you want to use to fit your needs.
 
-> Tip: the concept of a framework will come back many times, as we don't want to reinvent the wheel every time we create a new application. The point of any piece of software is to write it as simply as possible, and a framework really helps with that. So keep it in mind!
+Or here's another analogy:
+
+Imagine you want to make star-shaped pancakes. That's pretty hard to do by itself, so you choose to use a mold. The mold helps you "structure" the pancake. All you need to add is the right content, which is the pancake batter.
+
+This mold is your framework. By using it, you need only think about the actual content you want to use. The rest will be taken care of for you.
+
+> Tip: The concept of a framework will come back many times, as we don't want to reinvent the wheel every time we create a new application. The point of any piece of software is to write it as simply as possible, and a framework really helps with that. So keep it in mind!
 
 ### Why use a CSS framework?
 
@@ -99,7 +113,7 @@ There are a lot of different CSS frameworks out, each with their pros and cons. 
 
 ### CSS Framework vs. custom CSS
 
-As a general rule, you always want to be able to write custom CSS when needed. And if you're using a framework, you need to at least know why it works the way it does. This means that you look into the class definition within the stylesheet (you can use the browser inspector for this, more on that later).
+As a general rule, you always want to be able to write custom CSS when needed. And if you're using a framework, you need to at least know why it works the way it does. This means that you look at the **documentation** of that particular CSS framework first. Alternatively, you could also look into the class definition within the stylesheet (you can use the browser inspector for this, more on that later).
 
 However, writing custom CSS is in practice not always possible. This could be because of project deadlines, lack of skill or wanting to do rapid prototyping (a technique to quickly build a working version in order to test if it works). This is when we use frameworks to help us out.
 
@@ -114,7 +128,7 @@ Keep in mind that a framework should be there only to assist, not compensate or 
 
 You probably use it daily. Let's take a closer look at what it actually is.
 
-A `web browser` is software that allows you to view webpages, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML files, transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to display a page correctly.
+A `web browser` is software that allows you to view webpages, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML files: transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to display a page correctly.
 
 For further study, delve into the following:
 
@@ -150,7 +164,7 @@ As web developers we'll be dealing with the browser all the time. Why not upgrad
 
 A `browser extension` is a piece of software someone has written to increase the capability of the web browser. For example, if you hate receiving advertisements you probably use something like [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) to block all the unwanted ads you might find in your webpages (if not, download it as soon as possible!).
 
-The following is a list of extensions that have proven to be useful during web development. This list only applies for Google Chrome, so if you don't have it [install it](https://www.google.com/chrome/).
+The following is a list of extensions that have proven to be useful during web development. This list only applies for Google Chrome, so if you don't have it, [install it](https://www.google.com/chrome/).
 
 Extensions:
 
