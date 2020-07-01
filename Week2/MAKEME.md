@@ -66,7 +66,7 @@ Other than that you should use `media queries`. Here are the requirements for ea
 
 Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
--   `hover` states for buttons
+-   `hover` states for the grid elements, to indicate to the user that they're looking at that specific drone
 -   A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
 -   Animation using `transition`
 
