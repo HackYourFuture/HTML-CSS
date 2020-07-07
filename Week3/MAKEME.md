@@ -74,6 +74,7 @@ You don't have to build everything, but include the following requirements:
 
 -   Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
 -   Write your CSS in an external stylesheet
+-   You are __allowed__ to use a CSS framework
 -   Make use of `flexbox`
 -   Download the assets (images, other forms of media) through the original webpage, or use your own!
 -   Use media queries for both tablet and mobile (This might be same for the website you're making)
