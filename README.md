@@ -28,7 +28,7 @@ In order to successfully complete this module you will need to master the follow
 
 ## How to use this repository
 
-> Before you do anything, first go [here](Week0/preparation.md).
+> Before you do anything, first go [here](Week0/README.md).
 
 This repository consists of 3 essential parts:
 
@@ -44,7 +44,7 @@ If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯
 
 | Week | Topic                                                  | Reading Materials                  | Homework                        | Lesson Plan                            |
 | ---- | ------------------------------------------------------ | ---------------------------------- | ------------------------------- | -------------------------------------- |
-| 0.   | Quick Start!                                           | [W0 Reading](Week0/preparation.md) | -                               | -                                      |
+| 0.   | Quick Start!                                           | [W0 Reading](Week0/README.md) | -                               | -                                      |
 | 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](/Week1/README.md)     | [W1 Homework](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
 | 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](/Week2/README.md)     | [W2 Homework](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
 | 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](/Week3/README.md)     | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
