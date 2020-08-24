@@ -12,7 +12,7 @@
 
 We'll start the week off with some more GIT practice! Go through the following:
 
-1. [Learn GIT](https://www.codecademy.com/learn/learn-git)
+1. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
 2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ### 2. GIT exercises
