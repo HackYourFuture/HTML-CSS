@@ -60,16 +60,17 @@ To have a more detailed overview of the guidelines, please read [this document](
 
 ### Video lectures
 
-For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be Arco Mulder: an experienced video game and web developer!
+For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be [Arco Mulder](https://hackyourfuture.slack.com/team/UBVNH7CG1): an experienced video game and web developer!
 
 You can find out more about him here:
 
 - [Personal website](https://www.arcomul.nl/)
 - [GitHub](https://github.com/ArcoMul)
+- [@Arco on Slack](https://hackyourfuture.slack.com/team/UBVNH7CG1)
 
 Learn from Arco in the following playlist of videos he has made for you! (Click on the image to open the link)
 
-<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="./assets/week1-arco.png" width="600" height="450" alt="HYF Video" /></a>
+<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="./assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
 
 ## Planning
 
