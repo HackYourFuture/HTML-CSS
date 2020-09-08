@@ -6,14 +6,20 @@ These are the topics for week 1:
 
 1. What is the command line interface (CLI)?
 2. Introduction to HTML:
-    - Crash course
-    - The most commonly used tags
-    - Semantic HTML
+   - Crash course
+   - The most commonly used tags
+   - Semantic HTML
 3. Introduction to CSS:
-    - Crash course
-    - Where to write it?
-    - The box model
-    - The cascading effect
+   - Crash course
+   - Where to write it?
+   - The box model
+   - The cascading effect
+
+## 0. Video Lectures
+
+Your teacher Arco has made video lectures for this week's material. You can find them here: [Videos 1 - 6](https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj)
+
+<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="../assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
 
 ## 1. What is the command line interface (CLI)?
 
@@ -27,9 +33,9 @@ Please install [Git for Windows](https://gitforwindows.org) which comes with an 
 
 For more information, check the following resources and code along:
 
--   [Understanding the Command Line for Beginners](https://learntocodewith.me/getting-started/topics/command-line/)
--   [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
--   [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
+- [Understanding the Command Line for Beginners](https://learntocodewith.me/getting-started/topics/command-line/)
+- [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
+- [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)
 
 ## 2. Introduction to HTML
 
@@ -39,8 +45,8 @@ HTML is the foundation of web development. It is an acronym for **HyperText Mark
 
 In order to learn HTML properly it's important to know what is is. Go through the following resources to learn more about it:
 
--   [HTML5 Basics - History of HTML](https://www.youtube.com/watch?v=NzzGt7EmXVw)
--   [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML5 Basics - History of HTML](https://www.youtube.com/watch?v=NzzGt7EmXVw)
+- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ### The most commonly used tags
 
@@ -60,8 +66,8 @@ This leads to the following insight about writing code: while code is written to
 
 Take a look at the following resources to learn more about semantic HTML:
 
--   [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
--   [HTML5 as Fast as Possible](https://www.youtube.com/watch?v=IsXEVQRaTX8)
+- [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
+- [HTML5 as Fast as Possible](https://www.youtube.com/watch?v=IsXEVQRaTX8)
 
 ## 3. Introduction to CSS
 
@@ -71,31 +77,31 @@ CSS is just as important as HTML. It is an acronym for **Cascading Style Sheets*
 
 Go through the following video to get a firmer grasp of the fundamentals of CSS:
 
--   [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
 ### Where to write it?
 
 There are 3 basic ways to write CSS:
 
--   In an external stylesheet: a `.css` file, that is linked to a `.html` file using the following tag:
+- In an external stylesheet: a `.css` file, that is linked to a `.html` file using the following tag:
 
 ```html
 <link href="/path/to/style.css" rel="stylesheet" />
 ```
 
--   In the `<head>` of a `.html` file. This is done using the `<style>` tag. This is called an `internal stylesheet`:
+- In the `<head>` of a `.html` file. This is done using the `<style>` tag. This is called an `internal stylesheet`:
 
 ```html
 <head>
-	<style>
-		body {
-			background-color: blue;
-		}
-	</style>
+  <style>
+    body {
+      background-color: blue;
+    }
+  </style>
 </head>
 ```
 
--   As part of the attribute `style` inside any HTML tag. This is called `inline styling`:
+- As part of the attribute `style` inside any HTML tag. This is called `inline styling`:
 
 ```html
 <div style="background-color: blue;">HackYourFuture is cool!</div>
@@ -111,8 +117,8 @@ This is a software design principle called [`separation of concerns`](https://so
 
 To learn more about the box model, go through the following:
 
--   [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
--   [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
+- [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
+- [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
 
 ### The cascading effect
 
@@ -123,8 +129,8 @@ you write CSS rules.
 
 Read the following articles to learn about it:
 
--   [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
--   [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
+- [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
+- [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
 
 ## Finished?
 

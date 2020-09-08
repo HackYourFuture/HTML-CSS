@@ -4,7 +4,7 @@
 
 # Module #1 - HTML, CSS and GIT (Frontend)
 
-![image](assets/module1.png)
+![Module 1](assets/module1.png)
 
 Welcome to the wonderful world of web development! In this module you will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice.
 
@@ -18,36 +18,67 @@ You'll also be learning [GIT](https://www.youtube.com/watch?v=P0kF3vvy3QM), soft
 
 In order to successfully complete this module you will need to master the following:
 
--   Be able to write syntactically correct `HTML` and `CSS`
--   Understand what is meant by `responsive` web development
--   Practice navigating your computer using the `command line interface (CLI)`
--   Learn about `GIT` and its basic usage
--   Become familiar with `Trello` and `GitHub` as a way to submit your homework
--   Know your way around `Visual Studio Code`
--   Feel comfortable working with your `browser's inspector`
+- Be able to write syntactically correct `HTML` and `CSS`
+- Understand what is meant by `responsive` web development
+- Practice navigating your computer using the `command line interface (CLI)`
+- Learn about `GIT` and its basic usage
+- Become familiar with `Trello` and `GitHub` as a way to submit your homework
+- Know your way around `Visual Studio Code`
+- Feel comfortable working with your `browser's inspector`
 
 ## How to use this repository
 
 > Before you do anything, first go [here](Week0/README.md).
 
+### Repository content
+
 This repository consists of 3 essential parts:
 
-1. `README`: this document contains all the required theory you need to understand **before** class. It's also meant as a reference to understand what you're doing while you're coding.
-2. `MAKEME`: this document contains the instructions for each week's homework.
+1. `README`: this document contains all the required theory you need to understand **while** working on the homework. It contains not only the right resources to learn about the concepts, but also lectures done by HackYourFuture teachers. This is the **first thing** you should start with every week
+2. `MAKEME`: this document contains the instructions for each week's homework. Start with the exercises rather quickly, so that you can ground the concepts you read about earlier.
 3. `LESSONPLAN`: this document is meant for teachers as a reference. However, as a student don't be shy to take a look at it as well!
 
-**Before** the first class of the module you should start off with the [Week 1 Reading](/Week1/README.md). Study all the concepts and try to get the gist of everything. After your first class, you can get started with the [Week 1 Homework](/Week1/MAKEME.md).
+### How to study
 
-If you have any questions or if something is not entirely clear ¯\\\_(ツ)\_/¯, please ask/comment on Slack!
+Let's say you are just starting out with HackYourFuture. This is what you do...
+
+1. The week always starts on **Wednesday**. First thing you'll do is open the `README.md` for that week. For the first week of `HTML-CSS`, that would be [Week1 Reading](/Week1/README.md)
+2. You spend **Wednesday** and **Thursday** going over the resources and try to get a basic understanding of the concepts. From the second week on, you'll also implement any feedback you got on last week's homework
+3. On **Friday** you start with the homework, found in the `MAKEME.md`. For the first week of `HTML-CSS`, that would be [Week1 Homework](/Week1/MAKEME.md)
+4. You spend **Friday** and **Saturday** playing around with the exercises and write down any questions you might have
+5. **DEADLINE 1**: You'll submit any questions you might have before **Saturday 23.59**, in the class channel
+6. On **Sunday** you'll attend class. It'll be of the Q&A format, meaning that there will be no new material. Instead your questions shall be discussed and you can learn from others
+7. You spend **Monday** and **Tuesday** finalizing your homework
+8. **DEADLINE 2**: You submit your homework to the right channels (Trello/GitHub) before **Tuesday 23.59**. If you can't make it on time, please communicate it with your mentor
+9. Start the new week by going back to point 1!
+
+In summary:
+
+![Weekflow](assets/weekflow.png)
+
+To have a more detailed overview of the guidelines, please read [this document](https://docs.google.com/document/d/1JUaEbxMQTyljAPFsWIbbLwwvvIXZ0VCHmCCN8RaeVIc/edit?usp=sharing) or ask your mentor/class on Slack!
+
+### Video lectures
+
+For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be Arco Mulder: an experienced video game and web developer!
+
+You can find out more about him here:
+
+- [Personal website](https://www.arcomul.nl/)
+- [GitHub](https://github.com/ArcoMul)
+
+Learn from Arco in the following playlist of videos he has made for you! (Click on the image to open the link)
+
+<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="./assets/week1-arco.png" width="600" height="450" alt="HYF Video" /></a>
 
 ## Planning
 
-| Week | Topic                                                  | Reading Materials                  | Homework                        | Lesson Plan                            |
-| ---- | ------------------------------------------------------ | ---------------------------------- | ------------------------------- | -------------------------------------- |
-| 0.   | Quick Start!                                           | [W0 Reading](Week0/README.md) | -                               | -                                      |
-| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](/Week1/README.md)     | [W1 Homework](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
-| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](/Week2/README.md)     | [W2 Homework](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
-| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](/Week3/README.md)     | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
+| Week | Topic                                                  | Reading Materials              | Homework                        | Lesson Plan                            |
+| ---- | ------------------------------------------------------ | ------------------------------ | ------------------------------- | -------------------------------------- |
+| 0.   | Quick Start!                                           | [W0 Reading](Week0/README.md)  | -                               | -                                      |
+| 1.   | Command Line Interface basics, HTML/CSS syntax         | [W1 Reading](/Week1/README.md) | [W1 Homework](/Week1/MAKEME.md) | [W1 Lesson Plan](/Week1/LESSONPLAN.md) |
+| 2.   | Introduction to GIT, Responsive design                 | [W2 Reading](/Week2/README.md) | [W2 Homework](/Week2/MAKEME.md) | [W2 Lesson Plan](/Week2/LESSONPLAN.md) |
+| 3.   | GIT branches, CSS frameworks, Working with the browser | [W3 Reading](/Week3/README.md) | [W3 Homework](/Week3/MAKEME.md) | [W3 Lesson Plan](/Week3/LESSONPLAN.md) |
 
 ## Finished?
 
