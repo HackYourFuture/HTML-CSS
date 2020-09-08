@@ -9,26 +9,26 @@
 3. Code along
 4. PROJECT: Responsive website
 
+
+
 ### 1. GIT exercises
 
 > Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder and will hold this week's exercise files inside.
 
-# Git branching homework:
+### Exercise 1:
 
--   Ask your teacher to create a repository on her/his Github account
+1.   Ask your teacher to create a repository on her/his Github account
     `https://github.com/<TEACHER_NAME>/hyfclass.git` for this homework.
--   Clone the repository (Google how to clone a repository).
--   Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
--   You will receive an email notification when (s)he adds you as a collaborator.
--   Accept the invitation for collaboration.
--   Create a file `YOUR_NAME-commands.txt`.
--   Add bash commands that you like. Add description for commands.
--   Then git add, commit and push the file.
--   Add more files if you want to and practice with `git log` and `git pull`.
--   You should observe that `you can see changes from your fellow students`.
+2.   Clone that repository (Google how to clone a repository).
+3.   Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
+4.   You will receive an email notification when (s)he adds you as a collaborator.
+5.   Accept the invitation for collaboration.
+6.   Create a file `YOUR_NAME-commands.txt`.
+7.   Add bash commands that you like (at least 3). Provide a short description (20 characters~) for each.
+8.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
 
--   **Do not merge the changes to master branch**.
--   **Do not make any changes to master branch**.
+-   **Do not merge the changes to the `master` branch**.
+-   **Do not make any changes to the `master` branch**.
 
 ### 2. Responsive design challenges
 
