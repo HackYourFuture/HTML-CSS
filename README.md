@@ -70,7 +70,7 @@ You can find out more about him here:
 
 Learn from Arco in the following playlist of videos he has made for you! (Click on the image to open the link)
 
-<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="./assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
+<a href="https://www.youtube.com/playlist?list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="./assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
 
 ## Planning
 

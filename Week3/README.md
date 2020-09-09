@@ -20,9 +20,9 @@ These are the topics for week 3:
 
 ## 0. Video Lectures
 
-Your teacher Arco has made video lectures for this week's material. You can find them here: [Videos 12 - 15](https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj)
+Your teacher Arco has made video lectures for this week's material. You can find them here: [Videos 12 - 15](https://www.youtube.com/playlist?list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj)
 
-<a href="https://www.youtube.com/watch?v=5X1ZRfPluRg&list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="../assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
+<a href="https://www.youtube.com/playlist?list=PLVYDhqbgYpYXbAL_Hps1Y--THRmaTFipj" target="_blank"><img src="../assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
 
 ## 1. GIT branching
 
