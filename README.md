@@ -60,7 +60,7 @@ To have a more detailed overview of the guidelines, please read [this document](
 
 ### Video lectures
 
-For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be [Arco Mulder](https://hackyourfuture.slack.com/team/UBVNH7CG1): an experienced video game and web developer!
+For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be [Arco Mul](https://hackyourfuture.slack.com/team/UBVNH7CG1): an experienced video game and web developer!
 
 You can find out more about him here:
 
