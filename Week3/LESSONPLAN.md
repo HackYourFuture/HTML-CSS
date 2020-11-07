@@ -30,7 +30,13 @@ Create a repository and initialize GIT. Show the use of `git branch`, `git check
 
 ### Exercise
 
+A fun exercise by [Arco](https://github.com/ArcoMul) to practise creating pull requests: [Cat pull request exercise](https://github.com/ArcoMul/netlify-cats)
+
+Instruction on how to set things up at Netlify: https://github.com/ArcoMul/netlify-cats/blob/main/SETUP.md
+
 ### Essence
+
+_TODO_
 
 SECOND HALF (14.00 - 16.00)
 
