@@ -17,18 +17,11 @@
 
 ### Exercise 1:
 
-1.   Ask your teacher to create a repository on her/his Github account
-    `https://github.com/<TEACHER_NAME>/hyfclass.git` for this homework.
+1.   Create a repository on Github called favorite-cmd-commands, make sure to check the checkmark about including a README file
 2.   Clone that repository (Google how to clone a repository).
-3.   Send the teacher your `Github user name` so that (s)he will give you _write_ access to the repository.
-4.   You will receive an email notification when (s)he adds you as a collaborator.
-5.   Accept the invitation for collaboration.
-6.   Create a file `YOUR_NAME-commands.txt`.
-7.   Add bash commands that you like (at least 3). Provide a short description (20 characters~) for each.
-8.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
-
--   **Do not merge the changes to the `master` branch**.
--   **Do not make any changes to the `master` branch**.
+3.   Create a file `YOUR_NAME-commands.txt`.
+4.   Add bash commands that you like (at least 3). Provide a short description (20 characters~) for each.
+5.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
 
 ### 2. Responsive design challenges
 
