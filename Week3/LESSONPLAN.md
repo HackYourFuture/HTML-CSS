@@ -36,7 +36,6 @@ Instruction on how to set things up at Netlify: https://github.com/ArcoMul/netli
 
 ### Essence
 
-_TODO_
 
 SECOND HALF (14.00 - 16.00)
 
