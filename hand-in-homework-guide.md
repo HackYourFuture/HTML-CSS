@@ -28,11 +28,13 @@ Then follow these steps for every week of the HTML/CSS/GIT module:
 
 ![settings overview](./assets/github_pages1.png)
 
-7. And go to _Github Pages_ select "master" instead of "none"
+7. And go to _Github Pages_ select "main" or "master" instead of "none"
 
-![pages overview](./assets/github_pages2.png)
+![pages overview](./assets/github_pages2.jpg)
 
-8. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_.github.io/HYF-Module-HTMLCSSGIT/week1
+8. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_.github.io/HYF-Module-HTMLCSSGIT/week1, this url will also be visible on the settings page:
+
+![pages overview saved](./assets/github_pages3.jpg)
 
 > Here is an example of how your homework repository should look: https://github.com/mkruijt/HTML-CSS
 
