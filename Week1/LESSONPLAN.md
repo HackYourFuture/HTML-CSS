@@ -134,4 +134,10 @@ Show different ways to write css, and some basic css properties: `font-size`, `b
 
 ### Exercise
 
+A fun CSS exercise can be to ask the students to recreate the following image using HTML and CSS:
+
+![Bird created with HTML and CSS](bird-exercise/bird.png)
+
+Of which the code can be found in the [bird-exercise folder](bird-exercise). After 15-20 minutes it might be fun to ask all students to share their screen when video calling, or in class to ask them to turn around their laptop.
+
 ### Essence

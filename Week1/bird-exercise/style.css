@@ -1,0 +1,33 @@
+body {
+  min-height: 100vh;
+  background-color: #2bc3ff;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.head {
+  width: 600px;
+  background-color: black;
+  height: 600px;
+  align-self: flex-end;
+  border-radius: 30% 30% 0 0;
+}
+
+.eye {
+  width: 60px;
+  height: 60px;
+  margin: 180px 0 0 260px;
+  background-color: white;
+}
+
+.beak {
+  width: 0;
+  height: 0;
+  border-top: 120px solid transparent;
+  border-bottom: 120px solid transparent;
+  border-left: 120px solid #ffd946;
+  align-self: flex-end;
+  margin-bottom: 180px;
+}
