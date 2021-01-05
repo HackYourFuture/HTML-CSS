@@ -60,8 +60,8 @@ When writing the HTML include the following:
 When writing the CSS include the following:
 
 -   Some CSS properties, like: `margin`, `padding`, `color`, etc.
--   Use [flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE) or [grid](https://www.youtube.com/watch?v=9zBsdzdE4sM)
 -   You are **NOT** allowed to use CSS frameworks (like Bootstrap, MaterializeCSS, etc.)
+-   Bonus: look into using [flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE) or [grid](https://www.youtube.com/watch?v=EFafSYg-PkI)
 
 ## SUBMIT YOUR HOMEWORK!
 
