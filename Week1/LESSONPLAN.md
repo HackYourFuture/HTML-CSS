@@ -140,4 +140,9 @@ A fun CSS exercise can be to ask the students to recreate the following image us
 
 Of which the code can be found in the [bird-exercise folder](bird-exercise). After 15-20 minutes it might be fun to ask all students to share their screen when video calling, or in class to ask them to turn around their laptop.
 
+Take aways:
+- Ask students about their approach. Which different steps did they take? What did they Google?
+- How did they solve the triangle beek? This is very challanging to do without Googling. Emphasize how important Googling is.
+- With little knowledge already fun things can be created
+
 ### Essence
