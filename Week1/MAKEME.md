@@ -72,4 +72,4 @@ After you've finished your todo list it's time to show us what you got! The home
 
 Upload both in a repository to GitHub and then upload the link to it on the Trello board: "Feedback Assignments". Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
 
-_Deadline Saturday 23.59 CET_
+_Deadline Tuesday 23.59 CET_
