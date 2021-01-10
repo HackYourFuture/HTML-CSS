@@ -80,7 +80,7 @@ You don't have to build everything, but include the following requirements:
 -   Use media queries for both tablet and mobile (This might be same for the website you're making)
 -   **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
 
-_Deadline Saturday 23.59 CET_
+_Deadline Tuesday 23.59 CET_
 
 ## SUBMIT YOUR HOMEWORK!
 
