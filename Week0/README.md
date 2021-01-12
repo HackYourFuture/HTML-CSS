@@ -106,4 +106,6 @@ Let's make sure you have done everything necessary:
 
 Have you finished with everything? Be proud of yourself, as you have optimally prepared yourself with all the tools needed to make your coding adventure a success!
 
+Before getting technical, please read about the HackYourFuture culture [here](https://github.com/HackYourFuture/culture) and also check [these scenarios](https://github.com/HackYourFuture/culture/blob/main/scenarios.md) that will give you a hint on how we work. The first or second week of the course, there will be a collaborative session with your whole class to discuss all of this.
+
 Now, with that out of the way we can get started with the readings for the first week. You can find that [here](https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/README.md). Make sure you've finished it before your first class on Sunday!
