@@ -29,7 +29,7 @@ As a beginning developer it's important to get familiar with it, as it will teac
 
 The first thing you'll notice is that once you type in a command, the computer doesn't always give back feedback. This is completely normal. Most of application development goes like that, and it's good to get used to it.
 
-Please install [Git for Windows](https://gitforwindows.org) which comes with an application called **Git BASH** which simulates frequently used CLI commands.
+**Note for Windows users**: Please install [Git for Windows](https://gitforwindows.org). It comes with an application called *Git BASH* which simulates frequently used CLI commands in Unix fashion. This aligns our work here in this course, as we can all use the same commands. But there is an even bigger reason: Being comfortable in the Unix Bash shell is very important for a web developer, as web servers usually run Linux.
 
 For more information, check the following resources and code along:
 
