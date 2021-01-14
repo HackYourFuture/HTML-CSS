@@ -186,7 +186,7 @@ The primary way of making a responsive website is by writing custom CSS code tha
 
 Learn more about media queries here:
 
-- [Introduction to Media Queries](https://varvy.com/mobile/media-queries.html).
+- [Introduction to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries).
 - [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
 
 ## Finished?
