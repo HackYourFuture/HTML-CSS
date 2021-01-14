@@ -43,7 +43,7 @@ In the following assignment you'll make your own Digital Resume. Here are the re
 -   It needs to be one webpage
 -   Your project folder should contain two files: a `.html` and a `.css` file
 -   Include the following pieces of information:
-    -   Your personal information
+    -   Your personal information (Note: *the page will be public on the whole internet* for our review, so as a privacy-conscious individual, feel free to use fake information here)
     -   A picture of you
     -   A few lines about who you are
     -   Education (list at least 1 education institute)
