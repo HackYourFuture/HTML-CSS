@@ -49,7 +49,7 @@ Start off by downloading the HTML and images in the following [folder](https://g
 
 You are going to write the CSS for this page, **it is not allowed to change the HTML**.
 
-The page contains two grids: the first one should work using `floats`, the second using `flexbox`. Be careful not to mix the two!
+The page contains two grids: the first one should work using `floats`, the second using `flexbox`. Be careful not to mix the two! And make sure not to use grid anywhere.
 
 Other than that you should use `media queries`. Here are the requirements for each device size:
 
