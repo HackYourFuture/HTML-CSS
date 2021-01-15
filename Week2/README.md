@@ -81,7 +81,7 @@ git init
 
 What it does is creating a brand new **local** repository in your project folder. Only after doing this you will be able to follow along the next procedure.
 
-No we can continue with the actual procedure itself. This happens in 3 stages:
+Now we can continue with the actual procedure itself. This happens in 3 stages:
 
 1. **Untracked**. In this stage GIT is not aware of the changes in your workspace.
 2. **Staged**. In this stage the changes will be tracked by GIT.
