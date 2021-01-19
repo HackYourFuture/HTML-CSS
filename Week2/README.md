@@ -151,7 +151,7 @@ This will give us the `flexbox`-specific properties, so we can develop clean and
 
 - [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo))
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 
 ### Pseudo class selectors
 
@@ -171,7 +171,7 @@ button:hover {
 }
 ```
 
-Like the hover state there are others as well: `click`, `focus`, `visited`, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you do try them out for yourself!:
+Like the hover state there are others as well: `click`, `focus`, `visited`, and others. For most of these element states we have special selectors. Read the following article to learn about them. Once you have done that, try them out for yourself!:
 
 - [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
 - [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
