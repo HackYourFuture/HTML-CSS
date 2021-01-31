@@ -13,7 +13,7 @@
 
 ### 1. GIT exercises
 
-> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder and will hold this week's exercise files inside.
+> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this week's exercise files inside.
 
 ### Exercise 1:
 
