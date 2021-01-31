@@ -87,11 +87,12 @@ Now we can continue with the actual procedure itself. This happens in 3 stages:
 2. **Staged**. In this stage the changes will be tracked by GIT.
 3. **Committed** In this stage your changes have been saved into the local repository. If you need to refer to a previous version of your workspace you can safely do that now.
 
-This might sound very abstract, and it is. So to make it more comprehensible, watch the following videos and code along:
+This might sound very abstract, and it is. So to make it more comprehensible, you can watch the following videos and/or try stuff in the Git playground:
 
 - [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 - [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Git Playground](https://git-school.github.io/visualizing-git/)
 
 ## What is GitHub?
 
