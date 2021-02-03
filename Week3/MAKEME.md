@@ -63,12 +63,12 @@ In this code along you'll continue practicing your skill using MaterializeCSS. I
 
 In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
 
--   [Goodreads](https://www.goodreads.com/)
--   [Amazon](https://www.amazon.com/)
 -   [Codecademy](https://www.codecademy.com/)
 -   [Uber](https://www.uber.com/nl/nl/)
 -   [Adyen](https://www.adyen.com/)
 -   [Patreon](https://www.patreon.com/)
+-   [Coursera](https://www.coursera.org/)
+-   [Triodos](https://www.triodos.nl/)
 
 You don't have to build everything, but include the following requirements:
 
