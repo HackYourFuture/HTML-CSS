@@ -57,6 +57,10 @@ Other than that you should use `media queries`. Here are the requirements for ea
 -   On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
 -   On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
 
+So that it works like this:
+
+![](./assets/wireframe.png)
+
 Make the page look beautiful by adding some more CSS! Include CSS rules for:
 
 -   `hover` states for the grid elements, to indicate to the user that they're looking at that specific drone
