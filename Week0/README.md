@@ -49,7 +49,7 @@ Done? This is optional, but for those who are curious:
 
 Technically speaking, you can write code for the web in any application that allows you to write and save plain text files (such as Notepad or TextEdit). However a code editor is a tool specifically designed for editing code.
 
-Depending on the programming language, the code editor highlights special keywords, give suggestions for some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
+Depending on the programming language, the code editor highlights special keywords, gives suggestions to some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
 
 While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as developers easier. In the following video you'll learn about the most useful code editor extensions you can install in order to make development a much richer experience:
 
@@ -74,9 +74,9 @@ For more specific information on how to setup your editor:
 ### What's the way to submit my homework? Use planning tool Trello
 
 <br/>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tVooja0Ta5I" target="_blank"><img src="https://www.artitex.nl/wp-content/uploads/trello-logo-blue.png" width="480"  alt="Slack Video" /></a><br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tVooja0Ta5I" target="_blank"><img src="https://developers.marketo.com/wp-content/uploads/2014/11/trello-logo-blue-1024x315.png" width="480" alt="Trello Video" /></a><br/>
 
-Trello is a planning tool that allows you to make todo lists in order to organize and prioritize your projects. In HackYourFuture we'll use it to submit your homework for the first module. Before you start your first class, please do the following
+Trello is a planning tool that allows you to make todo lists in order to organize and prioritize your projects. In HackYourFuture we'll use it to submit your homework for the first module. Before you start your first class, please do the following:
 
 -   [Register](https://trello.com/signup) for an account
 -   Get access to the `Feedback Assignments` board, by asking @Wouter in Slack
@@ -91,7 +91,7 @@ GitHub is a place where you can put your code online. Why? To safely store your 
 -   [Register](https://github.com/join) for an account
 -   Put the URL for your account in the class channel
 
-### Check double check:
+### Check double check
 
 Let's make sure you have done everything necessary:
 
