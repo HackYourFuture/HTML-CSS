@@ -19,9 +19,10 @@
 
 1.   Create a repository on Github called favorite-cmd-commands, make sure to check the checkmark about including a README file
 2.   Clone that repository (Google how to clone a repository).
-3.   Create a file `YOUR_NAME-commands.txt`.
-4.   Add bash commands that you like (at least 3). Provide a short description (20 characters~) for each.
-5.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
+3.   Edit the `README.md` markdown file.
+4.   Add bash commands that you like (at least 3) and style them as headers.
+5.   Provide a short description (20 characters~) for each.
+6.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
 
 ### 2. Responsive design challenges
 
