@@ -49,9 +49,9 @@ Start off by downloading the HTML and images in the following [folder](https://g
 
 You are going to write the CSS for this page, **it is not allowed to change the HTML**.
 
-The page contains two grids: the first one should work using `floats`, the second using `flexbox`. Be careful not to mix the two! And make sure not to use grid anywhere.
+The page contains a grid using `flexbox`. In this exercise you should <u>not</u> use grid anywhere.
 
-Other than that you should use `media queries`. Here are the requirements for each device size:
+You should use `media queries` to make the grid response. Here are the requirements for each device size:
 
 -   On mobile phones (smaller than 600px): a one column grid, that spans the full width
 -   On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
