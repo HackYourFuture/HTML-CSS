@@ -17,8 +17,6 @@ We'll start the week off with some more GIT practice! Go through the following:
 
 ### 2. GIT exercises
 
-> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week3` folder and will hold this week's exercise files inside.
-
 #### `animals` repository
 
 > Tip: make use of the CLI to practice your GIT skills. This not only teaches you how GIT works, but also how to work like a real software developer!
@@ -58,6 +56,8 @@ In this code along you'll continue practicing your skill using MaterializeCSS. I
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
 ### 5. PROJECT: Responsive website
+
+> Before you start this exercises, make sure to create a folder inside the `hyf-html-exercises` folder. Create a `week3` folder and put this exercise files inside.
 
 > Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
