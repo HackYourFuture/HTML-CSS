@@ -13,8 +13,6 @@
 
 ### 1. GIT exercises
 
-> Before you start any of the exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this week's exercise files inside.
-
 ### Exercise 1:
 
 1.   Create a repository on Github called favorite-cmd-commands, make sure to check the checkmark about including a README file
@@ -41,6 +39,8 @@ In the following video you'll be rebuilding a responsive HTML5 website. Put your
 -   [Build A Responsive Website With HTML & CSS Tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA)
 
 ### 4. PROJECT: Drones website
+
+> Before you start this exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this exercise's files inside.
 
 > Use GIT and GitHub while making this project, you can easily use this as part of your portfolio!
 
