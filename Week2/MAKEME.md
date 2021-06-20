@@ -40,7 +40,7 @@ In the following video you'll be rebuilding a responsive HTML5 website. Put your
 
 ### 4. PROJECT: Drones website
 
-> Before you start this exercises, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this exercise's files inside.
+> Before you start this exercise, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this exercise's files inside.
 
 > Use GIT and GitHub while making this project, you can easily use this as part of your portfolio!
 
