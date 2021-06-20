@@ -14,6 +14,7 @@ These are the topics for week 2:
    - Flexible organizing with flexbox
    - Pseudo class selectors
    - Responsive design with media queries
+3. Markdown
 
 ## 0. Video Lectures
 
@@ -189,6 +190,44 @@ Learn more about media queries here:
 
 - [Introduction to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries).
 - [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+
+## 3. Markdown
+
+As you've probably seen, every project on GitHub comes with a file called `README.md`
+This readme file is used in general to outline the goal of the project and usually includes some code examples.
+
+Even the page you are reading now is also created using Markdown.
+
+Markdown is not a syntax that browsers understand, it is however really simple to write and read with any text editor.
+Many online GIT platforms, like GitHub, will parse Markdown files and display them as pretty HTML pages.
+Another good example on Markdown support is Slack. You can style your Slack messages using Markdown! 
+
+A few examples of what you can do with Markdown:
+
+| HTML          | Markdown
+| ------------- |-------------
+| H1          | `# title`
+| H2            | `## title`
+| *Emphasis*      | `*italic`
+| **Bold**      | `**bold**`
+| ~~Strikethrough~~ | `~~Scratch this.~~`
+| [Link](#)     | `[link text](https://somewhere)`
+| `<p>Single line of code</p>` | `` use single `backticks` around your code``
+
+If you want to show a bigger block of code, you start and end with 3 backticks
+````markdown
+``` 
+   <html>
+      <head>...</head>
+      <body>...</body>
+   </html>
+```
+````
+
+With Markdown you can to more things like images, list, checklists, tables and more.
+If you want to learn more about Markdown you could check these sources:
+- [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Finished?
 
