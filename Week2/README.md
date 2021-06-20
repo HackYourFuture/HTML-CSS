@@ -210,7 +210,7 @@ A few examples of what you can do with Markdown:
 | H2            | `## title`
 | *Emphasis*      | `*italic`
 | **Bold**      | `**bold**`
-| ~~Strikethrough~~~ | `~~Scratch this.~~`
+| ~~Strikethrough~~ | `~~Scratch this.~~`
 | [Link](#)     | `[link text](https://somewhere)`
 | `<p>Single line of code</p>` | `` use single `backticks` around your code``
 
