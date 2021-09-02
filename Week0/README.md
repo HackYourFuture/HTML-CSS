@@ -63,7 +63,7 @@ We can always improve what we have, including our code editor! We can add `plugi
 
 -   [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
 -   [Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter)
--   [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+-   [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 -   [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 -   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) (Make sure to enable 'Format on save' in the Visual Studio Code settings after installing this plugin)
 
