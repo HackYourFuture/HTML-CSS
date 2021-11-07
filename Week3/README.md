@@ -12,11 +12,6 @@ These are the topics for week 3:
    - Why use a framework?
    - Most popular frameworks
    - CSS Framework vs. custom CSS
-3. Working with the browser
-   - What is a web browser?
-   - Choosing the right web browser
-   - How to use the inspector
-   - Useful browser extensions
 
 ## 0. Video Lectures
 
@@ -35,18 +30,18 @@ Your teacher Arco has made video lectures for this week's material. You can find
 Whenever you make a branch, you're creating an exact copy of your workspace that you can work with. Try it out:
 
 ```md
-Go into a folder and initialize GIT to create a local repository. Then create a branch. In this new branch, create some basic files. **stage** and **commit** the changes you've made. Now, switch back to the original branch (**master**). What do you see? Nothing! That's because in that branch you didn't make those changes. If you switch back to the other branch you will see the files you've created again. Magic!
+Go into a folder and initialize GIT to create a local repository. Then create a branch. In this new branch, create some basic files. **stage** and **commit** the changes you've made. Now, switch back to the original branch (**main**). What do you see? Nothing! That's because in that branch you didn't make those changes. If you switch back to the other branch you will see the files you've created again. Magic!
 ```
 
-You can see a branch as an experiment, a possible way your project can evolve. Usually, each branch (except the `master` branch) contains code for what is called a new `feature`: a piece of functionality that you want to add to your software. Let's take Facebook as a simple example: After creating an account (which is a feature itself) you can do multiple things. Each "thing" is a feature: having a news feed, being able to send friend requests or liking posts.
+You can see a branch as an experiment, a possible way your project can evolve. Usually, each branch (except the `main` branch) contains code for what is called a new `feature`: a piece of functionality that you want to add to your software. Let's take Facebook as a simple example: After creating an account (which is a feature itself) you can do multiple things. Each "thing" is a feature: having a news feed, being able to send friend requests or liking posts.
 
 Working with branches is especially important when working with other developers. This only applies when working with a **remote** repository, which we'll talk about in the next section.
 
-When working with different branches it is useful to have one single branch that contains all the working and finished code: the `master` branch (we call it master out of convention, but in actuality you can name it whatever you want). Whenever you're working on a project that has already been put on the internet, it is the code from the master branch that is online.
+When working with different branches it is useful to have one single branch that contains all the working and finished code: the `main` branch (we call it main out of convention, but in actuality you can name it whatever you want). Whenever you're working on a project that has already been put on the internet, it is the code from the main branch that is online.
 
-However, usually there's a separate branch that contains all the development code. Of course, this is called the `development` branch. This branch is an almost exact copy of master, but contains features that have not been tested yet.
+However, usually there's a separate branch that contains all the development code. Of course, this is called the `development` branch. This branch is an almost exact copy of main, but contains features that have not been tested yet.
 
-After finishing a feature, it is time to merge the branch into the main branch. This is usually either the `master` or `development` branch.
+After finishing a feature, it is time to merge the branch into the main branch. This is usually either the `main` or `development` branch.
 
 Once the new version of the software has been tested and approved, the cycle repeats!
 
@@ -57,7 +52,7 @@ Go through the following resources to learn more:
 
 ### Working with branches on GitHub
 
-While working with branches works a bit differently on GitHub (because of its user interface) the concept remains the same: you always want to have a master branch that holds all your stable, working code. Any other branches will contain software features that eventually will be merged into master.
+While working with branches works a bit differently on GitHub (because of its user interface) the concept remains the same: you always want to have a main branch that holds all your stable, working code. Any other branches will contain software features that eventually will be merged into main.
 
 Go through the following project to learn how to work with branches on GitHub:
 
@@ -69,7 +64,7 @@ A **pull request** is a term GitHub uses to refer to a request to incorporate co
 
 > Sometimes you'll hear developers speak of "merge requests". This is just another name for the same thing: pulling changes from another branch or fork into your branch and merging the changes with your existing code. Software development platforms like GitLab (an alternative to GitHub) use this the term "merge request" instead of "pull request".
 
-These changes are made in one branch, and the pull request usually is made to merge into the `master` branch. However, this doesn't happen directly: in normal circumstances, there has to be at least one other person reviewing the proposal before it is approved to be merged. The reason why is simple: it's very easy to merge code that might be buggy or conflicts with what's already there.
+These changes are made in one branch, and the pull request usually is made to merge into the `main` branch. However, this doesn't happen directly: in normal circumstances, there has to be at least one other person reviewing the proposal before it is approved to be merged. The reason why is simple: it's very easy to merge code that might be buggy or conflicts with what's already there.
 
 - [GitHub Pull Request in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4)
 
@@ -111,6 +106,8 @@ There are other reasons as well which you can learn about in the following artic
 
 - [What are the benefits of using a CSS framework](https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/)
 
+It does come with a drawback, however, and that is that it forces you into a specific design and adjusting things to your needs will be more difficult.
+
 ### Most popular frameworks
 
 There are a lot of different CSS frameworks out, each with their pros and cons. In the following video you'll learn about several of the top ones used and what problems exactly they're trying to solve:
@@ -127,59 +124,6 @@ Keep in mind that a framework should be there only to assist, not compensate or 
 
 - [Are CSS Frameworks Bad?](https://www.youtube.com/watch?v=VlY5CfkL760)
 - [Discussing the Pros and Cons of Using a CSS Framework](https://speckyboy.com/discussing-the-pros-and-cons-of-using-a-css-framework/)
-
-## 3. Working with the browser
-
-### What is a web browser?
-
-You probably use it daily. Let's take a closer look at what it actually is.
-
-A `web browser` is software that allows you to view webpages, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML files: transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to display a page correctly.
-
-For further study, delve into the following:
-
-- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
-- [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
-- [About your web browser](http://www.allaboutcookies.org/browsers/)
-
-### Choosing the right browser
-
-As a web developer you will write code that will display in different browsers. As such it is important that you get familiar with most major browsers in use today. These are:
-
-- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
-- [Opera](https://www.opera.com/download)
-
-In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easier and clearer way.
-
-### How to use the browser inspector
-
-The inspector is a part of web browsers developers can use to take a closer look at the composition of the HTML elements. This makes it easier to write HTML and CSS code that works.
-
-Watch the following videos and follow along:
-
-- [Using browser inspector tools](https://www.youtube.com/watch?v=WJIqIDm7CoA)
-- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
-
-### Useful browser extensions
-
-As web developers we'll be dealing with the browser all the time. Why not upgrade our browser so it can make our programming life easier?
-
-A `browser extension` is a piece of software someone has written to increase the capability of the web browser. For example, if you hate receiving advertisements you probably use something like [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) to block all the unwanted ads you might find in your webpages (if not, download it as soon as possible!).
-
-The following is a list of extensions that have proven to be useful during web development. This list only applies for Google Chrome, so if you don't have it, [install it](https://www.google.com/chrome/).
-
-Extensions:
-
-- Modify the technologies underlying each website, in real time, using [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related?hl=en-US)
-- Expose what technologies a website is using with [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en-US)
-- If you ever wanted to know the exact color of any element in a page, you can now do so with [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
-- When developing you'll be using dummy text to populate your elements. Enter [Loren Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20)
-
-There are many more of these extensions and we encourage you to explore. See what fits your needs!
 
 ## Finished?
 

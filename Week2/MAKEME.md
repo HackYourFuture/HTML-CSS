@@ -4,25 +4,29 @@
 
 ## Todo list
 
-1. GIT exercises
-2. Responsive design challenges
-3. Code along
-4. PROJECT: Responsive website
+1. Prep exercises
+2. GIT exercises
+3. Responsive design challenges
+4. Code along
+5. PROJECT: Responsive website
+6. Optional: Flexbox games
 
+### 1. Prep exercises
 
+> Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your mentor. Have a solution ready by Sunday as you may be asked to show what you did.
 
-### 1. GIT exercises
+Inside your `HTML-CSS` fork, go to the folder `week2`. Inside of that folder, navigate to `/prep-exercises`. For each exercise, you will find a separate folder. The `README` explains what needs to be done. There will also be some questions at the bottom to think about. Go through them _before_ the session on Sunday as it will be covered then.
 
-### Exercise 1:
+### 2. GIT exercise
 
-1.   Create a repository on Github called favorite-cmd-commands, make sure to check the checkmark about including a README file
-2.   Clone that repository (Google how to clone a repository).
-3.   Edit the `README.md` markdown file.
-4.   Add bash commands that you like (at least 3) and style them as headers.
-5.   Provide a short description (20 characters~) for each.
-6.   Then `git add`, `git commit` and `git push` the file to your GitHub repository.
+1.  Create a repository on Github called favorite-cmd-commands, make sure to check the checkmark about including a README file
+2.  Clone that repository (Google how to clone a repository).
+3.  Edit the `README.md` markdown file.
+4.  Add bash commands that you like (at least 3) and style them as headers.
+5.  Provide a short description (20 characters~) for each.
+6.  Then `git add`, `git commit` and `git push` the file to your GitHub repository.
 
-### 2. Responsive design challenges
+### 3. Responsive design challenges
 
 Making websites that are `responsive` to a variety of device sizes (in other words, that still "look good" on any device), has become the standard way of building websites. You have to learn how to do this too. It's not as intimating as it might seem; you're **not** going to build a separate page for literally every device size out there.
 
@@ -30,49 +34,52 @@ Instead, you'll be applying certain CSS rules only to certain device sizes: the 
 
 In the following mini-course you'll get some practice in doing this:
 
--   [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
+- [Responsive Web Design Challenges](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/)
 
-### 3. Code along
+### 4. Code along
 
 In the following video you'll be rebuilding a responsive HTML5 website. Put your focus on how the structure of the page is built: First HTML to provide structure & content, and then the CSS. Look at the HTML tags used and the names given to classes.
 
--   [Build A Responsive Website With HTML & CSS Tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA)
+- [Build A Responsive Website With HTML & CSS Tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA)
 
-### 4. PROJECT: Drones website
+### 5. PROJECT: Responsive website
 
-> Before you start this exercise, make sure to create a folder on your desktop that will hold all of your exercise files. Go inside the `hyf-html-exercises` folder. Inside, create a `week2` folder that will hold this exercise's files inside.
+> Before you start this exercises, make sure to create a folder inside the `hyf-html-exercises` folder. Create a `week2` folder and put this exercise files inside.
 
-> Use GIT and GitHub while making this project, you can easily use this as part of your portfolio!
+> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
 
-In this project you'll be building on an existing project. It's your job to make it `responsive` and look organised on various devices.
+In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
 
-Start off by downloading the HTML and images in the following [folder](https://github.com/HackYourFuture/HTML-CSS/tree/master/Week2/homework).
+- [Codecademy](https://www.codecademy.com/)
+- [Uber](https://www.uber.com/nl/nl/)
+- [Adyen](https://www.adyen.com/)
+- [Patreon](https://www.patreon.com/)
+- [Coursera](https://www.coursera.org/)
+- [Triodos](https://www.triodos.nl/)
 
-You are going to write the CSS for this page, **it is not allowed to change the HTML**.
+You don't have to build everything, but include the following requirements:
 
-The page contains two grids: the first one should work using `floats`, the second using `flexbox`. Be careful not to mix the two! And make sure not to use grid anywhere.
+- Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
+- Write your CSS in an external stylesheet
+- You are **allowed** to use a CSS framework, but you do not have to. It is up to you!
+- Make use of `flexbox`
+- Download the assets (images, other forms of media) through the original webpage, or use your own!
+- Use media queries for both tablet and mobile (This might be same for the website you're making)
+- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
 
-Other than that you should use `media queries`. Here are the requirements for each device size:
+### 6. Optional: Flexbox games
 
--   On mobile phones (smaller than 600px): a one column grid, that spans the full width
--   On tablets (between 600px and 1024px): a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
--   On desktops (1024px and up): a four column grid, with the exception that the first item spans two columns. - There should be some `margin` between the grid items
+If you like learning in a fun way there are quite a few games on the internet that teach you the way flexbox works:
 
-So that it works like this:
-
-![](./assets/wireframe.png)
-
-Make the page look beautiful by adding some more CSS! Include CSS rules for:
-
--   `hover` states for the grid elements, to indicate to the user that they're looking at that specific drone
--   A distinct `font-family`, found from [Google Fonts](https://fonts.google.com/). Include using the `font-face` [rule](https://css-tricks.com/snippets/css/using-font-face/)
--   Animation using `transition`
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
 
 ## SUBMIT YOUR HOMEWORK!
 
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
 1. GIT exercise #1 (the URL of the remote `git_practice` repository)
-2. The Drones website
+2. The responsive website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.

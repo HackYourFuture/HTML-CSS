@@ -14,6 +14,12 @@ These are the topics for week 1:
    - Where to write it?
    - The box model
    - The cascading effect
+   - Specificity
+4. Working with the browsers
+   - What is a web browser?
+   - Choosing the right web browser
+   - How to use the inspector
+   - Useful browser extensions
 
 ## 0. Video Lectures
 
@@ -29,7 +35,7 @@ As a beginning developer it's important to get familiar with it, as it will teac
 
 The first thing you'll notice is that once you type in a command, the computer doesn't always give back feedback. This is completely normal. Most of application development goes like that, and it's good to get used to it.
 
-**Note for Windows users**: Please install [Git for Windows](https://gitforwindows.org). It comes with an application called *Git BASH* which simulates frequently used CLI commands in Unix fashion. This aligns our work here in this course, as we can all use the same commands. But there is an even bigger reason: Being comfortable in the Unix Bash shell is very important for a web developer, as web servers usually run Linux.
+**Note for Windows users**: Please install [Git for Windows](https://gitforwindows.org). It comes with an application called _Git BASH_ which simulates frequently used CLI commands in Unix fashion. This aligns our work here in this course, as we can all use the same commands. But there is an even bigger reason: Being comfortable in the Unix Bash shell is very important for a web developer, as web servers usually run Linux.
 
 For more information, check the following resources and code along:
 
@@ -124,13 +130,94 @@ To learn more about the box model, go through the following:
 
 The first C in CSS stands for Cascading and it's crucial to learning how to use CSS correctly. Essentially, it means that it matters
 (1) **in which order** and
-(2) **how specific**
-you write CSS rules.
+(2) **how specific** you write CSS rules.
 
 Read the following articles to learn about it:
 
 - [The "C" in CSS](https://css-tricks.com/the-c-in-css-the-cascade/).
 - [How CSS works: understanding the cascade](https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8)
+
+### Specificity
+
+As there are multiple ways to write your css code which leads to multiple rules applying to the same html element CSS needs to decide which rule to follow. In the simplest form, if we for example have the following HTML:
+
+```html
+<p>This paragraph should be styled normally</p>
+<p class="explanation">
+  This paragraph should be styled differently as we add a class to the element
+</p>
+```
+
+and the following CSS:
+
+```css
+p .explanation {
+  font-weight: 600;
+}
+
+p {
+  font-weight: 400;
+}
+```
+
+Then because the `p .explanation` rule is more specific than the `p` rule the `font-weight` of our second paragraph will be `600` even though the other rule was applied last. Read the following articles to learn more about how it works:
+
+- [Learn Basic CSS Selectors in 15 mins](https://www.youtube.com/watch?v=7kxhOI1Y38Y)
+- [Specifics on CSS specificity](https://css-tricks.com/specifics-on-css-specificity/)
+- Optional as it goes into every detail: [MDN's guide on Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+
+## 4. Working with the browser
+
+### What is a web browser?
+
+You probably use it daily. Let's take a closer look at what it actually is.
+
+A `web browser` is software that allows you to view webpages, either retrieved from the internet or loaded from your computer. The primary function of a web browser is to render HTML files: transforming all the code (HTML, CSS and JavaScript) as well as the references (images, videos, etc.) to display a page correctly.
+
+For further study, delve into the following:
+
+- [What is a browser?](https://www.youtube.com/watch?v=TcbhVv9ty44)
+- [How web browsers work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+- [About your web browser](http://www.allaboutcookies.org/browsers/)
+
+### Choosing the right browser
+
+As a web developer you will write code that will display in different browsers. As such it is important that you get familiar with most major browsers in use today. These are:
+
+- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Safari](https://support.apple.com/downloads/safari)
+- [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
+- [Opera](https://www.opera.com/download)
+
+In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easier and clearer way.
+
+### How to use the browser inspector
+
+The inspector is a part of web browsers developers can use to take a closer look at the composition of the HTML elements. This makes it easier to write HTML and CSS code that works.
+
+Watch the following videos and follow along:
+
+- [Using browser inspector tools](https://www.youtube.com/watch?v=WJIqIDm7CoA)
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+
+### Useful browser extensions
+
+As web developers we'll be dealing with the browser all the time. Why not upgrade our browser so it can make our programming life easier?
+
+A `browser extension` is a piece of software someone has written to increase the capability of the web browser. For example, if you hate receiving advertisements you probably use something like [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) to block all the unwanted ads you might find in your webpages (if not, download it as soon as possible!).
+
+The following is a list of extensions that have proven to be useful during web development. This list only applies for Google Chrome, so if you don't have it, [install it](https://www.google.com/chrome/).
+
+Extensions:
+
+- Modify the technologies underlying each website, in real time, using [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related?hl=en-US)
+- Expose what technologies a website is using with [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en-US)
+- If you ever wanted to know the exact color of any element in a page, you can now do so with [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
+- When developing you'll be using dummy text to populate your elements. Enter [Loren Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20)
+
+There are many more of these extensions and we encourage you to explore. See what fits your needs!
 
 ## Finished?
 
