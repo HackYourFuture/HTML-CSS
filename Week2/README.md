@@ -12,6 +12,7 @@ These are the topics for week 2:
    - Working with SSH
 2. More advanced CSS
    - Flexible organizing with flexbox
+   - Using the grid layout
    - Pseudo class selectors
    - Responsive design with media queries
 3. Markdown
@@ -155,6 +156,14 @@ This will give us the `flexbox`-specific properties, so we can develop clean and
 - [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
 - [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 
+### Using the grid layout
+
+The most recent addition to the css toolkit for organising your layout is using `display: grid`. Where every other layout always goes from top to bottom, grid allows you to create a two-dimensional layout.
+
+The complete guide to grid by css-tricks is the go to guide, read it here:
+
+- [CSS-tricks complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 ### Pseudo class selectors
 
 Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
@@ -200,23 +209,24 @@ Even the page you are reading now is also created using Markdown.
 
 Markdown is not a syntax that browsers understand, it is however really simple to write and read with any text editor.
 Many online GIT platforms, like GitHub, will parse Markdown files and display them as pretty HTML pages.
-Another good example on Markdown support is Slack. You can style your Slack messages using Markdown! 
+Another good example on Markdown support is Slack. You can style your Slack messages using Markdown!
 
 A few examples of what you can do with Markdown:
 
-| HTML          | Markdown
-| ------------- |-------------
-| H1          | `# title`
-| H2            | `## title`
-| *Emphasis*      | `*italic`
-| **Bold**      | `**bold**`
-| ~~Strikethrough~~ | `~~Scratch this.~~`
-| [Link](#)     | `[link text](https://somewhere)`
-| `<p>Single line of code</p>` | `` use single `backticks` around your code``
+| HTML                         | Markdown                                     |
+| ---------------------------- | -------------------------------------------- |
+| H1                           | `# title`                                    |
+| H2                           | `## title`                                   |
+| _Emphasis_                   | `*italic`                                    |
+| **Bold**                     | `**bold**`                                   |
+| ~~Strikethrough~~            | `~~Scratch this.~~`                          |
+| [Link](#)                    | `[link text](https://somewhere)`             |
+| `<p>Single line of code</p>` | `` use single `backticks` around your code`` |
 
 If you want to show a bigger block of code, you start and end with 3 backticks
+
 ````markdown
-``` 
+```
    <html>
       <head>...</head>
       <body>...</body>
@@ -226,6 +236,7 @@ If you want to show a bigger block of code, you start and end with 3 backticks
 
 With Markdown you can to more things like images, list, checklists, tables and more.
 If you want to learn more about Markdown you could check these sources:
+
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

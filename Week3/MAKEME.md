@@ -4,22 +4,22 @@
 
 1. Practice the concepts
 2. GIT exercise: `animals` repository
-3. CSS framework challenges
-4. Code along
-5. PROJECT: Responsive website
+3. Code along
+4. Optional: Practice using frameworks
+5. Optional: CSS preprocessors
+6. Final notes
 
 ### 1. Practice the concepts
 
 We'll start the week off with some more GIT practice! Go through the following:
 
-1. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
-2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+1. [Learn Git branching](https://learngitbranching.js.org/)
+2. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
+3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
-### 2. GIT exercises
+### 2. GIT exercise: `animals` repository
 
-#### `animals` repository
-
-> Tip: make use of the CLI to practice your GIT skills. This not only teaches you how GIT works, but also how to work like a real software developer!
+> Tip: you can either use the CLI to make your git commands or use a GUI. The most used is [Git Kraken](https://www.gitkraken.com/) and it visualises what happens. VSCode also has an integrated Git activity tab that you can use
 
 In this homework you'll be working with GIT and GitHub. Follow the steps to learn how to create a remote repository and work with it from your local machine:
 
@@ -36,57 +36,57 @@ In this homework you'll be working with GIT and GitHub. Follow the steps to lear
 8. Also, add 2 more animals to the "zoo.txt" file
 9. Add and commit the file to the local repository. Again, make sure the commit message is meaningful
 10. Push your commit to the remote repository, verify that it has worked on GitHub
-11. On GitHub, find out how to merge branch `new-feature` into `master`
+11. On GitHub, find out how to merge branch `new-feature` into `main`
 12. Merge the branches
-13. Switch back to branch `master`
+13. Switch back to branch `main`
 14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
-### 3. Framework tutorial: MaterializeCSS
+### 3. Code along
 
-In order to speed up development it's wise to know how to use a CSS framework. In this week's homework you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework based on Material Design - a design language created by Google. Follow the playlist and code along!
+In this code along you'll continue practicing your skill by building a fully responsive website:
 
--   [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
+- [Build a responsive website](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 
-### 4. Code along
+> Tip: Use GIT and GitHub along the way to practice!
 
-In this code along you'll continue practicing your skill using MaterializeCSS. In the following video you'll learn how to build a responsive website, called TravelVille:
+### 4. Optional: Practice using frameworks
 
--   [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
+Some people love using frameworks, others like being in full control of the CSS. This is a personal thing and also differs per company so there is no one way that the world works here. If you have time and are interested, then have a look at the following tutorials for the different frameworks:
 
-> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
+#### Bootstrap
 
-### 5. PROJECT: Responsive website
+Bootstrap is probably the most used CSS framework if a framework is being used. Have a look at the following links to know how to use it:
 
-> Before you start this exercises, make sure to create a folder inside the `hyf-html-exercises` folder. Create a `week3` folder and put this exercise files inside.
+- [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s)
+- [Making a complete responsive website using Bootstrap/HTML/CSS](https://www.youtube.com/watch?v=zhllkjYYUVE)
 
-> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
+#### Materialize
 
-In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
+In this section you're going to get familiar with [MaterializeCSS](https://materializecss.com/), a CSS framework based on Material Design - a design language created by Google.
 
--   [Codecademy](https://www.codecademy.com/)
--   [Uber](https://www.uber.com/nl/nl/)
--   [Adyen](https://www.adyen.com/)
--   [Patreon](https://www.patreon.com/)
--   [Coursera](https://www.coursera.org/)
--   [Triodos](https://www.triodos.nl/)
+- [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
+- [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
-You don't have to build everything, but include the following requirements:
+### 5. Optional: CSS preprocessors
 
--   Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
--   Write your CSS in an external stylesheet
--   You are __allowed__ to use a CSS framework
--   Make use of `flexbox`
--   Download the assets (images, other forms of media) through the original webpage, or use your own!
--   Use media queries for both tablet and mobile (This might be same for the website you're making)
--   **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
+In the wild you may also encounter the following terms: Less, SCSS, Sass. These are CSS preprocessors that give you some extra functionality that the preprocessor will then convert to the actual CSS file. You can, for example, create certain blocks of css code (mixins) that you can then use in multiple places. Allowing you to make sure that if you change the css in that mixin it is changed everywhere automatically.
+
+For more information, have a look at:
+
+- [Sass vs SCSS vs Less: tutorial](https://marksheet.io/sass-scss-less.html)
+
+### 6. Final notes
+
+In this module and especially this last week we have bombarded you with a lot of different ways to create your styles. In the rest of the curriculum we will leave it up to you to decide what way you like to work. Per project that you do, think about how you want to manage your css. You can either:
+
+- **Write the CSS yourself**. This will allow you to have full control over the styles enabling you to make any changes you want, but will probably take some more time initially to make sure everything works.
+- **Use a CSS framework**. If you had time to go through the frameworks, you may decide that you want to use the speed that they offer and don't mind the loss of some customizability.
+- **Use a CSS preprocessor**. If you had the time to try these out and like that they solve a couple of problems you have writing the CSS yourself then use these. They require a little setting up though that could complicate things, so make sure you understand how that works.
+
+You will always have to write some css yourself, but make sure to always choose only _one_ way of working per project, otherwise you are going to create a mess! If you are up for the challenge, then feel free to try different ways per project. It's always good to try different things!
 
 _Deadline Tuesday 23.59 CET_
 
 ## SUBMIT YOUR HOMEWORK!
 
-After you've finished your todo list it's time to show us what you got! The homework to be submitted this week is the following:
-
-1. GIT exercise: `animals` repository
-2. Responsive website
-
-Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
+There is no homework this week, spend your time working on the parts you found difficult!

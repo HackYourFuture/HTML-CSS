@@ -6,11 +6,11 @@ The purpose of this class is to introduce to the student:
 
 1. The basics of working with the command line interface
 2. Basic HTML/CSS concepts:
-    - HTML basics
-    - Difference between `<head>` and `<body>` tags
-    - Semantic HTML5
-    - CSS basics
-    - The box model
+   - HTML basics
+   - Difference between `<head>` and `<body>` tags
+   - Semantic HTML5
+   - CSS basics
+   - The box model
 
 ## Core concepts
 
@@ -20,10 +20,10 @@ The purpose of this class is to introduce to the student:
 
 ### Explanation
 
--   The command line interface (CLI) is a way to navigate your computer by issuing direct commands
--   In the past the computer had **ONLY** a command line
--   The CLI doesn't always give feedback, like any other program on your computer would give
--   Desktop application icons are visual shortcuts (Windows: show `$ calc` to launch the calculator)
+- The command line interface (CLI) is a way to navigate your computer by issuing direct commands
+- In the past the computer had **ONLY** a command line
+- The CLI doesn't always give feedback, like any other program on your computer would give
+- Desktop application icons are visual shortcuts (Windows: show `$ calc` to launch the calculator)
 
 ### Example
 
@@ -55,18 +55,18 @@ The purpose of this class is to introduce to the student:
 
 ### Exercise
 
--   Open a command line (Git Bash on Windows)
--   Create a project folder to contain all your HYF work (mkdir)
--   Create a module folder (cd, mkdir)
--   Create a text file: notes.txt (cd, touch)
--   Open Visual Studio Code and add some notes (code .)
--   Rename the file to lecture1.txt (mv)
+- Open a command line (Git Bash on Windows)
+- Create a project folder to contain all your HYF work (mkdir)
+- Create a module folder (cd, mkdir)
+- Create a text file: notes.txt (cd, touch)
+- Open Visual Studio Code and add some notes (code .)
+- Rename the file to lecture1.txt (mv)
 
 _"I go on holiday and I take with me"_ with CLI commands:
 
--   They have to repeat the commands said before them.
--   Add a new command and explain what it does.
--   Let the round continue twice otherwise the students that went first don't have to repeat all the commands.
+- They have to repeat the commands said before them.
+- Add a new command and explain what it does.
+- Let the round continue twice otherwise the students that went first don't have to repeat all the commands.
 
 E.g., first student says _"ls : lists commands"_. Second student must say _"ls and cd: change directory"_. Then third student must say _"ls, cd and pwd : show print working directory"_ and so on.
 _By [@unmeshvrije](https://github.com/unmeshvrije)_
@@ -79,28 +79,28 @@ SECOND HALF (14.00 - 16.00)
 
 ### Explanation
 
--   HTML is just plain text, nothing special
--   Browsers read the HTML and CSS and render a beautiful webpage
--   HTML of a website comes from a server (which is just another computer somewhere)
--   Difference `<head>` and `<body>`
+- HTML is just plain text, nothing special
+- Browsers read the HTML and CSS and render a beautiful webpage
+- HTML of a website comes from a server (which is just another computer somewhere)
+- Difference `<head>` and `<body>`
 
 Box model
 
--   Everything is a box
--   The "box" refers to the attributes universal to every element: `margin`, `padding`, `border`
--   Every element pushes against one another
+- Everything is a box
+- The "box" refers to the attributes universal to every element: `margin`, `padding`, `border`
+- Every element pushes against one another
 
 ### Example
 
--   Show most basic HTML structure, also show how Visual Studio Code can autocomplete html structure by just typing: html
--   `<title>`, `<link>`, `<meta>`
--   Show example of the box model by using the browser inspector on various elements
+- Show most basic HTML structure, also show how Visual Studio Code can autocomplete html structure by just typing: html
+- `<title>`, `<link>`, `<meta>`
+- Show example of the box model by using the browser inspector on various elements
 
 ### Exercise
 
--   Using the command line create a project folder, a html file and css file
--   Create a basic html structure, and link to an external css file
--   Create a webpage which uses all the html tags and css properties which were have discussed
+- Using the command line create a project folder, a html file and css file
+- Create a basic html structure, and link to an external css file
+- Create a webpage which uses all the html tags and css properties which were have discussed
 
 ### Essence
 
@@ -108,41 +108,15 @@ Box model
 
 ### Explanation
 
--   Explain why there are `<h1>`, `<h2>`, `<h3>`
--   In theory a page can be constructed using only `<div>`s
--   Semantic tags make the code more comprehensible
--   It helps organize the page
+- Explain why there are `<h1>`, `<h2>`, `<h3>`
+- In theory a page can be constructed using only `<div>`s
+- Semantic tags make the code more comprehensible
+- It helps organize the page
 
 ### Example
 
--   Show examples of semantic HTML: `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<nav>`, `<aside>`
+- Show examples of semantic HTML: `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<nav>`, `<aside>`
 
 ### Exercise
-
-### Essence
-
-## 4. CSS Basics
-
-### Explanation
-
--   Explain inline css, `<style>` block css and external css
--   Roughly two types of CSS, styling (text) and CSS for layout structure
-
-### Example
-
-Show different ways to write css, and some basic css properties: `font-size`, `background-color`, `border`
-
-### Exercise
-
-A fun CSS exercise can be to ask the students to recreate the following image using HTML and CSS:
-
-![Bird created with HTML and CSS](bird-exercise/bird.png)
-
-Of which the code can be found in the [bird-exercise folder](bird-exercise). After 15-20 minutes it might be fun to ask all students to share their screen when video calling, or in class to ask them to turn around their laptop.
-
-Take aways:
-- Ask students about their approach. Which different steps did they take? What did they Google?
-- How did they solve the triangle beek? This is very challanging to do without Googling. Emphasize how important Googling is.
-- With little knowledge already fun things can be created
 
 ### Essence
