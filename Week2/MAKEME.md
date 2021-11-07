@@ -80,6 +80,6 @@ If you like learning in a fun way there are quite a few games on the internet th
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
 1. GIT exercise #1 (the URL of the remote `git_practice` repository)
-2. The Drones website
+2. The responsive website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.

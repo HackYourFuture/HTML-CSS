@@ -2,44 +2,26 @@
 
 ## Todo list
 
-1. Practice the concepts
-2. GIT exercise: `animals` repository
+1. Prep exercises
+2. Practice the concepts
 3. Code along
 4. Optional: Practice using frameworks
 5. Optional: CSS preprocessors
 6. Final notes
 
-### 1. Practice the concepts
+### 1. Prep exercises
+
+> Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your mentor. Have a solution ready by Sunday as you may be asked to show what you did.
+
+Inside your `HTML-CSS` fork, go to the folder `week3`. Inside of that folder, navigate to `/prep-exercises`. For each exercise, you will find a separate folder. The `README` explains what needs to be done. There will also be some questions at the bottom to think about. Go through them _before_ the session on Sunday as it will be covered then.
+
+### 2. Practice the concepts
 
 We'll start the week off with some more GIT practice! Go through the following:
 
 1. [Learn Git branching](https://learngitbranching.js.org/)
 2. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
 3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
-
-### 2. GIT exercise: `animals` repository
-
-> Tip: you can either use the CLI to make your git commands or use a GUI. The most used is [Git Kraken](https://www.gitkraken.com/) and it visualises what happens. VSCode also has an integrated Git activity tab that you can use
-
-In this homework you'll be working with GIT and GitHub. Follow the steps to learn how to create a remote repository and work with it from your local machine:
-
-1. Create a repository on GitHub, called `animals`
-2. Clone the repository to your local machine, using the SSH URL
-3. Locally, create a file called "zoo.txt". Include 3 animals found in a zoo
-4. Add and commit the file to the local repository. Make sure the commit message is meaningful (ex. "created txt file with animal names")
-5. Push your commit to the remote repository, verify that it has worked on GitHub
-6. Go back to your local repository and create a branch called `new-feature`
-
-> Tip: in software, a "feature" is a technical term that points to any functionality that a user can derive benefit from. For example, Facebook has many features: the ability to make a profile, like a post, place comments, etc.
-
-7. Inside the new branch, create a file called "pets.txt". Include 3 animals that could be a pet
-8. Also, add 2 more animals to the "zoo.txt" file
-9. Add and commit the file to the local repository. Again, make sure the commit message is meaningful
-10. Push your commit to the remote repository, verify that it has worked on GitHub
-11. On GitHub, find out how to merge branch `new-feature` into `main`
-12. Merge the branches
-13. Switch back to branch `main`
-14. Pull the changes from your remote repository to your local repository, verify that everything worked
 
 ### 3. Code along
 
@@ -89,4 +71,4 @@ _Deadline Tuesday 23.59 CET_
 
 ## SUBMIT YOUR HOMEWORK!
 
-There is no homework this week, spend your time working on the parts you found difficult!
+There is no homework this week, spend your time working on the parts you found difficult or copying another website like you did last week!
