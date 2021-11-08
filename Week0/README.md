@@ -21,7 +21,7 @@ Have a look at this
 
 Please download the app for on your desktop:
 
-- [macOS](https://slack.com/downloads/mac)
+- [macOS](https://slack.com/downloads/mac) 
 - [Windows](https://slack.com/downloads/windows)
 - [Linux](https://slack.com/downloads/linux)
 
