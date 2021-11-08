@@ -13,7 +13,8 @@ We'll discuss the following points:
 
 ### How do I communicate with everybody? Use Slack
 
-![slack logo](https://slackhq.com/wp-content/uploads/2019/02/2019-02_Staff_Slack1_unfurl.png)
+![slack logo](../assets/slack-logo.png)
+
 
 Slack is an application that allows us to communicate with others through (video) chat. It's used in most tech companies and is really easy to use. In order for you to get familiar we're going to use it as well!
 
@@ -80,7 +81,7 @@ For more specific information on how to setup your editor:
 ### What's the way to submit my homework? Use planning tool Trello
 
 <br/>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tVooja0Ta5I" target="_blank"><img src="https://developers.marketo.com/wp-content/uploads/2014/11/trello-logo-blue-1024x315.png" width="480" alt="Trello Video" /></a><br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tVooja0Ta5I" target="_blank"><img src="../assets/trello-logo.png" alt="Trello Video" /></a><br/>
 
 Trello is a planning tool that allows you to make todo lists in order to organize and prioritize your projects. In HackYourFuture we'll use it to submit your homework for the first module. Before you start your first class, please do the following:
 
@@ -90,7 +91,7 @@ Trello is a planning tool that allows you to make todo lists in order to organiz
 
 ### How do I put my code online? On software development platform GitHub
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="https://www.nieuws.social/strategie_nieuws/wp-content/uploadsnieuwssocial/2018/06/eult-42.jpg" width="480" alt="GitHub Video" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E" target="_blank"><img src="../assets/github-logo.png" alt="GitHub Video" /></a>
 
 GitHub is a place where you can put your code online. Why? To safely store your code in case something bad happens to your computer (computer crash, virus, faulty files). You'll always be able to access this code from GitHub, using any other computer.
 
