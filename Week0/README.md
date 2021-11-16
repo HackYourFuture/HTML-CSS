@@ -69,8 +69,6 @@ Currently, Visual Studio Code is one of the top code editors on the market. As s
 
 We can always improve what we have, including our code editor! We can add `extensions` to make our programming life much easier. Please install the following extensions as well and see for yourself!
 
-- [Live HTML Previewer](https://marketplace.visualstudio.com/items?itemName=hdg.live-html-previewer)
-- [Syntax Highlighter](https://marketplace.visualstudio.com/items?itemName=evgeniypeshkov.syntax-highlighter)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) (Make sure to enable 'Format on save' in the Visual Studio Code settings after installing this plugin)
 
