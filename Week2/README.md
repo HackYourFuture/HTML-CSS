@@ -200,6 +200,13 @@ Learn more about media queries here:
 - [Introduction to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries).
 - [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
 
+### Layouts
+
+Now that you know about all the tools at your disposal it is time to look at creating layouts, which are the most basic design of your app/website. It is important to always do this step first as any changes in the layout will affect all of the other parts in the website, whereas the smaller parts should not affect the layout.
+
+Learn more about them here:
+- [The fundamentals of css layouts](https://www.youtube.com/watch?v=yMEjLBKyvEg)
+
 ## 3. Markdown
 
 As you've probably seen, every project on GitHub comes with a file called `README.md`
