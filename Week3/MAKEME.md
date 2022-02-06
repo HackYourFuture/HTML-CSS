@@ -6,7 +6,7 @@
 2. Practice the concepts
 3. Code along
 4. Optional: Practice using frameworks
-5. Optional: CSS preprocessors
+5. Optional: Side project ideas
 6. Final notes
 
 ### 1. Prep exercises
@@ -49,13 +49,25 @@ In this section you're going to get familiar with [MaterializeCSS](https://mater
 - [Materialize Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff)
 - [Build A Travel Agency Theme With Materialize CSS](https://www.youtube.com/watch?v=MaP3vO-vEsg)
 
-### 5. Optional: CSS preprocessors
+### 5. Optional: Side project ideas
 
-In the wild you may also encounter the following terms: Less, SCSS, Sass. These are CSS preprocessors that give you some extra functionality that the preprocessor will then convert to the actual CSS file. You can, for example, create certain blocks of css code (mixins) that you can then use in multiple places. Allowing you to make sure that if you change the css in that mixin it is changed everywhere automatically.
+> A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. This is also a great time to learn new things as there are plenty of mentors available to help you out in the `#projects` channel on Slack! You will not get this amount of time and support once you start working. Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
+
+#### 5.1 CSS preprocessor
+
+In the wild you may also encounter the following terms: Less, SCSS, Sass. These are CSS preprocessors that give you some extra functionality when working with CSS. You can, for example, create certain blocks of css code (mixins) that you can then use in multiple places allowing you to make sure that if you change the css in that mixin it is changed everywhere automatically. The preprocessor will convert your code to actual CSS files and the browser will be none the wiser.
 
 For more information, have a look at:
 
 - [Sass vs SCSS vs Less: tutorial](https://marksheet.io/sass-scss-less.html)
+
+You can try to recreate your project from week 2 using one of these CSS preprocessors but you may need to add a couple more pages from the original website. The strength of the preprocessors comes when you have a lot of closely related css.
+
+#### 5.2 Parallax effect
+
+You may have seen some [beautiful websites](https://www.awwwards.com/30-great-websites-with-parallax-scrolling.html) that look more like art than a website. The techniques used in these websites are broadly called the Parallax effect and it works by making the website respond to mouse movements or scrolling. Imagine how a cool website like that would look on your CV.
+
+Try to copy one of the examples! Note that you will need to have a little bit of JavaScript knowledge to do this so if you don't have any previous programming experience you may want to wait until you have done some of the JavaScript weeks.
 
 ### 6. Final notes
 
@@ -66,8 +78,6 @@ In this module and especially this last week we have bombarded you with a lot of
 - **Use a CSS preprocessor**. If you had the time to try these out and like that they solve a couple of problems you have writing the CSS yourself then use these. They require a little setting up though that could complicate things, so make sure you understand how that works.
 
 You will always have to write some css yourself, but make sure to always choose only _one_ way of working per project, otherwise you are going to create a mess! If you are up for the challenge, then feel free to try different ways per project. It's always good to try different things!
-
-_Deadline Tuesday 23.59 CET_
 
 ## SUBMIT YOUR HOMEWORK!
 
