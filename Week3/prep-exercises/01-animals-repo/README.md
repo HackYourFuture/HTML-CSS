@@ -1,7 +1,5 @@
 # Animals repo
 
-> Tip: you can either use the CLI to make your git commands or use a GUI. The most used is [Git Kraken](https://www.gitkraken.com/) and it visualises what happens. VSCode also has an integrated Git activity tab that you can use. Try them out and see what you prefer!
-
 In this homework you'll be working with GIT and GitHub. Follow the steps to learn how to create a remote repository and work with it from your local machine:
 
 1. Create a repository on GitHub, called `animals`
