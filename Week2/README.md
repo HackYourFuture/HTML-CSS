@@ -31,7 +31,7 @@ GIT is software that allows you to save your work at any given moment in time. I
 
 You can think of it like a video game. You get to a certain point in the game, after hours of struggle. You're really proud of how far you've come, and don't want to do it over again in case you die. So you decide to _save your game_. If something bad happens after that point you can always reload your game and start from that point on.
 
-This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. A "change" is a code modification you made within a working day.
+This is exactly what happens with GIT: however, instead of calling it _saving your game_ we call it **committing your changes**. A "change" is a code modification you made in one or more files. It's recommended to commit multiple times a day, every time you make something that is worth saving. Making commits often also makes it easier to reset your work to the last working state. Discarding changes with GIT is better than to trust on CTRL-Z to undo failed attempts.
 
 If you ever would want to go back to a previous _game save_ you can make GIT help you do so by **checking out to that commit**. You will learn more about that in the next sections.
 
@@ -55,7 +55,14 @@ git --version
 
 It should say that the version is **2.21** (or up if you've installed a new version).
 
-Now that you have GIT installed, it's important to make a basic configuration. Inside your CLI, type in the following (Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively):
+You can work with GIT using only the CLI but you can also use a GUI (graphical user interface).
+Two free cross-platform examples are [SourceTree](https://www.sourcetreeapp.com/) and [Gitkraken](https://www.gitkraken.com/).
+It's up to personal preference what works the best, both CLI and GUI will use the same underlying system.
+You can even use both in the same project, e.g. commands on the CLI will reflect instantly in the GUI.
+The main advantage of a GUI is that it has a visual overview of all commits and branches, local and remote.
+
+Now that you have GIT installed, it's important to make a basic configuration. Inside your CLI, type in the following (Replace "Your name" and "your.email@youremailserver.com" with your own name and email address, respectively).
+In case you are using a GUI, it will probably ask the same data the first time you open the application, and it will do these commands for you.
 
 ```bash
 git config --global user.name "Your name"
@@ -86,12 +93,13 @@ What it does is creating a brand new **local** repository in your project folder
 Now we can continue with the actual procedure itself. This happens in 3 stages:
 
 1. **Untracked**. In this stage GIT is not aware of the changes in your workspace.
-2. **Staged**. In this stage the changes will be tracked by GIT.
+2. **Staged**. In this stage the changes are selected for the next commit.
 3. **Committed** In this stage your changes have been saved into the local repository. If you need to refer to a previous version of your workspace you can safely do that now.
 
 This might sound very abstract, and it is. So to make it more comprehensible, you can watch the following videos and/or try stuff in the Git playground:
 
-- [GIT Tutorial for beginners](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [GIT command line basics](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [Learn Git - using CLI & GitKraken](https://www.youtube.com/playlist?list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU)
 - [Introduction to GIT - Core Concepts](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 - [GIT & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [Git Playground](https://git-school.github.io/visualizing-git/)
