@@ -59,6 +59,7 @@ In this project you're going to rebuild `the homepage` of an existing responsive
 
 You don't have to build everything, but include the following requirements:
 
+- Design-wise it should be similar so the fonts, icons, text, etc. should look the same as the original
 - Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
 - Write your CSS in an external stylesheet
 - You are **allowed** to use a CSS framework, but you do not have to. It is up to you!
