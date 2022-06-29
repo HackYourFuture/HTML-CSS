@@ -59,6 +59,7 @@ In this project you're going to rebuild `the homepage` of an existing responsive
 
 You don't have to build everything, but include the following requirements:
 
+- Design-wise it should be similar so the fonts, icons, text, etc. should look the same as the original
 - Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections)
 - Write your CSS in an external stylesheet
 - You are **allowed** to use a CSS framework, but you do not have to. It is up to you!
@@ -79,7 +80,7 @@ If you like learning in a fun way there are quite a few games on the internet th
 
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
-1. GIT exercise #1 (the URL of the remote `git_practice` repository)
+1. GIT exercise (the URL of the remote `favorite-cmd-commands` repository)
 2. The responsive website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
