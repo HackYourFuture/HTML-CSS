@@ -85,6 +85,6 @@ Learn from Arco in the following playlist of videos he has made for you! (Click 
 
 Have you finished the module? Great! Pat yourself on the back for the great work you've done.
 
-If you feel ready for the next challenge, click [here](https://www.github.com/hackyourfuture/javascript1) to go to **JavaScript1**!
+If you feel ready for the next challenge, click [here](https://www.github.com/hackyourfuture/javascript) to go to **JavaScript**!
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
