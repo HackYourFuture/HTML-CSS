@@ -20,8 +20,8 @@ Inside your `HTML-CSS` fork, go to the folder `week3`. Inside of that folder, na
 We'll start the week off with some more GIT practice! Go through the following:
 
 1. [Learn Git branching](https://learngitbranching.js.org/)
-2. [Learn Git Version Control (Scenario 1 - 4)](https://www.katacoda.com/courses/git)
-3. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+2. [How to Use GIT and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+3. [Git katas](https://github.com/eficode-academy/git-katas/blob/master/Overview.md) (Do 1-4 of the Basic Git Katas and have a quick look at the Katas that solve standard problems section so you know what to do when you encounter those situations. The rest is more advanced, but bookmark this page and go through them later on when you start getting more comfortable with Git basics)
 
 ### 3. Code along
 
