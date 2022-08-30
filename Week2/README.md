@@ -135,6 +135,8 @@ When working with GitHub we want to ensure the same level of security. Thus, we 
 - [How to generate an SSH key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Adding SSH Key to GitHub](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
 
+> Note that if you are in AZC then usually the SSH port is blocked on the internet. If that is the case you cannot use SSH, so you will need to do all your communication with git using HTTPS instead
+
 ## 2. More advanced CSS
 
 By now you've had some practice with CSS. In the following sections you'll learn about some more essentials concepts in order to write modern stylesheets for the web!
