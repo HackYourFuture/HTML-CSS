@@ -84,7 +84,7 @@ For more specific information on how to setup your editor:
 Trello is a planning tool that allows you to make todo lists in order to organize and prioritize your projects. In HackYourFuture we'll use it to submit your homework for the first module. Before you start your first class, please do the following:
 
 - [Register](https://trello.com/signup) for an account
-- Get access to the `Feedback Assignments` board, by asking @Wouter in Slack
+- Join the `Feedback Assignments` board, the link to join will be shared in your Slack channel. If not, reach out to your class mentor.
 - Create a card with your name. Inside, add a CodePen URL of your technical assignment + a short description of your website
 
 ### How do I put my code online? On software development platform GitHub
