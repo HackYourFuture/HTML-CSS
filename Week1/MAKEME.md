@@ -22,7 +22,7 @@ Using the CLI, create a plain text file (`.txt`) that contains the commands nece
 
 1. How do I create a hidden file or folder? How do I display it in the CLI?
 2. How do I create multiple nested directories, like `/c/Users/myusername/these/folders/are/just/for/fun`?
-3. How do I append a message to a file, without a newline character, so the output would be:
+3. Write more than one command that will create a file that looks like the following (you are **not** allowed to use the newline character (\n)):
 
 ```
 first message
