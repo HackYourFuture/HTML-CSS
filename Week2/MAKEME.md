@@ -66,7 +66,7 @@ You don't have to build everything, but include the following requirements:
 - Make use of `flexbox`
 - Download the assets (images, other forms of media) through the original webpage, or use your own!
 - Use media queries for both tablet and mobile (This might be same for the website you're making)
-- Deploy your website using Github Pages! We leave it as an exercise for you to figure out how to do it
+- Deploy your website using Github Pages! It is very similar to what you did in week 1, have a look at the guide if you forgot how to do it.
 
 ### 6. Optional: Flexbox games
 
