@@ -50,8 +50,8 @@ In the following assignment you'll make your own Digital Resume. Here are the re
 - It needs to be one webpage
 - Your project folder should contain two files: a `.html` and a `.css` file
 - Include the following pieces of information:
-  - Your personal information (Note: _the page will be public on the whole internet_ for our review, so as a privacy-conscious individual, feel free to use fake information here)
-  - A picture of you
+  - Some personal information (Note: _the page will be public on the whole internet_ for our review, so as a privacy-conscious individual, feel free to use fake information here)
+  - A picture of you (or a fake one, https://thispersondoesnotexist.com/ provides AI generated faces)
   - A few lines about who you are
   - Education (list at least 1 education institute)
   - Work experience (list at least 1 workplace)
@@ -75,7 +75,7 @@ When writing the CSS include the following:
 After you've finished your todo list it's time to show us what you got! The homework that needs to be submitted is the following:
 
 1. The CLI challenge
-2. The Digital Resume
+2. A link to your *deployed* Digital Resume! Remember your CLI knowledge to figure out the URL to it (a webserver is just a computer and so the directories are part of the URL!)
 
 Upload both in a repository to GitHub and then upload the link to it on the Trello board: "Feedback Assignments". Go through the [guide](../hand-in-homework-guide.md) to learn how to do this.
 
