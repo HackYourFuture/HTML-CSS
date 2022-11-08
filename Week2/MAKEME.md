@@ -44,9 +44,7 @@ In the following video you'll be rebuilding a responsive HTML5 website. Put your
 
 ### 5. PROJECT: Responsive website
 
-> Before you start this exercises, make sure to create a folder inside the `hyf-html-exercises` folder. Create a `week2` folder and put this exercise files inside.
-
-> Tip: Use GIT and GitHub along the way, you can easily use this project as part of your portfolio!
+> Tip: Use GIT and GitHub along the way, so that you can practice it!
 
 In this project you're going to rebuild `the homepage` of an existing responsive website. Choose one of the following:
 
@@ -59,6 +57,8 @@ In this project you're going to rebuild `the homepage` of an existing responsive
 
 You don't have to build everything, but include the following requirements:
 
+- Create a new repository on your GitHub for your website, you can name it _WEBSITENAME-clone_
+- Create an `index.html` to make your HTML
 - Design-wise it should be similar so the fonts, icons, text, etc. should look the same as the original
 - Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections. A section is one part of the website that contains information and that needs to adjust based on the screen size. A list of company logo's or a single button is not considered a section!)
 - Write your CSS in an external stylesheet
@@ -66,7 +66,7 @@ You don't have to build everything, but include the following requirements:
 - Make use of `flexbox`
 - Download the assets (images, other forms of media) through the original webpage, or use your own!
 - Use media queries for both tablet and mobile (This might be same for the website you're making)
-- **Make use of GIT and GitHub** to keep track of your work. The name of the repository should web _WEBSITENAME-clone_
+- Deploy your website using Github Pages! We leave it as an exercise for you to figure out how to do it
 
 ### 6. Optional: Flexbox games
 
@@ -81,6 +81,6 @@ If you like learning in a fun way there are quite a few games on the internet th
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
 1. GIT exercise (the URL of the remote `favorite-cmd-commands` repository)
-2. The responsive website
+2. A link to your *deployed* cloned website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
