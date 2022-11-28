@@ -59,7 +59,7 @@ Technically speaking, you can write code for the web in any application that all
 
 Depending on the programming language, the code editor highlights special keywords, gives suggestions to some extent, adds automatic indentation and sometimes has an integrated command line interface (more on that in the next section) as well.
 
-While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as developers easier. In [this video](https://www.youtube.com/watch?v=ORrELERGIHs&t=324s) you'll get a great introduction on all the features. His code is python, so don't worry about understanding the code, it is about how to navigate the visual studio code environment.
+While your code editor does the basic job of allowing you to write code, it can always be improved to make our lives as developers easier. In [this video](https://www.youtube.com/watch?v=ORrELERGIHs) you'll get a great introduction on all the features. His code is python, so don't worry about understanding the code, it is about how to navigate the visual studio code environment.
 
 Currently, Visual Studio Code is one of the top code editors on the market. As such, we have chosen it has our default code editor to use. Click the following link to download it:
 
