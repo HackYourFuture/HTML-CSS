@@ -184,12 +184,13 @@ For further study, delve into the following:
 
 As a web developer you will write code that will display in different browsers. As such it is important that you get familiar with most major browsers in use today. These are:
 
-- [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
 - [Google Chrome](https://www.google.com/chrome/)
 - [Safari](https://support.apple.com/downloads/safari)
 - [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (Not available for Mac/Linux yet)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 - [Opera](https://www.opera.com/download)
+
+There are other browsers popping up, but they are mostly enhancements of the Chromium OS browser which is the basis of Chrome. This generally means that if it works in Chrome, it will work on those browsers too.
 
 In your HackYourFuture journey you'll mainly be using **Google Chrome** when developing, as is has great developer tools that allow us to develop web applications in an easier and clearer way.
 
