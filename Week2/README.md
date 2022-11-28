@@ -174,6 +174,12 @@ The complete guide to grid by css-tricks is the go to guide, read it here:
 
 - [CSS-tricks complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+### When to use flex and when to use grid
+
+A common question we get is when to use flexbox and when to use grid. Kevin Powell is a css master and does a great job of answering that question here:
+
+- [Flexbox or grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
+
 ### Pseudo class selectors
 
 Every HTML element can be in different states. The default state is when an element is untouched. You already know how to style for this.
