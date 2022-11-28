@@ -162,7 +162,7 @@ display: flex;
 
 This will give us the `flexbox`-specific properties, so we can develop clean and organised CSS. Check the following links to understand how this is done:
 
-- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+- [Interactive guide to flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
 - [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 
