@@ -57,7 +57,7 @@ In this project you're going to rebuild `the homepage` of an existing responsive
 
 You don't have to build everything, but include the following requirements:
 
-- Create a new repository on your GitHub for your website, you can name it _WEBSITENAME-clone_
+- Create a completely new repository on your GitHub for your website, you can name it _WEBSITENAME-copy_
 - Create an `index.html` to make your HTML
 - Design-wise it should be similar so the fonts, icons, text, etc. should look the same as the original
 - Only rebuild the homepage (which should include a navigation bar, footer, the landing section and at least 2 other sections. A section is one part of the website that contains information and that needs to adjust based on the screen size. A list of company logo's or a single button is not considered a section!)
@@ -81,7 +81,7 @@ If you like learning in a fun way there are quite a few games on the internet th
 After you've finished your todo list it's time to show us what you got! The homework you have to submit this week is the following:
 
 1. GIT exercise (the URL of the remote `favorite-cmd-commands` repository)
-2. A link to your repository of your cloned website
-3. A link to your *deployed* cloned website
+2. A link to your repository of your copied website
+3. A link to your *deployed* copied website
 
 Go through the [guide](../hand-in-homework-guide.md) to learn how to submit your homework.
