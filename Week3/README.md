@@ -80,6 +80,10 @@ While both are important to know about, it's useful to study the second way a li
 - [About forks](https://help.github.com/en/articles/about-forks)
 - [GitHub Homework flow](https://www.youtube.com/watch?v=CpYARPYGQU8)
 
+Also the following diagram will help you in understanding the principles of flow movements between the local and remote repositories.
+
+![diagram](assets/diagram.jpeg)
+
 ## 2. CSS Frameworks
 
 In order to explain CSS frameworks, we first must understand what a framework is. Let's illustrate this using an analogy.
