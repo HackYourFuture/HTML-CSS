@@ -1,8 +1,8 @@
-> If you are following the HackYourFuture curriculum we recommend you to first take a look at the complete curriculum, which you can find [here](https://github.com/HackYourFuture/curriculum).
+# DEPRECATED - HTML-CSS
+This module has been reorganised:
+- The HTML and CSS is now in the explore module, find it [here](https://github.com/HackYourFuture/explore) 
+- The CLI and Git is now the CLI-Git module which you can find [here](https://github.com/HackYourFuture/CLI-Git)
 
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/HTML-CSS/pulls).
-
-# Module #1 - HTML, CSS and GIT (Frontend)
 
 ![Module 1](assets/module1.png)
 
